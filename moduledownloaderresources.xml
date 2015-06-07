@@ -468,7 +468,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0A78431C24833E59AB07046EAC6C8FF64090381A" downloadHash="7B1187D7A8EF5491483293E2A9F0B09667DF4CF0" name="005_serpentscowl.trx" dlsize="6081679" size="22380990" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4C852519F10975356045271380E004855D8502C6" downloadHash="73FF80779F5025A759BC98CE89DC600D4BEEBE6A" name="005_serpentscowl.trx" dlsize="6116838" size="22410722" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
