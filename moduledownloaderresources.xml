@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <resource type="DirectoryEntry" hash="56AF857FCCF4C36DCD4802C2343BA9AB6C19B27A" downloadHash="00B3EE0673083658D21C50DD428BA9FCEF11FE58" name="205_dmarea.trx" dlsize="64397" size="66063" critical="false" exclude="false" urlOverride="">
     <server-ref>
@@ -282,7 +282,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="28D0D47DE4485CFC9117499DB0679302BCF91F78" downloadHash="2B85600E557CFA25DA5323AD0898038E19EE2102" name="004_boareskyr bridge.trx" dlsize="4694819" size="19486049" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E7BDA6EEC3B91E9E7163D16DA4DE844D610EAA52" downloadHash="7559C9C830A3960CB63744F5A0848B132B8B8CDB" name="004_boareskyr bridge.trx" dlsize="4676701" size="19470851" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
