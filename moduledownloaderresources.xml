@@ -336,7 +336,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AE30F0BCD4DBB6773EFF5EAE15A49CA4C94E4C1C" downloadHash="01D20B5C0240998D5EB3ED93E20E14093A01E429" name="008_dragonspearcastle.trx" dlsize="6006915" size="23594425" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6503B4605DCD064382129454DDAC0CD10AF36A63" downloadHash="F2044BF0012C380A8979731FC1B411375A3E246E" name="008_dragonspearcastle.trx" dlsize="5987664" size="23581942" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
