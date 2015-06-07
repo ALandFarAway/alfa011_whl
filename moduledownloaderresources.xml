@@ -78,7 +78,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="57791AEAD54B47EE258323F1C7DB1CB30F4C848B" downloadHash="EE82BF6E510A083767B83A1ED6374B6E6CA0610C" name="{dm} tradeway.trx" dlsize="2163316" size="9754774" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D5C33DF6A36C00241FFA289FDCF7B9E21E02AF06" downloadHash="BB908F310C22C20E025DD9CD043C32B6AE332518" name="{dm} tradeway.trx" dlsize="2238363" size="9964462" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -96,7 +96,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="971E7081E73238E5D2D050EE67C7798886F33211" downloadHash="70FC959B73E9E50456DC100A4EA698926C2D5987" name="travel_x06.trx" dlsize="7638126" size="30461908" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FDA25B356BFB2D369A8CE6A4D3A6D1A11BAFBD51" downloadHash="FC7797204F4352F1C1F80931B052F5D017B38B99" name="travel_x06.trx" dlsize="7645155" size="30463219" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -282,7 +282,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0062BCE29731CDB3E3A5F813C4D2CE76B10D8058" downloadHash="FA66720DEB8FD073E97E5810E38C44836600B1F6" name="004_boareskyr bridge.trx" dlsize="4676257" size="19471564" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="28D0D47DE4485CFC9117499DB0679302BCF91F78" downloadHash="2B85600E557CFA25DA5323AD0898038E19EE2102" name="004_boareskyr bridge.trx" dlsize="4694819" size="19486049" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -336,7 +336,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="77242BDC874B924C600EE397E83C2BF30A07262B" downloadHash="9AE57C6DC027172A81B7F7AE281319897416A1E1" name="008_dragonspearcastle.trx" dlsize="5979028" size="23564708" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AE30F0BCD4DBB6773EFF5EAE15A49CA4C94E4C1C" downloadHash="01D20B5C0240998D5EB3ED93E20E14093A01E429" name="008_dragonspearcastle.trx" dlsize="6006915" size="23594425" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -468,7 +468,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2F79913842E24CCE36670E54EBB2BC794F61946E" downloadHash="16A9D083CC914E406829A233E4F1A9C76EDFCAF8" name="005_serpentscowl.trx" dlsize="5890127" size="21744636" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0A78431C24833E59AB07046EAC6C8FF64090381A" downloadHash="7B1187D7A8EF5491483293E2A9F0B09667DF4CF0" name="005_serpentscowl.trx" dlsize="6081679" size="22380990" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -2833,6 +2833,48 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="BF4A00A097D8B5AF6D1EE6B651B70845BF52BA09" downloadHash="4A197034816554176983F20BEE63302C4725F0DF" name="160_kelemvorcrypts.trx" dlsize="221709" size="223818" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>1</string>
+      <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E11BE8C43C6363FE9C9946C01730F64B832977B4" downloadHash="F16833F33F4F9E84374988EF7FE96C9127EBA712" name="{dm} tradeway {large}.trx" dlsize="6405850" size="25160524" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>1</string>
+      <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D2438667F4CF49B8A33CE74937AAD43C9F59DA68" downloadHash="66D0D0DCF406982E2035FDC28B8A997FD31EFA9B" name="z_fx_bats.DDS" dlsize="3182" size="32896" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>1</string>
+      <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E435DB78B9A11189453DBD044832ABFEE75F28DE" downloadHash="B4A3BA346E04E6F6AAB3A38DCF2D34C5DFD141FD" name="z_fx_bats.PFX" dlsize="560" size="1532" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>1</string>
+      <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7A6692F921A17712A98BAC1BF1F7672B006D4A8C" downloadHash="D7800F60D432A84F06D86CB4AD67D3DF16470590" name="z_fx_bats.SEF" dlsize="282" size="704" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>1</string>
+      <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="34E7FED6DE1F2486DF88154EABD06F5A57CE8612" downloadHash="EA591B8246D58477AE11E20F8B894763282EC4E9" name="z_fx_bats_ccv_small.PFX" dlsize="556" size="1531" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>1</string>
+      <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="80085DD87E6CB4E5F24E5AF0EDE34A3D6C71CC18" downloadHash="936DB57310E9DD9F0B5A6A3EB35E87181277828C" name="z_fx_bats_cv_small.PFX" dlsize="559" size="1532" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>1</string>
+      <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7C29A1D7A1B215324894645979F2EB1BE11F3B59" downloadHash="619F6A00A0D7C4EAEF2E4CC5D4956E2206C9F6FD" name="z_fx_bats_small.SEF" dlsize="307" size="1240" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
