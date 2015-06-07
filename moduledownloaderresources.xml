@@ -78,7 +78,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D5C33DF6A36C00241FFA289FDCF7B9E21E02AF06" downloadHash="BB908F310C22C20E025DD9CD043C32B6AE332518" name="{dm} tradeway.trx" dlsize="2238363" size="9964462" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CFA370525B06E87549449E9935044560DC36451F" downloadHash="8CF689B0F2756CEC4917BC85CD80C063150CD0CC" name="{dm} tradeway.trx" dlsize="2226756" size="9960899" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -282,7 +282,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E7BDA6EEC3B91E9E7163D16DA4DE844D610EAA52" downloadHash="7559C9C830A3960CB63744F5A0848B132B8B8CDB" name="004_boareskyr bridge.trx" dlsize="4676701" size="19470851" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="57F6EB9ABDEEAD326B806C71BBAC62EED36D8A37" downloadHash="1712D2FABA8AF1F70FFD9B0C836D17C76AA2A337" name="004_boareskyr bridge.trx" dlsize="4713956" size="19498345" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -2838,7 +2838,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E11BE8C43C6363FE9C9946C01730F64B832977B4" downloadHash="F16833F33F4F9E84374988EF7FE96C9127EBA712" name="{dm} tradeway {large}.trx" dlsize="6405850" size="25160524" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6E3D3B1A4CEE4B80FC3C5B1ED22EDEFCD9A78F6C" downloadHash="D91F5226A857777B38AB9061A47557137C257F39" name="{dm} tradeway {large}.trx" dlsize="6408331" size="25158713" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
