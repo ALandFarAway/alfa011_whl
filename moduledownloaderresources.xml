@@ -282,7 +282,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0D03929C9E66616D89932BE95706783029AAA2EB" downloadHash="701426A7B663205A20AAAFDDA895EA41E774DF85" name="004_boareskyr bridge.trx" dlsize="4675134" size="19462861" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AA18C6CA1BAEB902B9CEBEDB99E31F9CA006F60B" downloadHash="7D55EA3843B03431157354E9342064796C152325" name="004_boareskyr bridge.trx" dlsize="4698074" size="19476564" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
