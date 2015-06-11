@@ -2880,4 +2880,10 @@
       <string>3</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="D350891CFF0F0C0AF8D5CE22245E12B1531FBACD" downloadHash="70223D8033F7CC5168BD97C5A40FF86B2A0FF51D" name="{dm} mountain pass.trx" dlsize="3194772" size="19073697" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>1</string>
+      <string>3</string>
+    </server-ref>
+  </resource>
 </content>
