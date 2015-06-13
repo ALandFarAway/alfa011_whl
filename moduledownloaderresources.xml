@@ -2880,7 +2880,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5B06B9CE4EBAB7765516FA8EAAD13C3C77C00835" downloadHash="A2963F3B4B86F01866835962FAA6BCC69C385353" name="{dm} mountain pass.trx" dlsize="5630274" size="19758409" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="834EC4F7050FD89DFDC9CA2C2E4A12F832099576" downloadHash="A2F70488F66D83291F81ADE4D7A709FE2CAE9B1E" name="{dm} mountain pass.trx" dlsize="5815810" size="20592745" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
