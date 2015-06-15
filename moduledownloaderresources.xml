@@ -228,7 +228,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7699B03587659F5710C23FE59C2724382C7212EF" downloadHash="627605C4B27A08380542087FFD9A7047EB270224" name="137_hhippocampus_ground.trx" dlsize="224156" size="494420" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C0D627E7589C4EA2E080B20E2A6288E53E643FA2" downloadHash="084AA4E19753F1F4FAFE69D5D6D7BCB74EC5638F" name="137_hhippocampus_ground.trx" dlsize="228056" size="677584" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
