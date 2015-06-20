@@ -576,7 +576,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A25E975C2D1CEDC6C2BDAFF1EB1E49FCE07F5DB1" downloadHash="208C0090E491CCF435937CEC3EA427E92F7BE5BD" name="143_fistofthefuture.trx" dlsize="139133" size="146671" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D0D43E2E76C1568FA5B6ED23EEC10A5198DBA53F" downloadHash="7A43D0FA01671388BCDE9CC022ECEF11953B6ECE" name="143_fistofthefuture.trx" dlsize="139131" size="146673" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -2880,7 +2880,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="12C265CE9E9067C599E06FB7E73B437E10E2B3BB" downloadHash="B0521180E8D3B5CE32A9C55DC9C2D3C1951598A2" name="{dm} mountain pass.trx" dlsize="6300311" size="21672309" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E9C78164C9C38A350BEB84ADE4E9FCEAFE9B7D01" downloadHash="759601EDC40C0AFEF82E5B962ADBF082A315E519" name="{dm} mountain pass.trx" dlsize="6359834" size="21759977" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
