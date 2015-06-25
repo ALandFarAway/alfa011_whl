@@ -52,7 +52,7 @@ void main() {
 	// and can even regrow or reattach severed body parts. Damage dealt to the
 	// creature is treated as nonlethal damage, and the creature automatically
 	// cures itself of nonlethal damage at a fixed rate per round, as given in
-	// the creature’s entry.
+	// the creatureï¿½s entry.
 	
 	// First, get our damages.
 	int nTotalDamage = GetTotalDamageDealt();
