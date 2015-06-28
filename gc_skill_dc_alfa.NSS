@@ -82,9 +82,9 @@
 int StartingConditional(int nSkill, int nDC)
 {
 	object oPC = GetPCSpeaker();
-	int nSkillVal = GetSkillConstant(nSkill);
+	//int nSkillVal = GetSkillConstant(nSkill);
 	
-	if (GetIsSkillSuccessful(oPC, nSkillVal, nDC) == TRUE)
+	if (GetIsSkillSuccessful(oPC, nSkill, nDC, TRUE) == TRUE)
 	{
 		return TRUE;
 	}
