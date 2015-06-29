@@ -54,7 +54,7 @@ void main() {
     // Custom code goes here.
 
 object oPC = GetLastOpenedBy();
-if (ACR_GetPersistentInt(oPC, "SJC_LYRANSHOLD_STATUS") == 2)
+if (ACR_GetPersistentInt(oPC, "SJC_LYRANSHOLD_STATUS") == 3)
 	{
 	return;
 	}

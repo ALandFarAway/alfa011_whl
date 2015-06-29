@@ -72,7 +72,7 @@ void main() {
 	
 	if (nRoll + nCheck >= nDC)
 		{SendMessageToPC(oPC, "You see the alchemical symbol for sulphur.");
-		ACR_AwardStaticQuestXP(oPC, "lockamber", 14);
+		ACR_AwardStaticQuestXP(oPC, "lockamber", 4);
 		 SetLocalInt(oPC, GetTag(OBJECT_SELF), TRUE);
 		 return;} 
 	
