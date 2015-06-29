@@ -14,13 +14,13 @@ object oPC = GetClickingObject();
 
 if (!GetIsPC(oPC)) return;
 
-if (ACR_GetPersistentInt(oPC, "SJC_LYRANSHOLD_STATUS") == 0)
+if (ACR_GetPersistentInt(oPC, "SJC_LYRANSHOLD_STATUS") <= 1)
    {
    DisplayMessageBox(oPC, 1, "Sorry, you need to have a specific quest to enter here");
    return;
    }
    
-if (ACR_GetPersistentInt(oPC, "SJC_LYRANSHOLD_STATUS") == 2)
+if (ACR_GetPersistentInt(oPC, "SJC_LYRANSHOLD_STATUS") == 3)
    {
    DisplayMessageBox(oPC, 1, "Sorry, you have completed this quest once and cannot do it again.");
    return;

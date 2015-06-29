@@ -68,7 +68,7 @@ if (GetIsDM(oPC))
 object oPartyMember = GetFirstFactionMember(oPC, TRUE);
 while(GetIsObjectValid(oPartyMember) == TRUE)
     {
-	ACR_SetPersistentInt(oPartyMember, "SJC_LYRANSHOLD_STATUS", 2, 0);
+	ACR_SetPersistentInt(oPartyMember, "SJC_LYRANSHOLD_STATUS", 3, 0);
     oPartyMember = GetNextFactionMember(oPC, TRUE);
     }
 	
