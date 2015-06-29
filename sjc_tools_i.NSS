@@ -11,7 +11,7 @@ void SJC_GivePseudoDMXP(object oPC, int iCR, int iHours)
 	int iAvLevel = GetFactionAverageLevel(oPC);
 	int iPartySize = GetNumberPartyMembers(oPC);
 	int iPartyCR = (iAvLevel * iPartySize) / 4;
-	
+	float fCR = IntToFloat(iCR);
 	int iReward;
 	
 	if (iPartyCR >= (iCR + 4))
@@ -39,7 +39,7 @@ void SJC_GivePseudoDMXP(object oPC, int iCR, int iHours)
     while(GetIsObjectValid(oPartyMember) == TRUE)
     {
 		int iTotalReward = iReward * iHours;
-		ACR_GiveXPToPC(oPartyMember, iTotalReward);
+		ACR_AwardStaticQuestXP(oPartyMember, "pseudodm", iTotalReward, fCR);
         oPartyMember = GetNextFactionMember(oPC, TRUE);
     }
 	
