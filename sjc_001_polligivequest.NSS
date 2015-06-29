@@ -1,6 +1,8 @@
-void main()
 
+#include "acr_db_persist_i"
+
+void main()
 {
 object oPC = GetPCSpeaker();
-AddJournalQuestEntry("dmq_004", 1, oPC, FALSE, FALSE, FALSE);
+ACR_SetPersistentInt(oPC, "SJC_LYRANSHOLD_STATUS", 1, 0);
 }

@@ -39,7 +39,7 @@ void SJC_GivePseudoDMXP(object oPC, int iCR, int iHours)
     while(GetIsObjectValid(oPartyMember) == TRUE)
     {
 		int iTotalReward = iReward * iHours;
-		ACR_AwardStaticQuestXP(oPartyMember, "pseudodm", iTotalReward);
+		ACR_GiveXPToPC(oPartyMember, iTotalReward);
         oPartyMember = GetNextFactionMember(oPC, TRUE);
     }
 	
