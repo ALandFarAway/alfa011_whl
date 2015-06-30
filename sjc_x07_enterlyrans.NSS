@@ -20,6 +20,13 @@ if (ACR_GetPersistentInt(oPC, "SJC_LYRANSHOLD_STATUS") <= 1)
    return;
    }
    
+if (GetGlobalInt("SJC_LYRANNEEDSRESET") == 1)
+	{
+	DisplayMessageBox(oPC, 1, "WARNING! The server will need to be restarted before this quest can be completed correctly. Apologies and thank you for your patience.");
+    return;
+	}
+   
+   
 if (ACR_GetPersistentInt(oPC, "SJC_LYRANSHOLD_STATUS") == 3)
    {
    DisplayMessageBox(oPC, 1, "Sorry, you have completed this quest once and cannot do it again.");

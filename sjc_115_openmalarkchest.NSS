@@ -52,7 +52,7 @@ void main() {
     ACR_PlaceableOnOpen();
 
     // Custom code goes here.
-
+SetGlobalInt("SJC_LYRANNEEDSRESET", 1);
 object oPC = GetLastOpenedBy();
 if (ACR_GetPersistentInt(oPC, "SJC_LYRANSHOLD_STATUS") == 3)
 	{
