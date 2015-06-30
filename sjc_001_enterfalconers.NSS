@@ -23,7 +23,6 @@ if (ACR_GetPersistentInt(oPC, "SJC_LYRANSHOLD_STATUS") == 0)
 object oTarget;
 location lTarget;
 oTarget = GetWaypointByTag("104_entrance");
-
 lTarget = GetLocation(oTarget);
 
 //only do the jump if the location is valid.
