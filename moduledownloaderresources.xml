@@ -246,7 +246,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="22E4BA62CDA3D34D01771C2C228EA52B1BFF24EF" downloadHash="33A92D2EE7036A03EDA6153D8969721C2F01FA92" name="129_dos_entrance.trx" dlsize="269709" size="273884" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9CA6C24C6C886DF1371B9C7E10AE8CEB3E84B1C0" downloadHash="9B926495F496EDC5DFDC05F6818B8F10A06B8741" name="129_dos_entrance.trx" dlsize="272590" size="276837" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -600,7 +600,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F07FB6C044C6B95A4C9A26EEC25E3A02D0FCE640" downloadHash="F93768BCA6E87FC8F929C0129CBDCA5381FE1ED1" name="104_ruined dwelling.trx" dlsize="28413" size="28533" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0CE825E24920F21B9C182C132AFA8C303BB134C2" downloadHash="0F5DEE80D2A33B4C58FA566A0FCFD6402CF60EC9" name="104_ruined dwelling.trx" dlsize="29133" size="29260" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
