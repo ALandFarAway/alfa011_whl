@@ -10,7 +10,7 @@ void main()
 {
 int iRandom = Random(3);
 
-if (iRandom == 3)
+if (iRandom == 2)
 	{	PlayCustomAnimation(OBJECT_SELF, "bardsong", 0);
 		ActionSpeakString("A boon to his people, the Great Lord preserves the wisdom of Fallen Netheril.");
 	}

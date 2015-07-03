@@ -10,7 +10,7 @@ void main()
 {
 int iRandom = Random(3);
 
-if (iRandom == 3)
+if (iRandom == 2)
 	{	PlayCustomAnimation(OBJECT_SELF, "worship", 1);
 		ActionSpeakString("Speak his fame unto all nations! At his command the Desert Anauroch stills its fiery breath and the snows of Winter become like a Summer meadow.");
 	}
