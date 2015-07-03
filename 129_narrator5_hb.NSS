@@ -8,8 +8,10 @@
 
 void main()
 {
+int iRandom = Random(3);
 
-		PlayCustomAnimation(OBJECT_SELF, "talkinjured", 1);
+if (iRandom == 3)
+	{	PlayCustomAnimation(OBJECT_SELF, "talkinjured", 1);
 		ActionSpeakString("Woe to those who plotted to harm the King! He turned their barbs and arrows against them!");
-	
+	}
 }

@@ -8,8 +8,11 @@
 
 void main()
 {
+int iRandom = Random(3);
 
+if (iRandom == 3)
+		{
 		PlayCustomAnimation(OBJECT_SELF, "talksad", 1);
 		ActionSpeakString("Weep, weep, O Anauria! Your greatest son and father to the people is no more!");
-	
+		}
 }

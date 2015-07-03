@@ -8,8 +8,10 @@
 
 void main()
 {
+int iRandom = Random(3);
 
-		PlayCustomAnimation(OBJECT_SELF, "idlecower", 1);
+if (iRandom == 3)
+	{	PlayCustomAnimation(OBJECT_SELF, "idlecower", 1);
 		ActionSpeakString("Aiee! His hand is a hammer to his enemies! We shall feel his wrath for evermore!");
-	
+	}
 }
