@@ -52,7 +52,7 @@ void main() {
     ACR_PlaceableOnOpen();
 
     // Custom code goes here.
-	if (ACR_GetPersistentInt(OBJECT_SELF, "SJC_REWARDCHEST_OPENED") == 1)
+	if (ACR_GetPersistentInt(OBJECT_SELF, "SJC_REWARDCHEST_OPENED_B") == 1)
 	{
 	return;
 	}
@@ -61,9 +61,9 @@ void main() {
 	{
 	return;
 	}
-	ACR_SetPersistentInt(OBJECT_SELF, "SJC_REWARDCHEST_OPENED", 1);
+	ACR_SetPersistentInt(OBJECT_SELF, "SJC_REWARDCHEST_OPENED_B", 1);
 	SJC_GivePseudoDMXP(oPC, 7, 1);
-	AddJournalQuestEntry("129_mummychest", 1, oPC, TRUE, FALSE, FALSE);
+	//AddJournalQuestEntry("129_mummychest", 1, oPC, TRUE, FALSE, FALSE);
 	
 	
 }
