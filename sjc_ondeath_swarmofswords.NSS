@@ -53,7 +53,7 @@ void main()
 	object oMod = GetModule();
 	ACR_SetPersistentInt(oMod, sTag + "isdead", 1);
 	//SendMessageToPC(GetFirstPC(), sTag + "is dead"); // Debug
-	object oSound = GetNearestObjectByTag("sjc_s_flyingswords");
-	SoundObjectSetVolume(oSound, 0);
+	//object oSound = GetNearestObjectByTag("sjc_s_flyingswords");
+	//SoundObjectSetVolume(oSound, 0);
 	
 }
