@@ -3301,7 +3301,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CA4D1EF5DFC452577E8030AB18BD4C08EE0CB9AE" downloadHash="B74E9E1AF5DC57518397D4641A3BEC1993926057" name="9i_soubar_ext.trx" dlsize="1596082" size="8482599" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2A6F59E53AF1BFC3CECF9E823AEEA49AD23AF082" downloadHash="2B1EE2C21E40D8DB03556BB2061C05A1E3C21F73" name="9i_soubar_ext.trx" dlsize="3727024" size="20108571" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3316,7 +3316,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="15E4617FE2EE2737931CB264DCF38E5A607E32CE" downloadHash="26DDFA48C349266C748D2E9A1285B1E709956ABE" name="1I_highmoor_trothingfold.trx" dlsize="3310889" size="18838706" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EE007103F126FF7E24DCD702C67584525A5862D8" downloadHash="B1F21F4B095646FD49ED91739A4624B7B7F60A7B" name="1I_highmoor_trothingfold.trx" dlsize="3509934" size="19259458" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3392,6 +3392,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="AE9669454539463BBCDD83AC605E14AEE1C8331A" downloadHash="E5A0007EECEBF1A0D53D1058BA794A7BE7C6BB6C" name="1g_carterhaugh_barrow.trx" dlsize="46497" size="46466" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="EF57278E17B7C2E7640B3CCA92C1DCE4487D4695" downloadHash="B1B8069CA72EFD481978CB053A97BF780C709840" name="5c_kanaglym.trx" dlsize="1098271" size="3298289" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
