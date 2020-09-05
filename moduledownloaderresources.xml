@@ -1572,7 +1572,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Tlk" hash="FFEAF14F5C8BEB2C7332CDC76195F014BD6E0A71" downloadHash="84281FD8EEBB7FB11F579AE4716C852CD9828932" name="alfa_acr02.tlk" dlsize="156214" size="1222382" critical="false" exclude="false" urlOverride="">
+  <resource type="Tlk" hash="8008B6CEB4293356C30425EC3BB132D9A7D8835A" downloadHash="7F70B021B923C7227F98BA67B3AD44EEE1F7DD27" name="alfa_acr02.tlk" dlsize="164326" size="1268699" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -3011,7 +3011,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C85A3BA337199A962751F18947A2DC99E78B4DDC" downloadHash="18EF7BB8402CAA7A381093A048DF0C3F50598004" name="8n_hillsedge_brockhollows.trx" dlsize="45203" size="45196" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D7F3C16D3B99D577A71C00E5C89F3C3D1B6F8E61" downloadHash="8C0C6910475741264E630E6476B4D551CD5C0320" name="8n_hillsedge_brockhollows.trx" dlsize="31518" size="31510" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3021,7 +3021,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C29B2D10D8673F61F903FAF917BB13773C4C474E" downloadHash="DC4404AF756F53CC1A29A6270ECDDE432DE9CCA3" name="8n_hillsedge_belkinsblackblade.trx" dlsize="13765" size="13739" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2D5C2778BEFC47C8C37985B06C1B44FF2706334A" downloadHash="D74827A7677E9FD090EAAF8A06FBD84CA0156F73" name="8n_hillsedge_belkinsblackblade.trx" dlsize="8499" size="8498" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3076,7 +3076,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C41FC551D9DA01B3FC7E55081807462E40EFA622" downloadHash="46310B78699E36794685D6473510550D8D35B21A" name="8n_hillsedge_bentbows.trx" dlsize="7949" size="7927" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8D991943AFA4CBBE7B78C3A8C42C12025B3C0FE2" downloadHash="BCDCDC057EDA1FFEE4F5ACCA4AF01714F6E769C1" name="8n_hillsedge_bentbows.trx" dlsize="6958" size="6947" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3166,12 +3166,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BA1FE1F55073DAB2B1E8A2474E9D1AE4A0571356" downloadHash="B09F22F4F25C667D4D98E8F82B66B6D3AFF1CF61" name="8n_hillsedge_lionstarservices.trx" dlsize="26082" size="26001" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E8F5B827AB8449E1A42709D85968597C75634ADA" downloadHash="6F9D68D9188F6B046695AD002B5F9E73DFC8D4FB" name="8n_hillsedge_lionstarservices.trx" dlsize="25099" size="25053" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E4B397692E4A78B4D9F2F3CE478BB5791059F7E3" downloadHash="F1DA9B5467864E4481B1C3F3F4DD1C4D2BF10232" name="8n_hillsedge_tangworkshop.trx" dlsize="45095" size="45086" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="410B11ED3DF4C249A09B0FFBD4C7339F50969C71" downloadHash="010100F773C203950E6BF0FCC1EAA1F0AC732587" name="8n_hillsedge_tangworkshop.trx" dlsize="30913" size="30895" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3186,7 +3186,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6698277DF14F2A4C712051F778CFB026F4FA82DE" downloadHash="57705205F2670175341DA3EBA4C1E97840D3EE1C" name="8n_hillsedge_the cry of joy.trx" dlsize="114880" size="116592" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A7B976085079DA0D9350AFC2C8BEDD04BCB999C3" downloadHash="C4B7B1560E467878583698AD01403557DF5C2005" name="8n_hillsedge_the cry of joy.trx" dlsize="103453" size="105306" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3221,12 +3221,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C0D627E7589C4EA2E080B20E2A6288E53E643FA2" downloadHash="084AA4E19753F1F4FAFE69D5D6D7BCB74EC5638F" name="8n_hillsedge_happyhippo_g.trx" dlsize="228056" size="677584" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="41A7CC19182E1E158CF505B1DCAC2B7BA12FDFF8" downloadHash="CFCCF97E4DB20236DB5E4A14F101C59C809FF431" name="8n_hillsedge_happyhippo_g.trx" dlsize="224488" size="674404" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="17BB5CDA4556FABC18BEB489EB4DF481C2E09EE1" downloadHash="D8A153014F48C49D8664510494FFC9A8EBBAA568" name="8n_hillsedge_knight in the morn.trx" dlsize="16888" size="16868" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="87CF5A2E69D6B58D7AD383852B25B6B4A06E23AB" downloadHash="B85D2239FEE5D2E97DDAB9D4400D846250E0DA7C" name="8n_hillsedge_knight in the morn.trx" dlsize="14214" size="14203" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3326,7 +3326,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2CBD77B48C7E2756781D0BDF3EF1A348D904B6DC" downloadHash="E57C28FFAEE5A7FD494FAC3F5B9B48CF4E6B6434" name="8n_hillsedge_jewelsofthevale.trx" dlsize="7480" size="7459" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="670D909EA9CB476ACCF94E5B73B06C4203457627" downloadHash="5E4F58FAC0A8AE2808090E5659175314C41A4F09" name="8n_hillsedge_jewelsofthevale.trx" dlsize="6664" size="6645" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3341,7 +3341,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="625338E80E24B5C625A40C046B84D7CABE182F87" downloadHash="7E906CCD300F2EA53D9AF0235731638B17738A8C" name="8n_hillsedge_crosterhq.trx" dlsize="181623" size="182806" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1FA7573FE5D7D6EECFBAC176246F439D9FB8DD2A" downloadHash="81FF84F5009584BA1EA77ACE4FC99D014B3C8285" name="8n_hillsedge_crosterhq.trx" dlsize="175790" size="176772" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3376,7 +3376,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D9A717D12A35C2DF6985CFD4147C5B5B6DAAE2E3" downloadHash="1D3E8340BF004A24DF678B95D8637DEE967160E8" name="8n_hillsedge_thievesguild.trx" dlsize="82547" size="83136" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BD74404A5024197142F99AA8029A50030C2AFCC4" downloadHash="DFA1D9C3DACC567FD9BD930E0835B325F6DDDF8F" name="8n_hillsedge_thievesguild.trx" dlsize="76164" size="76820" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3397,6 +3397,21 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="EF57278E17B7C2E7640B3CCA92C1DCE4487D4695" downloadHash="B1B8069CA72EFD481978CB053A97BF780C709840" name="5c_kanaglym.trx" dlsize="1098271" size="3298289" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="10F7BFCFB8BBB1E55CB49EF763207F4163729FE0" downloadHash="76A597E86A3BF68F87AF4CF22F5BF16499CEED9C" name="8n_hillsedge_ext_city.trx" dlsize="3717957" size="12931338" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D0D43E2E76C1568FA5B6ED23EEC10A5198DBA53F" downloadHash="7A43D0FA01671388BCDE9CC022ECEF11953B6ECE" name="8n_hillsedge_fistofthefuture.trx" dlsize="139131" size="146673" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9FB123DAE279BA3044F913107D126204C7631C7A" downloadHash="E33586032FC99DDBC7743060DF6DADA56729938D" name="8n_hillsedge_area_rivergate.trx" dlsize="3520312" size="21065990" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
