@@ -735,6 +735,16 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="B67492159CB747E73E53148711F31A228B641A22" downloadHash="9A97BBAF4AA2E37F7A3487D6CB52670E7ACF0F89" name="oldmoduledownloaderresources (2).XML" dlsize="31042" size="202414" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B67492159CB747E73E53148711F31A228B641A22" downloadHash="9A97BBAF4AA2E37F7A3487D6CB52670E7ACF0F89" name="oldmoduledownloaderresources.XML" dlsize="31042" size="202414" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="D70125FAD9A7B628C8EB6F7C5915169DE232D889" downloadHash="FB9C7A6709F9B5A2D89B33AEE535438EFE1A3952" name="pzo9016-zirnakaynin.TGA" dlsize="440489" size="786476" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
