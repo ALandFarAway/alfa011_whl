@@ -54,7 +54,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A7C03D2AD6246F05EC95C49AC6282D85766A994E" downloadHash="F28F10BE3B3F63F784953C70855AF385860E5C3D" name="unlinked tradeway.trx" dlsize="2236437" size="9961056" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DF019AFF9384628B3BDCD4A7323508F88D8BD2A8" downloadHash="3F9EDF5FFA829BB7DDC704EF8EB855693AAF601C" name="unlinked tradeway.trx" dlsize="2233346" size="9956556" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -78,7 +78,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DCB3D1DEF9116E12B1DFF74B2568030342A671ED" downloadHash="46852E16F140196160107801A313649D10CA6A3A" name="8i_serpentscowl_ext.trx" dlsize="6094606" size="22406962" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0EFA3403820200E485CBB5EB2773D5FB7826A1F5" downloadHash="B748CA43F80F0A09CA569FF39A7B7847F9815CD2" name="8i_serpentscowl_ext.trx" dlsize="6138325" size="22458889" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -138,7 +138,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FDA25B356BFB2D369A8CE6A4D3A6D1A11BAFBD51" downloadHash="FC7797204F4352F1C1F80931B052F5D017B38B99" name="travel_x06.trx" dlsize="7645155" size="30463219" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="40AB867DDB6DF13516F6F5E4C0570085A79C4286" downloadHash="4C102EA170026E0CAB8BDED7E235FA3F0C920587" name="travel_x06.trx" dlsize="8326841" size="31233905" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -228,7 +228,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FE0AAA6B0EE5473B3065103D440CAFB6455B716B" downloadHash="7927FECAC65C5D02D41416DA1193D761B853F6FE" name="unlinked_generic_crypt.trx" dlsize="300085" size="301074" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6ACEF059EE17316BE9FBA5F8B91A14634062AB51" downloadHash="5A1FCEEA3BD3CF5950CA2AE73ABE69D1C4E55259" name="unlinked_generic_crypt.trx" dlsize="299768" size="300864" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -450,7 +450,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9C8AB35C2A0A89CFB7DFA6E3986DE1AC2AFEB798" downloadHash="21EF8AB01D8A40A66C0A94799A374499AB1C1F87" name="145_copperheaddelve.trx" dlsize="208358" size="210279" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6835CA8C09FDF8CF6D076837B2C83A479E36F796" downloadHash="54892D140213ECA2DA2D8169ECF74BD648B070B7" name="145_copperheaddelve.trx" dlsize="211899" size="213875" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -492,7 +492,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6503B4605DCD064382129454DDAC0CD10AF36A63" downloadHash="F2044BF0012C380A8979731FC1B411375A3E246E" name="5c_dragonspearcastle_ext.trx" dlsize="5987664" size="23581942" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="54FAF694C311B4A32A9266757C5831BED59FD3C4" downloadHash="FEBBB0AC7A01C341B67EA67D4AC4C3CBF7996DE1" name="5c_dragonspearcastle_ext.trx" dlsize="5891956" size="23459088" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -588,7 +588,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C19C996A33C631DEAC3C3A02E0003EC93839DA98" downloadHash="2705F36E373F1D13F5AB16B2798E13F0861FEF5E" name="_011_startarea.trx" dlsize="147211" size="149770" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6D923EF6C5992C53445A7A7A2D2C9AEE91C9FA82" downloadHash="2C944A4EB96E25C4F01EE3A5D88108C5E4344B90" name="_011_startarea.trx" dlsize="148435" size="150973" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1772,7 +1772,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="27C3F6ADFF7A459A66D28A0847F2F25DE6C376C5" downloadHash="142FB6D22B50579399609350C2E3643F05C098FD" name="alfa_tiles2.hak" dlsize="171286330" size="171286330" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="27C3F6ADFF7A459A66D28A0847F2F25DE6C376C5" downloadHash="142FB6D22B50579399609350C2E3643F05C098FD" name="alfa_tiles2.hak" dlsize="171286330" size="1076329380" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
@@ -1850,6 +1850,81 @@
       <string>1</string>
       <string>2</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="69C891135BBF0058E11302F4596DC3B9FD708DBB" downloadHash="E6D79F8478478C4DC0DC3CF3ED2C2E0964A50692" name="fx_weapontr_stars.SEF" dlsize="484" size="1780" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C555F61455A3644F0A287964E96F92DBA72DF98E" downloadHash="E9CC3B053F5D150136F62C464364517D1B513D04" name="fx_weapontr_bluefire.SEF" dlsize="514" size="3391" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E8FE6A998E5348E6B778FB16986AAF72C1B59180" downloadHash="479BA7535DD4DA1AA6787747B87D4BCA0B949062" name="fx_stars.SEF" dlsize="537" size="2429" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BC7402DAE14834487CF93E26FA4985E4DC4D3946" downloadHash="B9D07C48E4C66F1386210D2DDB000C3133A3AE3A" name="fx_icebody.SEF" dlsize="335" size="855" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C7B2DA8BB7EF266985F9AF53563F87F333BCF2B1" downloadHash="6F0491ABEE6F6DD10B012F9EB21DBCBE8850326D" name="fx_driftglobe.SEF" dlsize="640" size="4045" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DDD1BB868EC3137BE2A1B0F2509B73FDBE235299" downloadHash="9B562199436B6DC53B880A0545479B8E08E22A0C" name="fx_ceilfog.SEF" dlsize="367" size="4367" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5F095B62236A89F72D0AF773D2E1063D4C199F57" downloadHash="E58D955319CD025014DE4EFF45767CE88A40D8A2" name="sp_cloud.SEF" dlsize="278" size="705" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7F7B0411299C5FE0F32BB5B54307D419B93DF784" downloadHash="D6ECD2C31971AA3043FD384C34628E1CF4F5C023" name="fx_stars_fx1.PFX" dlsize="556" size="1544" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="00A0108E04FA4AC01F985F2FC42B364933565CF2" downloadHash="1A64D2A8DA4A576E00A0774C6AA0D38958487B6C" name="vs_nhelmcleric.SSF" dlsize="165" size="1216" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0E676B07D136B6E93A16F3A60C8824D3613084E1" downloadHash="82A886078F0728F337C0AC714C5D86E073BC5FEE" name="vs_nfvillager.SSF" dlsize="254" size="1216" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D23FB1867C04FA52F9F9A86299205E02B3860026" downloadHash="F99389870E0714EBBA1DA0C3F71579E09A22F785" name="vs_nflamingfist.SSF" dlsize="173" size="1216" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="12CD6B6C525376704262627A30545CA0DFA18899" downloadHash="D9F2C30D1A6BDB6207CC497E1A029A5D884891FD" name="vs_namnguard.SSF" dlsize="166" size="1216" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="219BC5BF8E9C49FED56405ABE1E92E8DE8EB2F3A" downloadHash="79FA4E7DB673F521376BCC606FEB81FCD8040A6E" name="sp_cloud.PFX" dlsize="571" size="1543" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5391AD67E981CF8B9494BA7680AAC45C2D7A6BAA" downloadHash="6D78270EA6D8C8B2AFB8E32F0DF6BC75FEE75D6C" name="fx_weapontr_stars.PFX" dlsize="560" size="1546" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DB92940D1A3F1BA2C916A3CCCFD316864953F2D0" downloadHash="CB606C94217CB15F25E989F7A7F61D5B5DC028C5" name="fx_ceilfog.BBX" dlsize="405" size="978" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
