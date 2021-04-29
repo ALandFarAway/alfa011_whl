@@ -588,7 +588,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="208DF396C81F8A760F92E831031E91BCBE918FF4" downloadHash="339DE345C02F1FB4B359B2EED721DAA78DA9F2CB" name="_011_startarea.trx" dlsize="149159" size="151656" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="919E0BFBE68EC690AAB54B9A0F98F94375A28B98" downloadHash="9A02E3504BAE144FB57446D75C0A7DDF56439725" name="_011_startarea.trx" dlsize="149081" size="151646" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1640,18 +1640,21 @@
   </resource>
   <resource type="DirectoryEntry" hash="D2438667F4CF49B8A33CE74937AAD43C9F59DA68" downloadHash="66D0D0DCF406982E2035FDC28B8A997FD31EFA9B" name="z_fx_bats.DDS" dlsize="3182" size="32896" critical="false" exclude="false" urlOverride="">
     <server-ref>
+      <string>0</string>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="E435DB78B9A11189453DBD044832ABFEE75F28DE" downloadHash="B4A3BA346E04E6F6AAB3A38DCF2D34C5DFD141FD" name="z_fx_bats.PFX" dlsize="560" size="1532" critical="false" exclude="false" urlOverride="">
     <server-ref>
+      <string>0</string>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="7A6692F921A17712A98BAC1BF1F7672B006D4A8C" downloadHash="D7800F60D432A84F06D86CB4AD67D3DF16470590" name="z_fx_bats.SEF" dlsize="282" size="704" critical="false" exclude="false" urlOverride="">
     <server-ref>
+      <string>0</string>
       <string>1</string>
       <string>3</string>
     </server-ref>
