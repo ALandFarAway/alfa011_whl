@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <resource type="DirectoryEntry" hash="E57ED5BABD5B9B6455EE9B98DAE0ABC72A700F56" downloadHash="15FA5176BFC92BC2881F199E2B40C1EC10BCCB68" name="9g_boareskyr bridge_ext.trx" dlsize="4700161" size="19490231" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1A3BEC896333D933F7CF5C2CC1F8E5FF4668BC46" downloadHash="F01DAD97CA678F97C485EC3FA32C127A845FC44B" name="9g_boareskyr bridge_ext.trx" dlsize="4743521" size="19504866" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -450,7 +450,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6835CA8C09FDF8CF6D076837B2C83A479E36F796" downloadHash="54892D140213ECA2DA2D8169ECF74BD648B070B7" name="145_copperheaddelve.trx" dlsize="211899" size="213875" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1E751FA2E801A19B1E74A3D38054D9ACE91E8EC0" downloadHash="1AF48FFD5D8467E01B91E3EC20A0ED1DFA078471" name="145_copperheaddelve.trx" dlsize="202544" size="204419" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -492,7 +492,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="54FAF694C311B4A32A9266757C5831BED59FD3C4" downloadHash="FEBBB0AC7A01C341B67EA67D4AC4C3CBF7996DE1" name="5c_dragonspearcastle_ext.trx" dlsize="5891956" size="23459088" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2C5212E393E49F8A58CD60220D8C3572E52D93F3" downloadHash="BB162AF19F29CF1A0A696A92406C590A6A8E114C" name="5c_dragonspearcastle_ext.trx" dlsize="5894004" size="23460242" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -564,7 +564,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0C754E315D6739557ACAF24D666C53D44323A52D" downloadHash="7B7731B5E7CB167D6683FCF3681F662FF0A01661" name="undermoor (4,2).trx" dlsize="312968" size="3850447" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A603BD1A092FC8B9149D9BBE8F134B20299EF89D" downloadHash="F5163558995B7F1EE00E742E831413AD33E18F90" name="undermoor (4,2).trx" dlsize="312708" size="3850503" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1926,6 +1926,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="DB92940D1A3F1BA2C916A3CCCFD316864953F2D0" downloadHash="CB606C94217CB15F25E989F7A7F61D5B5DC028C5" name="fx_ceilfog.BBX" dlsize="405" size="978" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A086473125E37DC39CF2D5DD13730FEC94A4D01C" downloadHash="CA808400A14D0EF8A66F37F9AB66635DC8C1E30C" name="9h_tradeway.trx" dlsize="1731266" size="14587538" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
