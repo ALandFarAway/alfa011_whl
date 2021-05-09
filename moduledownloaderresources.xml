@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <resource type="DirectoryEntry" hash="1A3BEC896333D933F7CF5C2CC1F8E5FF4668BC46" downloadHash="F01DAD97CA678F97C485EC3FA32C127A845FC44B" name="9g_boareskyr bridge_ext.trx" dlsize="4743521" size="19504866" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EB897AE3AE47C7DC259152B27058A0E63A05A5F3" downloadHash="284DEAE9B3BC635255B0594995C3FA6B7774749E" name="9g_boareskyr bridge_ext.trx" dlsize="4761065" size="19475031" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -30,7 +30,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="53AB02C39F7F791FEF729A545042426C74B9FC7B" downloadHash="66E9049E5CD203932F2ED7823B4434CCC742E96E" name="9i_soubar_winding way.trx" dlsize="287332" size="288638" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F1A9E34D2A29756CE7BE8265357E4F40AEFCE12C" downloadHash="D6F75FEFE34D6AC357984875D99FD38EECA82295" name="9i_soubar_winding way.trx" dlsize="290067" size="291401" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -65,7 +65,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0EFA3403820200E485CBB5EB2773D5FB7826A1F5" downloadHash="B748CA43F80F0A09CA569FF39A7B7847F9815CD2" name="8i_serpentscowl_ext.trx" dlsize="6138325" size="22458889" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="78E39FA76755F5F2D8D1060D7912FC3AD86C73FA" downloadHash="9FE09E5922C06DB3B08BF948E1B97B751DADABBA" name="8i_serpentscowl_ext.trx" dlsize="6109393" size="22396219" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -270,7 +270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A086473125E37DC39CF2D5DD13730FEC94A4D01C" downloadHash="CA808400A14D0EF8A66F37F9AB66635DC8C1E30C" name="9h_tradeway.trx" dlsize="1731266" size="14587538" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DC44E8375E86D83DC32E088B522DA3CC1D643E82" downloadHash="A88FA68769E0B512FA150216B3F9C4258D086D90" name="9h_tradeway.trx" dlsize="2142874" size="14702588" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -325,7 +325,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="713881D495A36540F3212B2BEB52D04E7BC2DBA9" downloadHash="A99E5F1268183A633FAC95CAD5BCE5BE4CC98EAF" name="9i_soubar_heroesguild.trx" dlsize="31571" size="31520" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DA2128EC7F5E5ABF171B6174548A00AC45AF1A99" downloadHash="C831D5DCBEF3A46F3CC3D4A3E4D5CF814E36C6D4" name="9i_soubar_heroesguild.trx" dlsize="29278" size="29226" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -365,7 +365,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8161B881FE549088AF52B43176858C724157BE90" downloadHash="4D14E6E1B205B9282AE315F0067D7CC58B3E66EE" name="009_copperheadroad.trx" dlsize="1957132" size="8687020" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AAEDBC04574BE40BF11674A0C41E1BAF02CC3225" downloadHash="D78354CC18512424A8C50F325D43088557EB8A02" name="009_copperheadroad.trx" dlsize="1957574" size="8688520" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -445,12 +445,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E80E0C9AE89F115FF5B48529F94A18A07D123F07" downloadHash="9C01A13D40FAD8E33963647506FFC8E27B9A268B" name="9i_soubar_playerhousing.trx" dlsize="134021" size="404162" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CCEB4FFC87D2B437C11195262B626ABC40E2558E" downloadHash="94E326AD8595896B86886137938278D716E2E6EF" name="9i_soubar_playerhousing.trx" dlsize="137034" size="406955" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2A6F59E53AF1BFC3CECF9E823AEEA49AD23AF082" downloadHash="2B1EE2C21E40D8DB03556BB2061C05A1E3C21F73" name="9i_soubar_ext.trx" dlsize="3727024" size="20108571" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D6B7BFC24505EB4F051469C18F59B98C627B71E2" downloadHash="171535B1A654ECE8B00F45E78027E94953AD9F96" name="9i_soubar_ext.trx" dlsize="3711352" size="20090651" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -495,7 +495,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="919E0BFBE68EC690AAB54B9A0F98F94375A28B98" downloadHash="9A02E3504BAE144FB57446D75C0A7DDF56439725" name="_011_startarea.trx" dlsize="149081" size="151646" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2C3B6FBD82AD22F0B03CEA7D1F83666BCA677EEF" downloadHash="617F2D6D4C2765A25FC33401C6EF2C15C6F5840C" name="_011_startarea.trx" dlsize="148897" size="151547" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1598,6 +1598,26 @@
       <string>1</string>
       <string>2</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="CC0663CC811BF6DF54A1828222CE699253E5090F" downloadHash="8CE7D0E9E19A6176B003D3939F5A2F075CC3F250" name="9i_soubar_merch_interiors.trx" dlsize="239311" size="282749" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1E751FA2E801A19B1E74A3D38054D9ACE91E8EC0" downloadHash="1AF48FFD5D8467E01B91E3EC20A0ED1DFA078471" name="8h_copperheaddelve_in.trx" dlsize="202544" size="204419" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5EF52FAC13304258538A246D3712CECE7DDEA03B" downloadHash="F68DFA35CE2BEBAFE6F737E888DE6B37DC7DB337" name="8h_copperhead_road.trx" dlsize="3019856" size="15935296" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C5810FD4100EEC286E7704132CA71A2CA412A634" downloadHash="7ADDBFD9898803A5CB96EF9BABE09BCBB14A9C21" name="8i_copperhead_road.trx" dlsize="1436372" size="14617642" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
