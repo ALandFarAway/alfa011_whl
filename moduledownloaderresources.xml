@@ -1605,17 +1605,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1E751FA2E801A19B1E74A3D38054D9ACE91E8EC0" downloadHash="1AF48FFD5D8467E01B91E3EC20A0ED1DFA078471" name="8h_copperheaddelve_in.trx" dlsize="202544" size="204419" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A92DC3627DF556A550E807AE465DCA85046272C5" downloadHash="2E11EA1BC155A7AA9BC02A7E0F69EED7DBCCC91B" name="8h_copperheaddelve_in.trx" dlsize="202540" size="204417" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5EF52FAC13304258538A246D3712CECE7DDEA03B" downloadHash="F68DFA35CE2BEBAFE6F737E888DE6B37DC7DB337" name="8h_copperhead_road.trx" dlsize="3019856" size="15935296" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F30868052A57FA12FAE0749AF60DFEA09B0D7CE2" downloadHash="8853372DF89B987343FDE1AD692FC15B70D71FD7" name="8h_copperhead_road.trx" dlsize="3313853" size="15984866" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C5810FD4100EEC286E7704132CA71A2CA412A634" downloadHash="7ADDBFD9898803A5CB96EF9BABE09BCBB14A9C21" name="8i_copperhead_road.trx" dlsize="1436372" size="14617642" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="902023C4845F2E35ECB6E87F2EAAF5AA32D2AD85" downloadHash="37C550AC718183CE41AFA183AD1AB077D0702ACE" name="8i_copperhead_road.trx" dlsize="2283235" size="15090093" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="80DE5A02D0E7DE1219EBA8894C2F56F002286995" downloadHash="F2E9590745B6F1B764F3798376532DA53FBEEB27" name="9h_tradeway_farms.trx" dlsize="3471579" size="17471851" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
