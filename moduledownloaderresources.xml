@@ -1620,7 +1620,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="80DE5A02D0E7DE1219EBA8894C2F56F002286995" downloadHash="F2E9590745B6F1B764F3798376532DA53FBEEB27" name="9h_tradeway_farms.trx" dlsize="3471579" size="17471851" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="90E4BA826214686964E60479C144188CC97F7953" downloadHash="AA495B0920A23C6E3B34346D09F0EC9CCDE87BB1" name="9h_tradeway_farms.trx" dlsize="3532548" size="17528290" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
