@@ -325,7 +325,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DA2128EC7F5E5ABF171B6174548A00AC45AF1A99" downloadHash="C831D5DCBEF3A46F3CC3D4A3E4D5CF814E36C6D4" name="9i_soubar_heroesguild.trx" dlsize="29278" size="29226" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4C1A8916954C4D92D3731EC80ACD929D85BBFA50" downloadHash="D4DE3CD3044798321727C972A2FC779A43620A6A" name="9i_soubar_heroesguild.trx" dlsize="28694" size="28651" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1610,17 +1610,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F30868052A57FA12FAE0749AF60DFEA09B0D7CE2" downloadHash="8853372DF89B987343FDE1AD692FC15B70D71FD7" name="8h_copperhead_road.trx" dlsize="3313853" size="15984866" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="10A28637A284F47F9FABA625292F21530B3A1362" downloadHash="505758D7B419D116D4D3B338F17F5727807A1C3D" name="8h_copperhead_road.trx" dlsize="3330106" size="16018704" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="902023C4845F2E35ECB6E87F2EAAF5AA32D2AD85" downloadHash="37C550AC718183CE41AFA183AD1AB077D0702ACE" name="8i_copperhead_road.trx" dlsize="2283235" size="15090093" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BADD671BA3A71132B66559B41D3CC27C67EB750E" downloadHash="68E1AAFFEC0E35D919068681489E9343FC076FBD" name="8i_copperhead_road.trx" dlsize="1974962" size="14816907" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="90E4BA826214686964E60479C144188CC97F7953" downloadHash="AA495B0920A23C6E3B34346D09F0EC9CCDE87BB1" name="9h_tradeway_farms.trx" dlsize="3532548" size="17528290" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AAA87AE73503603F22D59BA97FBB1B950ABB8456" downloadHash="8FF450C14EBCB4E6C3499C794F7914686DA369A3" name="9h_tradeway_farms.trx" dlsize="3645990" size="17541048" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
