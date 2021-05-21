@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <resource type="DirectoryEntry" hash="76B7F8D6733FF11AEE5D616169BB7E81AD013B40" downloadHash="F717803E28D09EAC1FEF9FD0B0C0CDD97D5BB6F8" name="9g_boareskyr bridge_ext.trx" dlsize="4758742" size="19470890" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="452BBF67D2835115E6CB9B9986ADE730B0ABA0C9" downloadHash="F2E99A11003881605312BC39EF1E84E7FF51ED22" name="9g_boareskyr bridge_ext.trx" dlsize="4719377" size="19436679" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -355,7 +355,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="85C0AE5D60A19D6930696E2A81B128643A0D490B" downloadHash="25E3261F7A292B13D1F4B73B3FF842D576D83406" name="unlinked highmoor-lg.trx" dlsize="8323511" size="33093024" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F456A3E927CC88C411FA2DEFC424ACE9EE433EEB" downloadHash="990DCB3FA3BD1364D317EAAC29A6CA4714F7DB39" name="unlinked highmoor-lg.trx" dlsize="8346634" size="33099542" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1472,7 +1472,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="3F54F2A76BE356CB1701DD4EA39B667A6EA7F009" downloadHash="BB14058E0D531551E42B4E5A1748C6E5660A1273" name="alfa2_acr.hak" dlsize="4193146" size="144272909" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="2A423FC408EC8CC3349948850BDF49EF7197163C" downloadHash="0E1EA6425E5ACD8CD76CE5D2361C0281E9A86A8F" name="alfa2_acr.hak" dlsize="4198624" size="144259622" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
@@ -1621,6 +1621,91 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="AAA87AE73503603F22D59BA97FBB1B950ABB8456" downloadHash="8FF450C14EBCB4E6C3499C794F7914686DA369A3" name="9h_tradeway_farms.trx" dlsize="3645990" size="17541048" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D9CB8D9B7661CBC1340661D2EA5F665A34DDE84B" downloadHash="7C4E6CF6C1EB9F92A2E54B8434A1E6B92E9D9A8C" name="zz_9i_s_soubar_shadowsoubar.trx" dlsize="1691069" size="8807644" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5EB6C92D84781F7CD13D826DD9D5007EA310FB71" downloadHash="2F2F628501FEFA5E2FAB03A94360E565F28B8013" name="zz_9i_s_shadowwindingway.trx" dlsize="234385" size="235066" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="70EE0E33DB88D3034AD27D98070748046A586ECD" downloadHash="723102B2F583AB43129A24C75CBE7C6BD054D10E" name="travel_x02-moor.trx" dlsize="5638741" size="20889494" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3DFDEC3156AE0C989B31E0ACBE4763D6A520E229" downloadHash="4FCF1CB6D98EDAE6265F49532BAE73C672253960" name="travel_x03-marshes.trx" dlsize="6997107" size="25129685" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BA49FE5B4E95801C261E4D396B619DBA9BE22A35" downloadHash="54A0A5E13F8DB7EFD89B5BCD15324D4FC5BF928B" name="7d_tradway_trollbark.trx" dlsize="1213993" size="14453594" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2ECCFA71E000826C0BA9504562D580BEFEBBE3AA" downloadHash="4C6EB6FB176783CD64E675F630BC4DBEF2FBEEC7" name="travel_x04-backlands.trx" dlsize="5893905" size="18448389" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="481A6BED0431EDA7F173C3459E6AB68560D62C04" downloadHash="3E15724214129403121D1DB115DD75EE44B87940" name="travel_x07-forestwyrms.trx" dlsize="8133524" size="31217847" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0400F005436CE63559D9E9417D3CE04D2B4723D8" downloadHash="93FBEE9786F1B855619A4994E82EEDF625B8F192" name="zz_9i_s_shadowcrypts2.trx" dlsize="397681" size="401152" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="46998C7F61B0A4D11EDBAD6D4773373AD857E577" downloadHash="B20F57262A3175FA6F98E0022FB39BFCEE7D898C" name="zz_9i_s_shadowcrypts1.trx" dlsize="238559" size="240840" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="46CF6E182E43A91F6D7D158CC8CF7EE3684244AF" downloadHash="AB5F3B7DDE57DBA7FBC781A992433FE40DB9E241" name="travel_x08-lowroads.trx" dlsize="7901973" size="29597044" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="18CCAAFE40B5E78C12E72136D34F139118AA3196" downloadHash="29CDB01FA068C27726ED64671FDD0B75DA2E1BD7" name="travel_x06-southern roads.trx" dlsize="8411964" size="31335774" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DD000B15B37EC965DECBEA5712AA344792F80607" downloadHash="7272BC74FFF9678094CAB1F286274C417EAF3FF8" name="8f_tradeway.trx" dlsize="2711256" size="14925261" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="32FD086AD8D0C12EF1E3B655112E9CE6D4CC8D51" downloadHash="1818839F27B332FAE6624279B4D6669438D010AF" name="9f_coastway.trx" dlsize="1436086" size="14731964" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="42FB0DF89ED94FE1D602A4533E90FB99D9F83BD6" downloadHash="0D99DE82AEB80052811A32CB7667FCC4C9413BD1" name="6e_tradeway.trx" dlsize="1063346" size="14479152" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4BEE40CB7D68E6E528A38E19C67C140855615621" downloadHash="E71592CE9C6FD9E3AB97FDE55C95369F0B2FD11D" name="8e_tradeway_coastway.trx" dlsize="2882789" size="14925795" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2C5212E393E49F8A58CD60220D8C3572E52D93F3" downloadHash="BB162AF19F29CF1A0A696A92406C590A6A8E114C" name="5c_dragonspearcastle_ext1.trx" dlsize="5894004" size="23460242" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4781CE9989E6005FFBDE4046238B12982611565B" downloadHash="8E80E3EBF8A4CDCB7A4A7DEC3AD3131941FFAB43" name="7e_tradeway.trx" dlsize="2755464" size="14987761" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
