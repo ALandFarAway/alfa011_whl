@@ -290,7 +290,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0F94C2602F4363ABCF197DA570BAB9BDAC58C9E1" downloadHash="52871EA0EE49091D87DA2FC2D74163EE16F6E3E0" name="_dmarea.trx" dlsize="63489" size="65083" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3DEA7313CD491AE3D35FDB41D5FCAF5D8E7C39A2" downloadHash="8D6F5EC37870B4335DEB8B58A642D00B3B55C94A" name="_dmarea.trx" dlsize="64449" size="66128" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1680,7 +1680,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DD000B15B37EC965DECBEA5712AA344792F80607" downloadHash="7272BC74FFF9678094CAB1F286274C417EAF3FF8" name="8f_tradeway.trx" dlsize="2711256" size="14925261" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FBDAFC85E263F3B6BDC64EC1F332B1853C5CCA0C" downloadHash="B3F037CCFD602116B28D3C195BF92B49B15391BB" name="8f_tradeway.trx" dlsize="2670453" size="14893880" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1706,6 +1706,41 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="4781CE9989E6005FFBDE4046238B12982611565B" downloadHash="8E80E3EBF8A4CDCB7A4A7DEC3AD3131941FFAB43" name="7e_tradeway.trx" dlsize="2755464" size="14987761" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="33BA125E1DB6C02652EF4C51000F8878C90C1A5D" downloadHash="4B3A34FC8720A75DD5A250BE3A1D3C99E9D190C7" name="4a_tradeway_wayinn_int.trx" dlsize="528158" size="535277" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="97C10D6743C45D92A638FFF4A866DFFF0A449CD6" downloadHash="1E3F89254DD4AF4F14F338A819871289C0095784" name="5b_tradeway.trx" dlsize="846522" size="14432671" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E0AF8CC5649FBD8ECB7DE2915B14504C1985ECFF" downloadHash="765CA56785F3F2E57708BA7621C7032A37F06EA9" name="6c_dragonspearcastle_ext.trx" dlsize="5886523" size="23457095" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="AE66E482FD64EC6CFEAC1435AD432CD3339D24A9" downloadHash="2CAF7F212FCB94258794D5FBA733998002DCA682" name="zz_5c_dragonspearcastle_shadow.trx" dlsize="5969337" size="23536551" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="572EB6514B19E3162AA7B79681C385BFCEA79273" downloadHash="6FB5029A6CD7F49C6CC57F36AB2FA72F200F904B" name="4a_tradeway_wayinn.trx" dlsize="1717840" size="15235092" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="42FB0DF89ED94FE1D602A4533E90FB99D9F83BD6" downloadHash="0D99DE82AEB80052811A32CB7667FCC4C9413BD1" name="6d_tradeway.trx" dlsize="1063346" size="14479152" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1B003D002626E5352934AE732A713E8D17D800D2" downloadHash="679779E655E6CEB7583BD066AEB57EF12FB50B64" name="plc_mod_toolladle.UEN" dlsize="461" size="1282" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
