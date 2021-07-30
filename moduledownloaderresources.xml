@@ -450,7 +450,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D6B7BFC24505EB4F051469C18F59B98C627B71E2" downloadHash="171535B1A654ECE8B00F45E78027E94953AD9F96" name="9i_soubar_ext.trx" dlsize="3711352" size="20090651" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="198607007CF967D0C5B4EF69D11AA292934434C6" downloadHash="7AE98F90039C67E216AC24EEAA99C3FBAE81D530" name="9i_soubar_ext.trx" dlsize="3716578" size="20081333" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -560,7 +560,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F21ADE2936F6829A9361CDB51FE5CD5D1AB8AA8F" downloadHash="9787ACE51DD87F3CED16FBFB6D7D7E419A8895E3" name="8n_hillsedge_area_rivergate.trx" dlsize="3534318" size="21065598" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="958D9D6C8BE89A07AFDF88AD8A6926B8AF90F9B0" downloadHash="BABABEA3EDBF08CD21D5262D6060E3BB8AC76F97" name="8n_hillsedge_area_rivergate.trx" dlsize="3506196" size="21040479" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1715,12 +1715,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="97C10D6743C45D92A638FFF4A866DFFF0A449CD6" downloadHash="1E3F89254DD4AF4F14F338A819871289C0095784" name="5b_tradeway.trx" dlsize="846522" size="14432671" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CD22DD7ED04B7B90284BDC81BD9E0E1126D96F31" downloadHash="323AAF09387870CD531BF485F3496C19324AC46C" name="5b_tradeway.trx" dlsize="877816" size="14433184" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E0AF8CC5649FBD8ECB7DE2915B14504C1985ECFF" downloadHash="765CA56785F3F2E57708BA7621C7032A37F06EA9" name="6c_dragonspearcastle_ext.trx" dlsize="5886523" size="23457095" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B79FC16EF2244CEBF9701CF820F89E7148C6C67C" downloadHash="230D88BB7BEB5CEC284F6AA2611A394A9CB76386" name="6c_dragonspearcastle_ext.trx" dlsize="5885054" size="23458282" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1741,6 +1741,46 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="1B003D002626E5352934AE732A713E8D17D800D2" downloadHash="679779E655E6CEB7583BD066AEB57EF12FB50B64" name="plc_mod_toolladle.UEN" dlsize="461" size="1282" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="71AFDF8B38E43430B8BC4FB2F65AA89C4D275EF6" downloadHash="9F16BBD1BF722775600ECF858015A1ECBE07BB87" name="9j_trielta_trail_lyrans.trx" dlsize="2510389" size="15013090" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="ACE96B5E852519148DBC40947DA901ED656DBB4E" downloadHash="8B28200F4D433E2A8E90E60CD13D7AC03DBC217A" name="9k_treilta_trail.trx" dlsize="909897" size="14420101" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BB69E9D54959706CABB4C66DE3C6AB7381B6B891" downloadHash="27971BFA63C2629F165E570794A8D3DED788B059" name="8m_treilta_trail.trx" dlsize="856395" size="14407681" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4FE6E0F7F1F19A2793C205235717A074557731A2" downloadHash="38A2ACFE16CCDC3C351FC92E7BFDA4EF92B21A4D" name="9l_trielta_trail_hills.trx" dlsize="846478" size="14406968" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B43B0496374CDDDA463717D99E7231B3789B75D6" downloadHash="46AA93DEF030CA7FB5224F4202DE208A6A166F8A" name="9j_lyrans hold level 1.trx" dlsize="318881" size="320554" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="95598F6CA734D330E6E2A1CF27B4776E194D52F1" downloadHash="1FFE8F9216F00948A537040048688EED7821ED3E" name="9j_lyrans hold level 2.trx" dlsize="266355" size="270551" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E08C315B33AEA8D469A6D3B4E70FD2C56CA02655" downloadHash="1024B4859A828A4A8EB5591DF72867EF275D38A7" name="8l_trielta_trail.trx" dlsize="887514" size="14431494" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="601AFE0EB831707AED56FF74696E0BDEDC99679D" downloadHash="E8675C2A4FADEB9A714E0017455494C4FD521180" name="9j_lyrans hold level 3.trx" dlsize="129093" size="130453" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
