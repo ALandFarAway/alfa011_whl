@@ -1710,7 +1710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="81B0F8917A7136AFAE2F421D9EAD64451221A083" downloadHash="17A73A4C4775B836932E476048AAD078E81C7C82" name="4a_tradeway_wayinn_int.trx" dlsize="525167" size="532284" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E4DD7CD2E5AEE49EC1ED969B56A1571C340F0DB5" downloadHash="22C7BD32FB9AE3C65ED0A699B7A09B9DF1987C34" name="4a_tradeway_wayinn_int.trx" dlsize="525115" size="532301" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1730,7 +1730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0B4535FABF115D24FA12B4F16AD59379CFE6CFC6" downloadHash="D6637257099D192F3E62A09F41C18A696FF33F69" name="4a_tradeway_wayinn.trx" dlsize="1783253" size="15250488" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1E390765D05307E6ECE149FCAC76062EDBCB755C" downloadHash="55723CBC1B9EF6944DB4E89A3532C111145D492F" name="4a_tradeway_wayinn.trx" dlsize="1792783" size="15250690" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
