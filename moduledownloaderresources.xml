@@ -560,7 +560,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E7FD8688574AE7E5BA573CDA4B101FC0BDC1D99C" downloadHash="050280D67FF64F7E11682DEBA07FC84159466407" name="8n_hillsedge_area_rivergate.trx" dlsize="3526084" size="21066533" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C6B9BACE008B11580BCCD3CB2AC77569695D48B4" downloadHash="C5E6C51E652DA0B27578C7587A9903E4A152A3C4" name="8n_hillsedge_area_rivergate.trx" dlsize="3524434" size="21066533" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1800,12 +1800,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="60F614E3BE667098747280FD6E3473226CF405A6" downloadHash="0378CFE1813FC5BF4BA594FAA0EE32D02D586FD4" name="9m_duskroad_hardbuckler.trx" dlsize="2567141" size="19182937" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CA814C10D4392C34E668F4C3CE2DD6BF8565A2EA" downloadHash="9FF262BC20F96F93BDE12B099AC93E632A0B67E6" name="9m_duskroad_hardbuckler.trx" dlsize="2648218" size="19276436" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="594694055E0806B9E3CAC412819C5F4376D955C1" downloadHash="DE89615FE7520C630C9D0E23A79B1A4B7E7EF8E7" name="6n_drawn_swords.trx" dlsize="2746971" size="18830201" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="23DC293222A4B929FD113260E1692FFEA3C4A113" downloadHash="C75276B893D3F011FE943EA3313068D9B367026C" name="6n_drawn_swords.trx" dlsize="2765807" size="18833275" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1825,7 +1825,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6ED0448B89ED9A0066A8746C39A2C4BBE8A05561" downloadHash="51FAFA1ADF3B17871CE15755FFBFB6008EC6721E" name="9m_hardbuckler_town.trx" dlsize="1434451" size="11933331" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DD1A09A9706F42BDC96178EF4BAEDC3311DAA442" downloadHash="B5C063AE40DB57731AB12868BE594D38DB433B8B" name="9m_hardbuckler_town.trx" dlsize="1430045" size="11926262" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1845,7 +1845,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4D6F3A0E9BC2FEB2DB18C765750D422D86B77CD4" downloadHash="2A27A5A26C4F4FEC4CF46CB1D15F8B3DB9C0DBDE" name="6o_mouth_skullgorge.trx" dlsize="3050070" size="19410069" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4BA2EEA816BA1A49FDA37E52BA40849F697D55F9" downloadHash="A752A131168E4BC0C2B3D0C1FEC0E9E7A72654C5" name="6o_mouth_skullgorge.trx" dlsize="2839269" size="19231687" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
