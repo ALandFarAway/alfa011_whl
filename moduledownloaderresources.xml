@@ -1845,7 +1845,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4BA2EEA816BA1A49FDA37E52BA40849F697D55F9" downloadHash="A752A131168E4BC0C2B3D0C1FEC0E9E7A72654C5" name="6o_mouth_skullgorge.trx" dlsize="2839269" size="19231687" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="549FAEA200C149868FCFAA42F89FBD3B47282054" downloadHash="A752A131168E4BC0C2B3D0C1FEC0E9E7A72654C5" name="6o_mouth_skullgorge.trx" dlsize="2839269" size="19257417" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DD09D9E676619C7238260AD794281FB0442C2BD1" downloadHash="78DD2C5B7F373AD1C1003A30E59242FB0445F09E" name="5n_hill_lost_souls.trx" dlsize="3860480" size="22183660" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C2E3BC1B6E0C006C8E1170AD5AEF960FDC357CF0" downloadHash="4123EA7364A0F1C9DC2612FA41C3B4D375249D3A" name="4n_swordgrotto_int.trx" dlsize="77615" size="78041" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="459714BDF9420B30ED0110467CDD1A0DF8FD0F4C" downloadHash="2178765BB443AEDD92ADECABA7CB9369FF96824F" name="5o_hill_lost_souls_ext.trx" dlsize="4284643" size="20784193" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
