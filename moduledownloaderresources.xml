@@ -375,7 +375,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="23DC293222A4B929FD113260E1692FFEA3C4A113" downloadHash="C75276B893D3F011FE943EA3313068D9B367026C" name="6n_drawn_swords.trx" dlsize="2765807" size="18833275" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6D7221B6DA7B38BB08B4530FF36E87EA79EC3AB8" downloadHash="B7AA32A222368EEC4DFEA26FD4793697CFD5A3F9" name="6n_drawn_swords.trx" dlsize="2756307" size="18828923" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
