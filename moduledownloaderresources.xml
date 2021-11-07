@@ -1578,6 +1578,7 @@
   <resource type="DirectoryEntry" hash="3FFBBEF53F80E2181D13BE7C3D523B855D51603C" downloadHash="443058A4C2F2620E2D6D66BC62E17DD091971FD6" name="whitedragonscale.TGA" dlsize="21445" size="196652" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
+      <string>2</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="8066F10462C0E28FC981AC112D7AE678939766E7" downloadHash="6FCBD214C5B0AB980B373B1185D306C4AA98463A" name="z_fx_birds.DDS" dlsize="325" size="1520" critical="false" exclude="false" urlOverride="">
