@@ -1637,7 +1637,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="E33E8366F998954187146A920C8ACBF184F7EB96" downloadHash="C752EE73A418266C587588B69465A8D490E46F4E" name="alfa_fx2.hak" dlsize="100042389" size="148216111" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="B64E04689E1405918C508B9E209F1FA3E6B02A9A" downloadHash="DAE11C67A13C6EC7E7FFE507A0F63FAF969FA185" name="alfa_fx2.hak" dlsize="232368552" size="471306616" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
