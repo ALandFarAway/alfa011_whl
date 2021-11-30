@@ -1721,14 +1721,14 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="8D8912738747FC4FC73FE434E7D9A5AA1DDADE83" downloadHash="88AD35F5AD5F98732B99502121F1A514CF489801" name="n_alfa2_2da.hak" dlsize="532503" size="30936784" critical="false" exclude="false" urlOverride="">
+   <resource type="Hak" hash="8D8912738747FC4FC73FE434E7D9A5AA1DDADE83" downloadHash="88AD35F5AD5F98732B99502121F1A514CF489801" name="n_alfa2_2da.hak" dlsize="532503" size="30936784" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>0</string>
+      <string>3</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="7674BDBCCE4C9270DC4195ADFD2D38E1AAA34984" downloadHash="28A8A07782F4B336A05AFE9374D0D2636AA9B947" name="n_alfa2_gui.hak" dlsize="10144577" size="43292622" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>0</string>
+      <string>3</string>
     </server-ref>
   </resource>
 </content>
