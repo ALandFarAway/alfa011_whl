@@ -1729,6 +1729,6 @@
   <resource type="Hak" hash="7674BDBCCE4C9270DC4195ADFD2D38E1AAA34984" downloadHash="28A8A07782F4B336A05AFE9374D0D2636AA9B947" name="n_alfa2_gui.hak" dlsize="10144577" size="43292622" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>3</string>
-    </server-ref>
+    </server-ref>    
   </resource>
 </content>
