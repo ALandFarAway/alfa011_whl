@@ -310,7 +310,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="40E099042E2026F13BE58E8DA28B3358D4DA112A" downloadHash="4297C5C5753FEDC27CFC75E524CFB633204EC6AE" name="147_ruinedwatchtower.trx" dlsize="82100" size="82204" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A63E6B20AAD659F573CDD9C23C012E5636B3E06F" downloadHash="995D64124DE5117AC571185D9349731A3C7E0B40" name="147_ruinedwatchtower.trx" dlsize="81051" size="81157" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -455,7 +455,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F7F94CF5833E6A4B3C41ECB63D702A48D5523290" downloadHash="B53BC3B8947311EE6984E77BCCEE942016CAE03B" name="157_nethereseportal.trx" dlsize="244633" size="876914" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="460FC78B6B7AF97CE20F3F5C5B7892689B1BA1B4" downloadHash="733524E7E42095AEB89276173E99A49F13DEB02F" name="157_nethereseportal.trx" dlsize="245286" size="877439" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -685,7 +685,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="71FAF9D1E2C9E6BD51201B9BAB49B7AF055726C4" downloadHash="7358F6FB436D9810BFB5DBE8251A8475B5752A34" name="015_excavatedportal.trx" dlsize="1979206" size="8700090" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A7225A3B01620481A228076379E0F38F3D3B51AF" downloadHash="E2A9750A3FFC435DD15D86D635FF66EFD4A94FE9" name="015_excavatedportal.trx" dlsize="1980163" size="8702939" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1721,7 +1721,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-   <resource type="Hak" hash="8D8912738747FC4FC73FE434E7D9A5AA1DDADE83" downloadHash="88AD35F5AD5F98732B99502121F1A514CF489801" name="n_alfa2_2da.hak" dlsize="532503" size="30936784" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="8D8912738747FC4FC73FE434E7D9A5AA1DDADE83" downloadHash="88AD35F5AD5F98732B99502121F1A514CF489801" name="n_alfa2_2da.hak" dlsize="532503" size="30936784" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>3</string>
     </server-ref>
@@ -1729,6 +1729,6 @@
   <resource type="Hak" hash="7674BDBCCE4C9270DC4195ADFD2D38E1AAA34984" downloadHash="28A8A07782F4B336A05AFE9374D0D2636AA9B947" name="n_alfa2_gui.hak" dlsize="10144577" size="43292622" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>3</string>
-    </server-ref>    
+    </server-ref>
   </resource>
 </content>
