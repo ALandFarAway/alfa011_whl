@@ -1,4 +1,4 @@
-/* gui_event_tool v1.1
+/* gui_event_tool
 	Some commands to aid in setting up, saving, and loading events
 */
 
@@ -6,7 +6,7 @@ const string EVENT_TOOL_GUIFILE = "eventtool.xml";
 const string EVENT_TOOL_SCREEN = "EVENT_TOOL_SCREEN";
 const string EVENT_TOOL_MARK_INT = "EVENT_TOOL_SAVE"; // local int on objects marked to be saved
 const string EVENT_TOOL_OBJECT_COUNT = "ObjCt"; // int in DB that specifies number of saved objects
-const string EVENT_TOOL_OBJECT_VAR = "EvtObj"; // objects stored as EventObject#, for placeables tags are stored and file (resource) names used to recreate, so tag and file name must match
+const string EVENT_TOOL_OBJECT_VAR = "EvtObj"; // objects stored as EventObject#, for placeables tags are stored and resrefs used to recreate, so tag and resref must match
 const string EVENT_TOOL_OBJECT_LOCATION = "EvtObjLoc";
 const string EVENT_TOOL_LOCATION_TAG = "EvtLocTag"; // when saving a location save area tag too
 const string EVENT_TOOL_OBJECT_TYPE = "EvtObjTyp"; // database int of object type
@@ -41,23 +41,10 @@ const int EVENT_TOOL_OBJECTS_PER_LOOP = 16; // will process this many objects th
 
 const float EVENT_TOOL_DESTROY_DELAY = 1.0f; // destroyig of objects will be delayed by this amount to avoid problems with recursive actions for the event loop
 
-/*
-	There are three references for an object in the toolset, "Resource Name", "Tag", and "Template Resref".
-	GetTag returns tag, and GetResRef returns template resref, however CreateObject uses resource name to create the object which is not stored on placed objects.
-	
-	Usually all three are the same, but not always. So to create objects the template resref is taken and for isntances where this is not the correct file name
-	the correct file name is determined by eventtoolredirect.2da.
-	
-	As this will be called frequently the 2DA is sorted alphabetically to allow binary searching.
-	
-	There is one object that has no template resref, plc_mp_lever_usable. To avoid this problem this object should be overwritten for one with the correct template resref.
-	Doing this for all offending objects would eliminate the need for the 2DA and speed the script, but it's left in as it may be necessary for some servers.
-*/
-
 
 const string RESREF_REDIRECT_2DA = "eventtoolredirect"; // the 2DA is assumed to be alphabetical for faster searching
-const string RESREF_REDIRECT_ORIGINAL_COL = "Original";
-const string RESREF_REDIRECT_REPLACEMENT_COL = "Replacement";
+const string RESREF_REDIRECT_ORIGINAL_COL = "Tag";
+const string RESREF_REDIRECT_REPLACEMENT_COL = "ResRef";
 
 int SearchAlphabetical2DA(string s2DA, string sColumn, string sMatchElement, int bExactMatch = TRUE)
 {
@@ -334,31 +321,16 @@ void SaveScale(object oTarget, string sDatabase, string sScaleRef)
 
 object RecreateObject(string sDatabase, string sObjectNum, int nObjectType, location lObjectLoc)
 {
-	// object must be created by resref
+	// tag was saved by object must be created by resref
 	string sResref = GetCampaignString(sDatabase,EVENT_TOOL_OBJECT_VAR+sObjectNum);
+	// Some objects have a tag that isn't the same as the resref, if it's listed in the 2DA use that
+	int nRow = SearchAlphabetical2DA(RESREF_REDIRECT_2DA,RESREF_REDIRECT_ORIGINAL_COL,sResref);
+	// IF found use new resref otherwise keep the current resref
+	if (nRow>=0) sResref = Get2DAString(RESREF_REDIRECT_2DA,RESREF_REDIRECT_REPLACEMENT_COL,nRow);
 	
 	object oLoaded = CreateObject(nObjectType,sResref,lObjectLoc);
 
-	if (!GetIsObjectValid(oLoaded)) {
-		SendMessageToPC(OBJECT_SELF,"Failed to recreate "+sResref+", searching "+RESREF_REDIRECT_2DA+" for a substitute.");
-		// Some objects have a tempalte resref that isn't the same as the resource name, if creation fails check the 2DA and try again
-		int nRow = SearchAlphabetical2DA(RESREF_REDIRECT_2DA,RESREF_REDIRECT_ORIGINAL_COL,sResref);
-		// If found use new resref otherwise keep the current resref
-		if (nRow>=0) {
-			sResref = Get2DAString(RESREF_REDIRECT_2DA,RESREF_REDIRECT_REPLACEMENT_COL,nRow);
-			oLoaded = CreateObject(nObjectType,sResref,lObjectLoc);
-			SendMessageToPC(OBJECT_SELF,"Using template: "+sResref);
-			if (!GetIsObjectValid(oLoaded)) {
-				SendMessageToPC(OBJECT_SELF,"Fail to create object.");
-				return OBJECT_INVALID;
-			}
-		}
-		else {
-			SendMessageToPC(OBJECT_SELF,"Failed to recreate "+sResref+", searching "+RESREF_REDIRECT_2DA+" for a substitute.");
-			return OBJECT_INVALID;
-		}
-	}
-
+//	if (!GetIsObjectValid(oLoaded)) oLoaded = CreateObject(nObjectType,GetStringLowerCase(sResref),lObjectLoc);
 	// placeables have to have their inventory saved separately
 	if (GetHasInventory(oLoaded))
 		AssignCommand(oLoaded,LoadInventory(oLoaded,sDatabase,EVENT_TOOL_INVENTORY_PREFIX+sObjectNum));
@@ -371,8 +343,8 @@ object RecreateObject(string sDatabase, string sObjectNum, int nObjectType, loca
 
 void SaveObjectInfo(object oTarget, string sDatabase, string sObjectNum, int nType)
 {
-	// placed objects must be saved by resref
-	SetCampaignString(sDatabase,EVENT_TOOL_OBJECT_VAR+sObjectNum,GetResRef(oTarget));
+	// since placed objects have no resref they must be saved by tag
+	SetCampaignString(sDatabase,EVENT_TOOL_OBJECT_VAR+sObjectNum,GetTag(oTarget));
 	// if a placeable has an inventory it must be saved separately
 	if (GetHasInventory(oTarget))
 		AssignCommand(oTarget,SaveInventory(oTarget,sDatabase,EVENT_TOOL_INVENTORY_PREFIX+sObjectNum));
