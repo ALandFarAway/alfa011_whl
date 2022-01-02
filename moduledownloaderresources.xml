@@ -475,7 +475,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CD22DD7ED04B7B90284BDC81BD9E0E1126D96F31" downloadHash="323AAF09387870CD531BF485F3496C19324AC46C" name="5b_tradeway.trx" dlsize="877816" size="14433184" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C20A849960441BBEB8550DC200D18884D4F209C3" downloadHash="3553C517A69678F97FFE47C988E83F3C0925111C" name="5b_tradeway.trx" dlsize="1493606" size="14665160" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -560,7 +560,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8249054FF49F2A81CADC7CF2F3836D9D44C9E478" downloadHash="207D8CA941DB41D1FA7C74A37FBC065FA9DA0F21" name="4a_tradeway_wayinn.trx" dlsize="1789013" size="15251080" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3B4319EDFC9E33B8145E14AEB919DF64ED849157" downloadHash="9DB4225EA68FCF17F3CF9B3ACD28BED18053DB1D" name="4a_tradeway_wayinn.trx" dlsize="2472031" size="15409681" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1605,11 +1605,6 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="11398139E7E81AB66046483BFA808142768CAD33" downloadHash="5D3AB068F1790654E61BDA0C55DD84B3C481C783" name="alfa2_acr.hak" dlsize="4197367" size="144263206" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>3</string>
-    </server-ref>
-  </resource>
   <resource type="Hak" hash="BB4326AC5AF0A7CDEF917B4F3E4B13471A2A7733" downloadHash="D6F8AEF4077D6FC4656049C0766D561AFF96D040" name="alfa_creatures.hak" dlsize="320459260" size="1641279028" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>3</string>
@@ -1706,6 +1701,11 @@
     </server-ref>
   </resource>
   <resource type="Hak" hash="A0503B6C228F8FC668DDB9483EF1EFFB9D7F3EA3" downloadHash="AC6A4278D41D1DA4E6874F6717D0F98B4A54B8F2" name="alfa_tiles2.hak" dlsize="173614654" size="1101959504" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="Hak" hash="42D8A8B7765BB3FB597B5E06CFE49A84C778851C" downloadHash="A1F7D1DEAA36AB45F7EE3FBACCCE67E67B5CAD51" name="n_alfa2_acr.hak" dlsize="4198195" size="144626260" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>3</string>
     </server-ref>
