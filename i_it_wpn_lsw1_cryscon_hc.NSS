@@ -18,7 +18,7 @@ void main()
 	   object oTarget; // On a weapon: The one being hit. On an armor: The one hitting the armor
 	  // object oWielder; // On a weapon: The one wielding the weapon. On an armor: The one wearing an armor
 	  object oPossessor = GetItemPossessor(oItem);
-	   int nCastSummon = Random(100);
+	   int nCastSummon = Random(75);
 	   
 	   //SendMessageToPC(oWielder, "Hit");
 	   SendMessageToPC(oPossessor,"Hit");
