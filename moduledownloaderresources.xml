@@ -1600,11 +1600,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="C11FAFD100AFEE8A9ED7CCB8B6B7761E9ED3AA37" downloadHash="2A77E6132B5400A4BFB6C57EC4B1F1444D638675" name="alfa2_2da.hak" dlsize="537360" size="35261276" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>3</string>
-    </server-ref>
-  </resource>
   <resource type="Hak" hash="BB4326AC5AF0A7CDEF917B4F3E4B13471A2A7733" downloadHash="D6F8AEF4077D6FC4656049C0766D561AFF96D040" name="alfa_creatures.hak" dlsize="320459260" size="1641279028" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>3</string>
@@ -1712,7 +1707,7 @@
   </resource>
   <resource type="Hak" hash="9D4C479647744CBAF1B11D55D6A9B6BDD3D0C8FB" downloadHash="00C6EB2E8BA63736A18A059EAD1AF50BA0770D2F" name="n_alfa2_2da.hak" dlsize="535846" size="35261346" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>3</string>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
