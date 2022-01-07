@@ -7,7 +7,8 @@
  #include "acr_tools_i"
  #include "acr_db_persist_i"
 #include "ginc_math"
-#include "acr_spells_i"
+//#include "acr_spells_i"
+#include "acr_spellhook_i"
 
 
 void main()
