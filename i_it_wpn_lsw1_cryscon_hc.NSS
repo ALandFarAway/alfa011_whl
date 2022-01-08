@@ -8,6 +8,7 @@
  #include "acr_db_persist_i"
 #include "ginc_math"
 #include "acr_spells_i"
+#include "ginc_debug"
 
 
 void main()
@@ -17,15 +18,15 @@ void main()
 	   object oItem  		= GetSpellCastItem();    // The item casting that triggered this spellscript
    	   object oSpellOrigin = OBJECT_SELF ;
 	   object oSpellTarget = GetSpellTargetObject();
-	   object oWielder = GetItemPossessor(oItem);
+	   object oPossessor = GetItemPossessor(oItem);
 	   int nCastSummon = Random(95);
-	 
+	   itemproperty ipCast = ItemPropertyCastSpell(IP_CONST_CASTSPELL_UNIQUE_POWER_SELF_ONLY,-1);
 	   
-	   //SendMessageToPC(oWielder, "Hit");
-	    SendMessageToPC(oWielder, "Hit");
-	   SendMessageToPC(oWielder, IntToString(nCastSummon));
+	   //SendMessageToPC(oPossessor, "Hit");
+	    SendMessageToPC(oPossessor, "Hit");
+	   SendMessageToPC(oPossessor, IntToString(nCastSummon));
 	   if(nCastSummon==1)	
 	   {
-	   	ActionCastSpellAtLocation(SPELL_SUMMON_CREATURE_I, GetLocation(oWielder), METAMAGIC_NONE, TRUE, PROJECTILE_PATH_TYPE_DEFAULT, TRUE);
+	   	ActionCastSpellAtLocation(SPELL_SUMMON_CREATURE_I, GetLocation(oPossessor), METAMAGIC_NONE, TRUE, PROJECTILE_PATH_TYPE_DEFAULT, TRUE);
 	  	}		
 }			  		  
