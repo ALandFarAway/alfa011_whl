@@ -5,7 +5,7 @@
  #include "acr_tools_i"
  #include "acr_db_persist_i"
 #include "ginc_math"
-#include "acr_spells_i"
+//#include "acr_spells_i"
 #include "ginc_debug"
 #include "x2_inc_spellhook"
 
@@ -18,14 +18,15 @@ void main()
 	   object oSpellTarget = GetSpellTargetObject();
 	   object oPossessor   = GetItemPossessor(oItem);  //On a weapon: The one wielding the weapon. On an armor: The one wearing an armor
 	   int nCastSummon     = Random(20);
-	   itemproperty ipCast = ItemPropertyCastSpell(IP_CONST_CASTSPELL_UNIQUE_POWER_SELF_ONLY,-1);
+	   //itemproperty ipCast = ItemPropertyCastSpell(IP_CONST_CASTSPELL_UNIQUE_POWER_SELF_ONLY,1);
 	   
 	  
 	   SendMessageToPC(oPossessor, "Hit"); //Debug
 	   SendMessageToPC(oPossessor, IntToString(nCastSummon));//Debug
 	   
-	   if(nCastSummon==3)	
+	   if (GetIsObjectValid(oItem))
+	   if(nCastSummon==2)	
 	   {
-	   	ActionCastSpellAtLocation(SPELL_SUMMON_CREATURE_I, GetLocation(oTarget), METAMAGIC_ANY, TRUE, PROJECTILE_PATH_TYPE_DEFAULT, TRUE);
+	   	ActionCastSpellAtLocation(SPELL_SUMMON_CREATURE_I, GetLocation(oTarget), METAMAGIC_NONE, TRUE, PROJECTILE_PATH_TYPE_DEFAULT, TRUE);
 	  	}		
 }			  		  

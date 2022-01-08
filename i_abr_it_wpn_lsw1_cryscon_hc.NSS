@@ -16,13 +16,13 @@ void main()
 	   object oTarget; // On a weapon: The one being hit. On an armor: The one hitting the armor
 	   object oWielder; // On a weapon: The one wielding the weapon. On an armor: The one wearing an armor
 	   
-	   int nCastSummon = Random(95);
+	   int nCastSummon = Random(20);
 	 
 	   
 	   
 	    SendMessageToPC(oWielder, "Hit");
 	   SendMessageToPC(oWielder, IntToString(nCastSummon));
-	   if(nCastSummon==1)	
+	   if(nCastSummon==2)	
 	   {
 	   	ActionCastSpellAtLocation(SPELL_SUMMON_CREATURE_I, GetLocation(oWielder), METAMAGIC_NONE, TRUE, PROJECTILE_PATH_TYPE_DEFAULT, TRUE);
 	  	}		
