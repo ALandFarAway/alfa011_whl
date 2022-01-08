@@ -7,7 +7,7 @@
 #include "ginc_math"
 #include "acr_spells_i"
 #include "ginc_debug"
-#include "x2_inc_spellhook"
+
 
 
 void main()
@@ -26,6 +26,6 @@ void main()
 	   
 	   if(nCastSummon==1)	
 	   {
-	   	ActionCastSpellAtLocation(SPELL_SUMMON_CREATURE_I, GetLocation(oPossessor), METAMAGIC_NONE, TRUE, PROJECTILE_PATH_TYPE_DEFAULT, TRUE);
+	   	ActionCastSpellAtLocation(SPELL_SUMMON_CREATURE_I, GetLocation(oTarget), METAMAGIC_NONE, TRUE, PROJECTILE_PATH_TYPE_DEFAULT, TRUE);
 	  	}		
 }			  		  
