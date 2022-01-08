@@ -11,14 +11,13 @@
 
 
 void main()
-	{  //object oItem;        // The item triggering this spellscript
-	   //object oTarget; // On a weapon: The one being hit. On an armor: The one hitting the armor
-	   //object oWielder; // On a weapon: The one wielding the weapon. On an armor: The one wearing an armor
-	   object oItem  		= GetSpellCastItem();    // The item casting that triggered this spellscript
+	{  
+	   object oTarget; // On a weapon: The one being hit. On an armor: The one hitting the armor
+	   object oItem        = GetSpellCastItem();    // The item casting that triggered this spellscript
    	   object oSpellOrigin = OBJECT_SELF ;
 	   object oSpellTarget = GetSpellTargetObject();
-	   object oPossessor = GetItemPossessor(oItem);
-	   int nCastSummon = Random(95);
+	   object oPossessor   = GetItemPossessor(oItem);  //On a weapon: The one wielding the weapon. On an armor: The one wearing an armor
+	   int nCastSummon     = Random(95);
 	   itemproperty ipCast = ItemPropertyCastSpell(IP_CONST_CASTSPELL_UNIQUE_POWER_SELF_ONLY,-1);
 	   
 	  
