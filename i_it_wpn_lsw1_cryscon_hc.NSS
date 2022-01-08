@@ -1,5 +1,3 @@
-//TSM individual item onHit cast.  
-//Wynna February 2008
 
 
  #include "acr_items_i"
@@ -9,6 +7,7 @@
 #include "ginc_math"
 #include "acr_spells_i"
 #include "ginc_debug"
+#include "x2_inc_spellhook"
 
 
 void main()
@@ -22,9 +21,10 @@ void main()
 	   int nCastSummon = Random(95);
 	   itemproperty ipCast = ItemPropertyCastSpell(IP_CONST_CASTSPELL_UNIQUE_POWER_SELF_ONLY,-1);
 	   
-	   //SendMessageToPC(oPossessor, "Hit");
-	    SendMessageToPC(oPossessor, "Hit");
-	   SendMessageToPC(oPossessor, IntToString(nCastSummon));
+	  
+	   SendMessageToPC(oPossessor, "Hit"); //Debug
+	   SendMessageToPC(oPossessor, IntToString(nCastSummon));//Debug
+	   
 	   if(nCastSummon==1)	
 	   {
 	   	ActionCastSpellAtLocation(SPELL_SUMMON_CREATURE_I, GetLocation(oPossessor), METAMAGIC_NONE, TRUE, PROJECTILE_PATH_TYPE_DEFAULT, TRUE);
