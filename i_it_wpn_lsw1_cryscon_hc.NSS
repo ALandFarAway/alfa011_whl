@@ -7,7 +7,7 @@
 #include "ginc_math"
 #include "acr_spells_i"
 #include "ginc_debug"
-
+#include "x2_inc_spellhook"
 
 
 void main()
@@ -17,15 +17,15 @@ void main()
    	   object oSpellOrigin = OBJECT_SELF ;
 	   object oSpellTarget = GetSpellTargetObject();
 	   object oPossessor   = GetItemPossessor(oItem);  //On a weapon: The one wielding the weapon. On an armor: The one wearing an armor
-	   int nCastSummon     = Random(95);
+	   int nCastSummon     = Random(20);
 	   itemproperty ipCast = ItemPropertyCastSpell(IP_CONST_CASTSPELL_UNIQUE_POWER_SELF_ONLY,-1);
 	   
 	  
 	   SendMessageToPC(oPossessor, "Hit"); //Debug
 	   SendMessageToPC(oPossessor, IntToString(nCastSummon));//Debug
 	   
-	   if(nCastSummon==1)	
+	   if(nCastSummon==3)	
 	   {
-	   	ActionCastSpellAtLocation(SPELL_SUMMON_CREATURE_I, GetLocation(oPossessor), METAMAGIC_ANY, TRUE, PROJECTILE_PATH_TYPE_DEFAULT, TRUE);
+	   	ActionCastSpellAtLocation(SPELL_SUMMON_CREATURE_I, GetLocation(oTarget), METAMAGIC_ANY, TRUE, PROJECTILE_PATH_TYPE_DEFAULT, TRUE);
 	  	}		
 }			  		  
