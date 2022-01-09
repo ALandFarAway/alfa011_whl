@@ -590,7 +590,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2371957E625594F54E7057DAD15C9BCB9796BD5E" downloadHash="4D3894F8EC0D392ED48C0976DFF77AF3ED775B2D" name="_011_startarea.trx" dlsize="150169" size="152618" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="80E0BC6C57130032F2FA903EB419DB6569B9DC6E" downloadHash="04C6C4AACF8B8C4855DF715D1A34C5B93FE1357E" name="_011_startarea.trx" dlsize="157183" size="159751" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -620,7 +620,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1FA7573FE5D7D6EECFBAC176246F439D9FB8DD2A" downloadHash="81FF84F5009584BA1EA77ACE4FC99D014B3C8285" name="8n_hillsedge_crosterhq.trx" dlsize="175790" size="176772" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D4EA7C7840E8561917912BD0E11E5718D0BF12C8" downloadHash="E289B93AB8592AC555D403B1A7F625838C43AA8A" name="8n_hillsedge_crosterhq.trx" dlsize="187516" size="188901" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
