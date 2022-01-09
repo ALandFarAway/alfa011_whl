@@ -1,12 +1,8 @@
+//TSM individual item onHit cast.  
+// Wynna /  Arri 2022
 
-
-// #include "acr_items_i"
  #include "acr_spawn_i"
-// #include "acr_tools_i"
- //#include "acr_db_persist_i"
-//#include "ginc_math"
-//#include "ginc_debug"
-#include "x2_inc_spellhook"
+ #include "x2_inc_spellhook"
 
 
 void main()
@@ -18,8 +14,6 @@ void main()
 	   object oPossessor   = GetItemPossessor(oItem);  //On a weapon: The one wielding the weapon. On an armor: The one wearing an armor
 	   int nCastSummon     = Random(20);
 	   
-	   
-	  
 	   SendMessageToPC(oPossessor, "Hit"); //Debug
 	   SendMessageToPC(oPossessor, IntToString(nCastSummon));//Debug
 	   
