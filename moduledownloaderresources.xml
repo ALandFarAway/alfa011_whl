@@ -275,7 +275,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AAA87AE73503603F22D59BA97FBB1B950ABB8456" downloadHash="8FF450C14EBCB4E6C3499C794F7914686DA369A3" name="9h_tradeway_farms.trx" dlsize="3645990" size="17541048" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="72923E61FC0DDCFBDCF28343CA1C4AF712ADB2AD" downloadHash="4E54C0614235761A6D3C49C888A0127AE354516D" name="9h_tradeway_farms.trx" dlsize="3680434" size="17643258" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1700,7 +1700,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="6F3FDA863E58808D53DCE43A10DDBE8367D88EB2" downloadHash="923778C3719123B8F24A738FD0721F5639049B98" name="n_alfa2_acr.hak" dlsize="4202862" size="145165415" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="1BDFF1CF118C2C9F8090298B63081EA1451D4DCC" downloadHash="E968E7D4E4F9B351E28092C3593F0042E9F53AEE" name="n_alfa2_acr.hak" dlsize="4199722" size="145172811" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>3</string>
     </server-ref>
