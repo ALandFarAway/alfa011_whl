@@ -1700,12 +1700,12 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="1BDFF1CF118C2C9F8090298B63081EA1451D4DCC" downloadHash="E968E7D4E4F9B351E28092C3593F0042E9F53AEE" name="n_alfa2_acr.hak" dlsize="4199722" size="145172811" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="44D2175F947B716BDF8250645FD753653C82B93D" downloadHash="BD4FA815A7DF96FF1E87151D9EEED9F586671389" name="alfa2_acr.hak" dlsize="4199112" size="144850759" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="BB5138E9E8227C3487B14AFA69A55C3BE82F5951" downloadHash="CCB49BEAB577FA1B1C9D3155A279EE4D54F86515" name="n_alfa2_2da.hak" dlsize="535846" size="35261346" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="84F8CA85252B7A2744387C22CDF8696885D91AA4" downloadHash="774B40812CD03708B8DFD6088005431586CCEA29" name="alfa2_2da.hak" dlsize="536410" size="35261346" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>3</string>
     </server-ref>
