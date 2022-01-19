@@ -125,7 +125,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="346C1C3567BCB24BA3EB9DB46C46766A1286FAAE" downloadHash="66F6C51999C14A17D375D4AAC55EB9583AD16D26" name="4o_pelleor_praire_tor.trx" dlsize="5058012" size="24257719" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0CAA69E595C93C40A1A549D8D8DE691E1AE1E26C" downloadHash="FF5E7058E98C9B0D497EE45A572C781FE5D1CC02" name="4o_pelleor_praire_tor.trx" dlsize="5027385" size="24235447" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1708,6 +1708,16 @@
   <resource type="Hak" hash="84F8CA85252B7A2744387C22CDF8696885D91AA4" downloadHash="774B40812CD03708B8DFD6088005431586CCEA29" name="alfa2_2da.hak" dlsize="536410" size="35261346" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BA71F677D5F81D584656213A54A062CD22500F9B" downloadHash="265A6F34AE699E1D8B469368467E37985269007E" name="3o_pelleor_prairie.trx" dlsize="4092365" size="21411182" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4FAD490EA745307D6C57C3B757F4554DA12BE694" downloadHash="08CC2A0318490EE38FB9DF255EB8315217716394" name="2o_pelleor_path_halfway_inn.trx" dlsize="3324703" size="19030931" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
