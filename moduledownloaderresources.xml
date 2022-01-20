@@ -1720,4 +1720,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="DF7225C7E77D29875445FF86FCE84E03AC3651BA" downloadHash="1718981AA696D84692070B4217E24DC8D435DB2C" name="2o_pelleor_path_halfway_inn1.trx" dlsize="3293440" size="18993280" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
