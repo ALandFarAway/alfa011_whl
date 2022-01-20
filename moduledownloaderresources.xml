@@ -1710,12 +1710,12 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F088BF9C926D4AF8F3BF97FD16A5C95A8F926377" downloadHash="265A6F34AE699E1D8B469368467E37985269007E" name="3o_pelleor_prairie.trx" dlsize="4092365" size="21408037" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F088BF9C926D4AF8F3BF97FD16A5C95A8F926377" downloadHash="0EE7ADEFFE1F19346F22CF2D2FA6A3ADE8FF2936" name="3o_pelleor_prairie.trx" dlsize="4099901" size="21408037" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7AD85044DD765C3041FE99AAAC69780D38FA8A2A" downloadHash="08CC2A0318490EE38FB9DF255EB8315217716394" name="2o_pelleor_path_halfway_inn.trx" dlsize="3324703" size="19010406" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7AD85044DD765C3041FE99AAAC69780D38FA8A2A" downloadHash="FEB9892A9B2813C2DCAA8F67CC444377A002C9C9" name="2o_pelleor_path_halfway_inn.trx" dlsize="3311816" size="19010406" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
