@@ -110,7 +110,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1292CC86AA1E8C81D58AE9500B33AF155A5FAFD4" downloadHash="9AB2DFF685E881C290A931AA9769666D694DC656" name="5n_hill_lost_souls.trx" dlsize="3865093" size="22185047" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="555383BC3EFD353BD159F1A41B1F50506190C99D" downloadHash="148FDF3930E7F315B004B7649C5AE8DBECAF1418" name="5n_hill_lost_souls.trx" dlsize="3878980" size="22194426" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -710,7 +710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E9BAD9A3008661A4D02F295CB272D2FC20B1C1E9" downloadHash="4540FBC910DD3DF1B6EB9DC4F6C165F613912F69" name="5o_hill_lost_souls_ext.trx" dlsize="4659220" size="21939981" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2904F7756A589B0FFADDE9292FB51AAB15D0EC02" downloadHash="3AF5812FECAB5F6685428713107543AA12C4E2B8" name="5o_hill_lost_souls_ext.trx" dlsize="4655800" size="21939594" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1710,7 +1710,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="57138AE77E03AF8209BD040A0CAB4F8FD6597411" downloadHash="EE4A6D1C949241B87870E6F15669F449B251DE73" name="3o_pelleor_prairie.trx" dlsize="4085682" size="21409373" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7A0D7EF8AC954CD6FDE00A13D1D32799CE887E22" downloadHash="CEE4807586D0174B021E7C774215251DD829ED08" name="3o_pelleor_prairie.trx" dlsize="4098086" size="21405998" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1720,7 +1720,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AB2CAF5780C52F87BED290A3C353819113B70794" downloadHash="4FCB8009F5AD835BEFC753C01742C3D5C0802C17" name="2o_pelleor_path_halfway_inn1.trx" dlsize="3287983" size="18992404" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B52E54C1BAE6FEFA0EE9B198C6851B3C386A2087" downloadHash="B01C842B3CD8166C27F82F2581BC3B36F13388F1" name="2o_pelleor_path_halfway_inn1.trx" dlsize="3283971" size="18956009" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
