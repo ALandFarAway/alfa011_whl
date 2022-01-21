@@ -1725,4 +1725,14 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="E2BF1E7C5AC3745F3FCF44E9E8DEA3767C434A89" downloadHash="37078A1379F3794910A214366ED2DDC55D1C1A8A" name="2o_pelleor_halfway_inn.trx" dlsize="3240193" size="18915733" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B52E54C1BAE6FEFA0EE9B198C6851B3C386A2087" downloadHash="B01C842B3CD8166C27F82F2581BC3B36F13388F1" name="2o_pelleor_path_halfway_inn2.trx" dlsize="3283971" size="18956009" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
