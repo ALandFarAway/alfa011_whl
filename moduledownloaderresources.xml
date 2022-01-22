@@ -1730,12 +1730,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A86A33652AF9486EB3066AC8913E283626921CF6" downloadHash="FD3E66012BEE0F950F247A2D03E7B5A4D131AA06" name="2o_pelleor_path_halfway_inn2.trx" dlsize="3275833" size="18944382" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6259D6CF0BCC77436D3A9432325842E054D9FA8F" downloadHash="DB09356B5598DB1D34629FD137D6B8F4269034CC" name="2o_pelleor_path_halfway_inn2.trx" dlsize="3080096" size="18767548" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7CC5D070D5270A5570F114B280AC36E068D4F910" downloadHash="7B6DABF30F2419374735C0EDC47717AE8B801F46" name="2o_halfway_inn.trx" dlsize="3033062" size="18774460" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="036ECB7855E8553765DE7DE5BF5CDA51E2D8321B" downloadHash="1AE64BD3B69BD39D5D9C37A4E5B673A23F19D7E4" name="2o_halfway_inn.trx" dlsize="3347199" size="19055904" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
