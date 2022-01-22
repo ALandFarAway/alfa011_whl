@@ -1725,7 +1725,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="244EA1E31C0453192F049227706A2DE0B51F075A" downloadHash="9E11D8A68200A59C6CB37AB0EC432FFB7B996EC4" name="2o_pelleor_halfway_inn.trx" dlsize="3224784" size="18902788" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CDE0DCC8A77CEC5D8B5F8699F845E6535D6A54B4" downloadHash="E1A613789A2B0818D053CE84ED091E4B1DA3E482" name="2o_pelleor_halfway_inn.trx" dlsize="3208648" size="18890238" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
