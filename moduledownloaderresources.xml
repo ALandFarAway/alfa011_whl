@@ -1740,7 +1740,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6644791D8B4ABB066116E38601F33714E872F534" downloadHash="E412ED76F9E0C721DB1E37FE34050288EB84CE2C" name="2o_halfway_inn1.trx" dlsize="3109876" size="18808604" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D4F87D90A3894929BC7D8328FC75E123DDDD39F8" downloadHash="0FB7BD32FBAE056F1AF4A147E264654F53E71853" name="2o_halfway_inn1.trx" dlsize="3133818" size="18828424" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
