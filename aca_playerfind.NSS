@@ -11,4 +11,3 @@ void main () {
     ACR_ShowPlayerLocations(GetItemActivator());
 }
 
-
