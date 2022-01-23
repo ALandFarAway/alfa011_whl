@@ -1740,4 +1740,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="483BE38179CC99053822E05CC856ACB214562B9C" downloadHash="A4F9DB84F6EF8755B8A88F541CFE03274107A869" name="2o_halfway_inn1.trx" dlsize="3288993" size="18997018" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
