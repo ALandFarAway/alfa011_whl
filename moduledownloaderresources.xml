@@ -725,7 +725,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2AE2BEEB089D7161D960523F7C139970DC9E51CA" downloadHash="1EC7D62A39D8528617BE7B2B8C86A26E9CB02577" name="6o_mouth_skullgorge.trx" dlsize="2882137" size="19257826" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7261C3EA25629BFD4D50B9AFEB9A68C0759AB559" downloadHash="091176C9E77B5FD9DF8FBDD443A25EE0D01C1CB4" name="6o_mouth_skullgorge.trx" dlsize="2938571" size="19274606" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1710,7 +1710,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7A0D7EF8AC954CD6FDE00A13D1D32799CE887E22" downloadHash="CEE4807586D0174B021E7C774215251DD829ED08" name="3o_pelleor_prairie.trx" dlsize="4098086" size="21405998" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AB744066D49C51640B2AB242927D4F3634155A11" downloadHash="DBE4911E5B8228B42C311D8194C3A94195B68BD3" name="3o_pelleor_prairie.trx" dlsize="4070901" size="21389289" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1735,7 +1735,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CC2DC321EEE795B2B4FDE57610F3BA219BC68BC2" downloadHash="78281C947DBC46303B83FDE07CC1C695FE34174F" name="2o_halfway_inn.trx" dlsize="3847372" size="19468940" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="40B303BB542C9F479023B3EE87C13EAA7C8311C0" downloadHash="F278AA7CAEEE95CBF318EE3FA35E280AE0A5039D" name="2o_halfway_inn.trx" dlsize="3860007" size="19473526" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
