@@ -1,3 +1,6 @@
+#include "acr_spells_i"
+#include "x2_inc_switches"
+
 void main()
 {
 	object oTarget = GetSpellTargetObject();
