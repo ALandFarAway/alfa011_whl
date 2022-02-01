@@ -1,5 +1,6 @@
 #include "acr_spells_i"
 #include "x2_inc_switches"
+#include "acr_creature_i"
 
 void main()
 {
@@ -53,7 +54,7 @@ void main()
 			if(nTouch)
 			{
 				effect eEffect = GetFirstEffect(oTarget);
-				while(GetIsEffectValid(eEffect))
+				//while(GetIsEffectValid(eEffect))
 				{
 					if(GetEffectSpellId(eEffect) == GetSpellId() &&
 					   GetEffectCreator(eEffect) == OBJECT_SELF)
