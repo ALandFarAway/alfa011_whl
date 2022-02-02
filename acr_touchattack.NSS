@@ -107,6 +107,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 		{
 			int nTouch = TouchAttackMelee(oTarget);
 			int nDamage = d4();
+			SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
 			if(nTouch == 2) nDamage += d4();
 			if(nTouch)
 			{

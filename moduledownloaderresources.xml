@@ -10,17 +10,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="616A1990630AAFF46EE39126E54383710FDE5C67" downloadHash="5F4DD78DB503B7646094D7C4546F9A52D3730BA9" name="unlinked backlands.trx" dlsize="2264959" size="9339689" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="F7B18D03929004EB633B1B222A448F854CF084C2" downloadHash="796144A2B42ED345DAC51A888854AD820D807D9D" name="9j_trielta_trail_lyrans.trx" dlsize="2509081" size="15012168" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="D0542CEC5D17DC41B592F598DAB0D3A865216644" downloadHash="4E61F00450D66E44D5ABA034820A68DF03700C24" name="zz_9i_s_shadowwindingway.trx" dlsize="234364" size="235067" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -50,16 +40,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0A6FA04CECDB965A5D2F05BE1F567A2E081CBF99" downloadHash="2824A4D8519CAF5AF02CA76F1EF716B70540F782" name="unlinked tradeway.trx" dlsize="2232819" size="9956560" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="FF969FB02035F92DC18A19E84F99EB01E4F4F131" downloadHash="1E3273C0CA66843BDC3399C84BE899546E501254" name="zz_shadow plane 2.trx" dlsize="5270970" size="19050020" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="E9C85CA661B26729E3F68DC7396BC005DE00565D" downloadHash="F106112B9FD5D67495C575C7A48272E18109600B" name="9k_treilta_trail.trx" dlsize="908477" size="14420101" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -75,6 +55,11 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="5BE5DF005CD21D716E9DBBEE44BFE05F0C92E5D6" downloadHash="9FC7BC678E018F44DE2A8D9136945608095B9892" name="zz_shadowinn.trx" dlsize="1261613" size="6293076" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="9B66092CA58ECFBE1BBC2262A8D7B39C42A3955B" downloadHash="065646C9ADF1877AD083C9DD6587C4EA47B074EA" name="undermoor (4,4).trx" dlsize="604200" size="4488975" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -85,17 +70,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5E228D0E27463398CC3F3AC5E83249DF4FB51739" downloadHash="DA95B7B5ECAC2E424F36DA7CDF81E4C57C57CF82" name="unlinked_generic_ruins.trx" dlsize="317681" size="362040" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="3048B973166F2781DD39A1C25B875FDFD855189F" downloadHash="A13ED2EAB7F9F4C2DFD2AC8DFC6AF4623F23FDF3" name="unlinked highmoor-lg.trx" dlsize="8332509" size="33108217" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="A8FC4E9E7986DF6E71BF642A76F48C5B923C9FA2" downloadHash="AAE491078495A2137734DA679E347771BB905758" name="unlinked_buildings.trx" dlsize="433031" size="436479" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7A07F7BAE5EF171AC34BEC437D4A08FA02637509" downloadHash="8E1AA84716232D51CF620547D2C2EFDDE02FBAB5" name="8i_ssthartissun_1.trx" dlsize="726252" size="1787291" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -125,7 +100,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F88323A162A5F75673077005B223AAF0462016ED" downloadHash="6F4603739AD38504438F568EC8318515DEE57670" name="4o_pelleor_praire_tor.trx" dlsize="5038763" size="24244844" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FF969FB02035F92DC18A19E84F99EB01E4F4F131" downloadHash="1E3273C0CA66843BDC3399C84BE899546E501254" name="zz_shadow plane 2.trx" dlsize="5270970" size="19050020" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -150,7 +125,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AF2A5E06C5E655A019149AD685A0DAA32964F6EF" downloadHash="55183B862FFF4D74A44001CCC7EB09F74C3BF659" name="9i_soubar_merch_interiors.trx" dlsize="238655" size="282280" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="63EE64D4FE1B526AFFA290D0536A4D60857DF0CA" downloadHash="52891A2098C1F7527043CD69931DB1BAB07E3F42" name="2o_halfway_inn_int.trx" dlsize="223510" size="225512" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6D7221B6DA7B38BB08B4530FF36E87EA79EC3AB8" downloadHash="B7AA32A222368EEC4DFEA26FD4793697CFD5A3F9" name="6n_drawn_swords.trx" dlsize="2756307" size="18828923" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -200,12 +180,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5BE5DF005CD21D716E9DBBEE44BFE05F0C92E5D6" downloadHash="9FC7BC678E018F44DE2A8D9136945608095B9892" name="zz_shadowinn.trx" dlsize="1261613" size="6293076" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A8FC4E9E7986DF6E71BF642A76F48C5B923C9FA2" downloadHash="AAE491078495A2137734DA679E347771BB905758" name="unlinked_buildings.trx" dlsize="433031" size="436479" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0CE825E24920F21B9C182C132AFA8C303BB134C2" downloadHash="0F5DEE80D2A33B4C58FA566A0FCFD6402CF60EC9" name="9i_soubar_ruined dwelling.trx" dlsize="29133" size="29260" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2476C3F83ACB3A3D0B9B92CDFE5C7EC3A77A87D5" downloadHash="63713FAFF7BB4CA2C193770924362274E512260A" name="7g_liminal cave.trx" dlsize="115712" size="294276" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -215,7 +195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6E3D3B1A4CEE4B80FC3C5B1ED22EDEFCD9A78F6C" downloadHash="D91F5226A857777B38AB9061A47557137C257F39" name="unlinked tradeway - lg.trx" dlsize="6408331" size="25158713" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5E228D0E27463398CC3F3AC5E83249DF4FB51739" downloadHash="DA95B7B5ECAC2E424F36DA7CDF81E4C57C57CF82" name="unlinked_generic_ruins.trx" dlsize="317681" size="362040" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -250,6 +230,11 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="E9038E344CBE400D65F635C426FDB21C6C791CD4" downloadHash="8127C284872CC1D3FE2C4CF596D0E1F4DED2DEFD" name="9i_ww_crypts2.trx" dlsize="930127" size="939714" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="0EDFEAEBD0A2868679DC5B6123D2834D19AFF495" downloadHash="390CF3FB9B9970A29885B60A1F07FA1612F2BA90" name="encounter_highmoor.trx" dlsize="2596764" size="11609660" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -276,6 +261,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="72923E61FC0DDCFBDCF28343CA1C4AF712ADB2AD" downloadHash="4E54C0614235761A6D3C49C888A0127AE354516D" name="9h_tradeway_farms.trx" dlsize="3680434" size="17643258" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="AB744066D49C51640B2AB242927D4F3634155A11" downloadHash="DBE4911E5B8228B42C311D8194C3A94195B68BD3" name="3o_pelleor_prairie.trx" dlsize="4070901" size="21389289" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -310,7 +300,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A63E6B20AAD659F573CDD9C23C012E5636B3E06F" downloadHash="995D64124DE5117AC571185D9349731A3C7E0B40" name="147_ruinedwatchtower.trx" dlsize="81051" size="81157" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A7225A3B01620481A228076379E0F38F3D3B51AF" downloadHash="E2A9750A3FFC435DD15D86D635FF66EFD4A94FE9" name="015_excavatedportal.trx" dlsize="1980163" size="8702939" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -375,7 +365,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6D7221B6DA7B38BB08B4530FF36E87EA79EC3AB8" downloadHash="B7AA32A222368EEC4DFEA26FD4793697CFD5A3F9" name="6n_drawn_swords.trx" dlsize="2756307" size="18828923" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F88323A162A5F75673077005B223AAF0462016ED" downloadHash="6F4603739AD38504438F568EC8318515DEE57670" name="4o_pelleor_praire_tor.trx" dlsize="5038763" size="24244844" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -390,7 +380,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B79FC16EF2244CEBF9701CF820F89E7148C6C67C" downloadHash="230D88BB7BEB5CEC284F6AA2611A394A9CB76386" name="6c_dragonspearcastle_ext.trx" dlsize="5885054" size="23458282" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D7AC326BC8E2EDA18EED3C5E0AAA2342C81C6FF6" downloadHash="6D67C24A72C7F309159A5F9F4ABFE9A48655D3A9" name="9g_boareskyr bridge_bridgefort.trx" dlsize="18120" size="18051" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -415,7 +405,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D7AC326BC8E2EDA18EED3C5E0AAA2342C81C6FF6" downloadHash="6D67C24A72C7F309159A5F9F4ABFE9A48655D3A9" name="9g_boareskyr bridge_bridgefort.trx" dlsize="18120" size="18051" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A63E6B20AAD659F573CDD9C23C012E5636B3E06F" downloadHash="995D64124DE5117AC571185D9349731A3C7E0B40" name="147_ruinedwatchtower.trx" dlsize="81051" size="81157" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -460,12 +450,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="81F7F6CDDAD1D88D086455712FE1B267F7510218" downloadHash="ADBF94622C38FA780DB59250A64998ED87D76A9C" name="unlinked serpenthills.trx" dlsize="2842224" size="12197506" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="A02A990274F99E5043995D720BD4BF54271DEB65" downloadHash="FCFDDFC63CD08434CDDA83C0906CDC3238592700" name="encounter_battleofbones.trx" dlsize="2162296" size="8905222" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D150D03AD714EEF161084685D66577CB015E0354" downloadHash="891CCC9766EF9FF3498C5F298786B5981DF90802" name="152_ape_elementalearth.trx" dlsize="898143" size="917630" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -485,11 +470,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2476C3F83ACB3A3D0B9B92CDFE5C7EC3A77A87D5" downloadHash="63713FAFF7BB4CA2C193770924362274E512260A" name="7g_liminal cave.trx" dlsize="115712" size="294276" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="02A7AC798FCF5896726969C3B5863453123B4A1B" downloadHash="F380C7B3001D157AAC6DAD3473A66A7E2480EFC1" name="8i_ssthartissun_4.trx" dlsize="238715" size="777799" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -505,7 +485,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7A07F7BAE5EF171AC34BEC437D4A08FA02637509" downloadHash="8E1AA84716232D51CF620547D2C2EFDDE02FBAB5" name="8i_ssthartissun_1.trx" dlsize="726252" size="1787291" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="75D3B1B9C840088453B4E2924CB280E0393117C4" downloadHash="8D4FFBA20B49D752AADB8D1FB2471857778EB384" name="2o_halfway_inn.trx" dlsize="3858431" size="19475813" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -525,7 +505,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D150D03AD714EEF161084685D66577CB015E0354" downloadHash="891CCC9766EF9FF3498C5F298786B5981DF90802" name="152_ape_elementalearth.trx" dlsize="898143" size="917630" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B79FC16EF2244CEBF9701CF820F89E7148C6C67C" downloadHash="230D88BB7BEB5CEC284F6AA2611A394A9CB76386" name="6c_dragonspearcastle_ext.trx" dlsize="5885054" size="23458282" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -610,7 +590,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E9038E344CBE400D65F635C426FDB21C6C791CD4" downloadHash="8127C284872CC1D3FE2C4CF596D0E1F4DED2DEFD" name="9i_ww_crypts2.trx" dlsize="930127" size="939714" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AF2A5E06C5E655A019149AD685A0DAA32964F6EF" downloadHash="55183B862FFF4D74A44001CCC7EB09F74C3BF659" name="9i_soubar_merch_interiors.trx" dlsize="238655" size="282280" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -685,7 +665,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A7225A3B01620481A228076379E0F38F3D3B51AF" downloadHash="E2A9750A3FFC435DD15D86D635FF66EFD4A94FE9" name="015_excavatedportal.trx" dlsize="1980163" size="8702939" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D0542CEC5D17DC41B592F598DAB0D3A865216644" downloadHash="4E61F00450D66E44D5ABA034820A68DF03700C24" name="zz_9i_s_shadowwindingway.trx" dlsize="234364" size="235067" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -696,6 +676,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="DF40BFF80B90D75E3AD2292478FBE17FEF618478" downloadHash="88BB7CC3E1F638C49141D4F62388261E207FC845" name="7p_trail_north.trx" dlsize="1547892" size="18066851" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0CE825E24920F21B9C182C132AFA8C303BB134C2" downloadHash="0F5DEE80D2A33B4C58FA566A0FCFD6402CF60EC9" name="9i_soubar_ruined dwelling.trx" dlsize="29133" size="29260" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -751,11 +736,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="F078A714BE6DD6E3D17EF02C0B4075237F39258E" downloadHash="4557C61ABC81FE9C9BB101D02AFC22CB63E0B954" name="7e_tradeway.trx" dlsize="2782927" size="14989712" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="36E0745DEEF2AD8B5778A653B4B6D075D817AF94" downloadHash="9C98E5D5D2F81C69061C8C0611E260A879071234" name="unlinked town.trx" dlsize="1128387" size="6400220" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -911,11 +891,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="547314A3BAF0F40E37A8ED49905CD4EEC6B790EC" downloadHash="A04A24E0791EFCDBC6D4F2C524CC79C89F4DB606" name="guid.GFF" dlsize="79" size="116" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="1B003D002626E5352934AE732A713E8D17D800D2" downloadHash="679779E655E6CEB7583BD066AEB57EF12FB50B64" name="plc_mod_toolladle.UEN" dlsize="461" size="1282" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1600,6 +1575,16 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="Hak" hash="84F8CA85252B7A2744387C22CDF8696885D91AA4" downloadHash="774B40812CD03708B8DFD6088005431586CCEA29" name="alfa2_2da.hak" dlsize="536410" size="35261346" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="Hak" hash="6AAF971C7135AB31AE333234C721C3DAC1CB065E" downloadHash="59949B28C87825A581227FAB8619D151725E1893" name="alfa2_dev_acr.hak" dlsize="4198210" size="144836636" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>3</string>
+    </server-ref>
+  </resource>
   <resource type="Hak" hash="BB4326AC5AF0A7CDEF917B4F3E4B13471A2A7733" downloadHash="D6F8AEF4077D6FC4656049C0766D561AFF96D040" name="alfa_creatures.hak" dlsize="320459260" size="1641279028" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>3</string>
@@ -1698,56 +1683,6 @@
   <resource type="Hak" hash="A0503B6C228F8FC668DDB9483EF1EFFB9D7F3EA3" downloadHash="AC6A4278D41D1DA4E6874F6717D0F98B4A54B8F2" name="alfa_tiles2.hak" dlsize="173614654" size="1101959504" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="44D2175F947B716BDF8250645FD753653C82B93D" downloadHash="BD4FA815A7DF96FF1E87151D9EEED9F586671389" name="alfa2_acr.hak" dlsize="4199112" size="144850759" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="84F8CA85252B7A2744387C22CDF8696885D91AA4" downloadHash="774B40812CD03708B8DFD6088005431586CCEA29" name="alfa2_2da.hak" dlsize="536410" size="35261346" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="AB744066D49C51640B2AB242927D4F3634155A11" downloadHash="DBE4911E5B8228B42C311D8194C3A94195B68BD3" name="3o_pelleor_prairie.trx" dlsize="4070901" size="21389289" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="C78E7B9F13A7C9904AA47D0FE4D2C2220817D66B" downloadHash="6F8A1D05F1E552A5596ED36CE5E542BA7C3EA0C9" name="2o_pelleor_path_halfway_inn.trx" dlsize="3286958" size="18993280" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="B52E54C1BAE6FEFA0EE9B198C6851B3C386A2087" downloadHash="B01C842B3CD8166C27F82F2581BC3B36F13388F1" name="2o_pelleor_path_halfway_inn1.trx" dlsize="3283971" size="18956009" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="CDE0DCC8A77CEC5D8B5F8699F845E6535D6A54B4" downloadHash="E1A613789A2B0818D053CE84ED091E4B1DA3E482" name="2o_pelleor_halfway_inn.trx" dlsize="3208648" size="18890238" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="6259D6CF0BCC77436D3A9432325842E054D9FA8F" downloadHash="DB09356B5598DB1D34629FD137D6B8F4269034CC" name="2o_pelleor_path_halfway_inn2.trx" dlsize="3080096" size="18767548" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="75D3B1B9C840088453B4E2924CB280E0393117C4" downloadHash="8D4FFBA20B49D752AADB8D1FB2471857778EB384" name="2o_halfway_inn.trx" dlsize="3858431" size="19475813" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="52785787A9AB2CC1846FFA03EBF43EAE0E3B109B" downloadHash="B44A5DEF60EEF140C796BD93B684E99F3E201FEE" name="2o_halfway_inn1.trx" dlsize="3294066" size="18987005" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="63EE64D4FE1B526AFFA290D0536A4D60857DF0CA" downloadHash="52891A2098C1F7527043CD69931DB1BAB07E3F42" name="2o_halfway_inn_int.trx" dlsize="223510" size="225512" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
     </server-ref>
   </resource>
 </content>
