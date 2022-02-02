@@ -1,4 +1,4 @@
-#include "acr_spells_i"
+#include "x2_inc_spellhook"
 #include "x2_inc_switches"
 #include "acr_creature_i"
 #include "NW_I0_SPELLS"
