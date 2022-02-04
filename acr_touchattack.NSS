@@ -103,7 +103,7 @@ void main()
 	
 	  
 //else 
-if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") = "ALLIP")
+if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 //	{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
