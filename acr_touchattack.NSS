@@ -107,7 +107,7 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 //	{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 	//	{
-			int nTouch = TouchAttackMelee(oTarget);
+			int nTouch = TouchAttack(oTarget);
 			int nDamage = d4();
 			SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
 			if(nTouch == 2) nDamage += d4();
