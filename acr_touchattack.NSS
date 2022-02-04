@@ -2,7 +2,7 @@
 #include "x2_inc_switches"
 #include "acr_creature_i"
 #include "NW_I0_SPELLS"
-#include "x2_s3_onhitcast"  
+
 
 void main()
 {
