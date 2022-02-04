@@ -2,6 +2,7 @@
 #include "x2_inc_switches"
 #include "acr_creature_i"
 #include "NW_I0_SPELLS"
+#include "x2_s3_onhitcast"  
 
 void main()
 {
@@ -9,7 +10,7 @@ void main()
 	int SaveDC = GetHitDice(OBJECT_SELF) / 2 + GetAbilityModifier(ABILITY_CHARISMA, OBJECT_SELF) + 10;
 
 	if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "WRAITH")
-	{
+	//{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
 			int nTouch = TouchAttackMelee(oTarget);
@@ -43,10 +44,10 @@ void main()
 				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
 			}
 		}
-	}
+	//}
  
 	else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "GHOST")
-	{
+//	{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
 			int nTouch = TouchAttackMelee(oTarget);
@@ -97,12 +98,12 @@ void main()
 				ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
 			}
 		}
-	}
+	//}
 	
 	
 	  
 else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
-	{
+//	{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
 			int nTouch = TouchAttackMelee(oTarget);
@@ -135,7 +136,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
 			}
 		}
-	}
+	//}
 	 
 	else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "WISP")
 	{
@@ -152,7 +153,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 		}
 }
 	else
-	{
+	//{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
 			int nTouch = TouchAttackMelee(oTarget);
@@ -192,5 +193,5 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
 			}
 		}
-	}
+	//}
 }
