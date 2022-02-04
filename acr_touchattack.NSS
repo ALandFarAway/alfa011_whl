@@ -103,11 +103,11 @@ void main()
 	
 	  
 //else 
-if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
+if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") = "ALLIP")
 //	{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
-			int nTouch = TouchAttackAllip(oTarget);
+			int nTouch = TouchAttackMelee(oTarget);
 			int nDamage = d4();
 			SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
 			if(nTouch == 2) nDamage += d4();
