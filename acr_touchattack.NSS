@@ -138,7 +138,7 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 			}
 		}
 	//}
-	 
+/*	 
 	else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "WISP")
 	//{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
@@ -153,6 +153,7 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 			}
 		}
 //}
+
 	else
 	//{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
@@ -194,5 +195,5 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
 			}
 		//}
-	//}
+	//}*/
 }
