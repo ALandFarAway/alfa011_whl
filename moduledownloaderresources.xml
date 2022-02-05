@@ -1690,4 +1690,9 @@
       <string>3</string>
     </server-ref>
   </resource>
+  <resource type="Hak" hash="2B991D84DCEFA557038C3B9B72657AA8B44D6AD3" downloadHash="97A7F67CB77F25F515761239D1D693F806C6F437" name="alfa2_dev_2da.hak" dlsize="537457" size="35261346" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>3</string>
+    </server-ref>
+  </resource>
 </content>
