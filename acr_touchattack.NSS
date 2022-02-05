@@ -134,8 +134,8 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 				}
 				ApplyEffectToObject(DURATION_TYPE_PERMANENT, SupernaturalEffect(EffectTemporaryHitpoints(5)), OBJECT_SELF);
 				ApplyEffectToObject(DURATION_TYPE_PERMANENT, SupernaturalEffect(EffectAbilityDecrease(ABILITY_WISDOM, nDamage)), oTarget);
+				SendMessageToPC(oTarget, " touches you! Panic clouds your judgement.");
 				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
-				string sMessage = GetName(OBJECT_SELF) + " touches you! Panic clouds your judgement.";
 			}
 		}
 	}
