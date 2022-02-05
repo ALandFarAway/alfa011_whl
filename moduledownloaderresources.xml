@@ -1695,4 +1695,9 @@
       <string>3</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="D506BC338C7BC21210AE7CC35CF57CCD3178E0ED" downloadHash="010060FFC5BEB8F09377D5FA8E0E9146DF7F4DE2" name="newt tunnels.trx" dlsize="637792" size="647160" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
