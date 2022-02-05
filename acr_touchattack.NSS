@@ -103,8 +103,8 @@ void main()
 	
 	  
 //else 
-if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
-//	{
+if(GetLocalString(OBJECT_SELF, "ACR_TOUCHATTACK") == "ALLIP")
+	{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
 			int nTouch = TouchAttackMelee(oTarget);
@@ -137,7 +137,7 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
 			}
 		}
-	//}
+	}
 /*	 
 	else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "WISP")
 	//{
