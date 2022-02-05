@@ -1690,14 +1690,14 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="2B991D84DCEFA557038C3B9B72657AA8B44D6AD3" downloadHash="97A7F67CB77F25F515761239D1D693F806C6F437" name="alfa2_dev_2da.hak" dlsize="537457" size="35261346" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>3</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="D506BC338C7BC21210AE7CC35CF57CCD3178E0ED" downloadHash="010060FFC5BEB8F09377D5FA8E0E9146DF7F4DE2" name="newt tunnels.trx" dlsize="637792" size="647160" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Hak" hash="D0C0C8B5EE4B4AD6FDF4301C09FF95FA4950F09C" downloadHash="E667C826FBAEE8CE8FC0BE92AFC75DDBCCA09719" name="alfa2_dev2_2da.hak" dlsize="540181" size="35264410" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>3</string>
     </server-ref>
   </resource>
 </content>
