@@ -112,8 +112,7 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 			int nTouch = TouchAttackMelee(oTarget);
 			int nDamage = d4();
 			SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
-			if(nTouch == 2) 
-			//nDamage += d4();
+			if(nTouch == 2) nDamage += d4();
 			if(nTouch)
 			{
 				if(nDamage >  GetAbilityScore(oTarget, ABILITY_WISDOM) &&
@@ -142,9 +141,9 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 			}
 		}
 	}
-/*	 
+	 
 	else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "WISP")
-	//{
+	{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
 			int nTouch = TouchAttackMelee(oTarget);
@@ -156,8 +155,8 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 				ApplyEffectToObject( DURATION_TYPE_TEMPORARY, EffectBeam( VFX_BEAM_SHOCKING_GRASP, OBJECT_SELF, BODY_NODE_CHEST, FALSE ), oTarget, 1.0f );
 			}
 		}
-//}
-
+}
+/*
 	else
 	//{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
@@ -198,6 +197,6 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 				ApplyEffectToObject(DURATION_TYPE_PERMANENT, ExtraordinaryEffect(EffectAbilityDecrease(ABILITY_STRENGTH, nDamage)), oTarget);
 				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
 			}
-		//}
-	//}*/
+		}
+	}*/
 }
