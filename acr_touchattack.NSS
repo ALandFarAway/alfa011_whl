@@ -11,14 +11,14 @@ void main()
 	object oTarget = GetSpellTargetObject();
 	int SaveDC = GetHitDice(OBJECT_SELF) / 2 + GetAbilityModifier(ABILITY_CHARISMA, OBJECT_SELF) + 10;
 
-	if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "WRAITH")
+if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "WRAITH")
 	{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
 			int nTouch = TouchAttackMelee(oTarget);
 			int nDamage = d4();
-			SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
 			if(nTouch == 2) nDamage += d4();
+			SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
 			int nDrain = d6();
 			if(nTouch && !FortitudeSave(oTarget, SaveDC, SAVING_THROW_TYPE_NEGATIVE, OBJECT_SELF))
 			{
@@ -43,7 +43,7 @@ void main()
 				}
 				ApplyEffectToObject(DURATION_TYPE_PERMANENT, SupernaturalEffect(EffectTemporaryHitpoints(5)), OBJECT_SELF);
 				ApplyEffectToObject(DURATION_TYPE_PERMANENT, SupernaturalEffect(EffectAbilityDecrease(ABILITY_CONSTITUTION, nDrain)), oTarget);
-				SendMessageToPC(oTarget, "Creature touches you! You feel yourself grow weaker.");
+				SendMessageToPC(oTarget, "Creature touches you! You feel more frail.");
 				ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectDamage(nDamage), oTarget);
 				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
 			}
@@ -112,7 +112,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
 			int nTouch = TouchAttackMelee(oTarget);
-			int nDamage = 0;
+        	int nDamage = d4();
 			SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
 			if(nTouch == 2) nDamage += d4();
 			if(nTouch)
