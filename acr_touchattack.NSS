@@ -1,3 +1,5 @@
+// Variables need to be put on the creatures claw/slam.  Choose the OnHitCast Touch attack.
+
 #include "x2_inc_spellhook"
 #include "x2_inc_switches"
 #include "acr_creature_i"
@@ -147,14 +149,53 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 		{
 			int nTouch = TouchAttackMelee(oTarget);
 			int nDamage = d8(2);
+			SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
 			if(nTouch == 2) nDamage += d8(2);
 			if(nTouch)
 			{
 				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectDamage( nDamage, DAMAGE_TYPE_ELECTRICAL ), oTarget );
+			    SendMessageToPC(oTarget, "Creature touches you! You feel a jolt run through your body");
 				ApplyEffectToObject( DURATION_TYPE_TEMPORARY, EffectBeam( VFX_BEAM_SHOCKING_GRASP, OBJECT_SELF, BODY_NODE_CHEST, FALSE ), oTarget, 1.0f );
 			}
 		}
 }
+else if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
+		{
+			int nTouch = TouchAttackMelee(oTarget);
+			int nDamage = 0;
+			if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "SHADOW")		
+			{
+        nDamage = d6();
+		SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
+        if(nTouch == 2) nDamage += d6();
+			}
+			if(nTouch)
+			{
+				if(nDamage >  GetAbilityScore(oTarget, ABILITY_STRENGTH) &&
+				   !GetIsImmune(oTarget, IMMUNITY_TYPE_ABILITY_DECREASE))
+				{
+					ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectDeath(), oTarget);
+				}
+				else
+				{
+					effect eEffect = GetFirstEffect(oTarget);
+					while(GetIsEffectValid(eEffect))
+					{
+						if(GetEffectSpellId(eEffect) == GetSpellId() &&
+						   GetEffectCreator(eEffect) == OBJECT_SELF)
+						{
+							nDamage += GetEffectInteger(eEffect, 1);
+							RemoveEffect(oTarget, eEffect);
+						}
+						eEffect = GetNextEffect(oTarget);
+					}
+				}
+				ApplyEffectToObject(DURATION_TYPE_PERMANENT, ExtraordinaryEffect(EffectAbilityDecrease(ABILITY_STRENGTH, nDamage)), oTarget);
+				SendMessageToPC(oTarget, "Creature touches you! Suddenly everything is weighing you down more");
+				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
+			}
+		}
+//	}
 /*
 	else
 	//{
