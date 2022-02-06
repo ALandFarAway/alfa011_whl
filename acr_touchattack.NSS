@@ -1,4 +1,4 @@
-// Variables need to be put on the creatures claw/slam and the Creature.  Choose the OnHitCast Touch attack.
+// Variables need to be put on the creatures claw/slam and the Creature.  Choose the OnHitCast Touch attack on the item.
 
 #include "x2_inc_spellhook"
 #include "x2_inc_switches"
@@ -99,6 +99,7 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "WRAITH")
 				}
         ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectHeal(5), OBJECT_SELF);
 				ApplyEffectToObject(DURATION_TYPE_PERMANENT, SupernaturalEffect(EffectAbilityDecrease(nAbility, nDrain)), oTarget);
+				SendMessageToPC(oTarget, "Creature touches you! You feel drained.");
 				ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectDamage(nDamage), oTarget);
 				ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
 			}
@@ -165,16 +166,15 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 		{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
-	
 			int nTouch = TouchAttackMelee(oTarget);
 			int nDamage = 0;
-				
+			
 			{
         nDamage = d6();
-		SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
         if(nTouch == 2) nDamage += d6();
+		SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
 		if(nTouch)
-		
+			{
 				if(nDamage >  GetAbilityScore(oTarget, ABILITY_STRENGTH) &&
 				   !GetIsImmune(oTarget, IMMUNITY_TYPE_ABILITY_DECREASE))
 				{
@@ -195,11 +195,11 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 					}
 				}
 				ApplyEffectToObject(DURATION_TYPE_PERMANENT, ExtraordinaryEffect(EffectAbilityDecrease(ABILITY_STRENGTH, nDamage)), oTarget);
-				SendMessageToPC(oTarget, "Creature touches you! Suddenly everything is weighing you down");
+				SendMessageToPC(oTarget, "Creature touches you! Suddenly everything is weighing you down ");
 				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
 			}
 		}
-	}
+	 }
   else
 	{
     	if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "GREATER SHADOW")
@@ -243,5 +243,5 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 }
 }
 }
-
+}
 
