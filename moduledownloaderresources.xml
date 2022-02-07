@@ -260,7 +260,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="72923E61FC0DDCFBDCF28343CA1C4AF712ADB2AD" downloadHash="4E54C0614235761A6D3C49C888A0127AE354516D" name="9h_tradeway_farms.trx" dlsize="3680434" size="17643258" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CC7522690735F2883B164424CAEF08007783556D" downloadHash="8DCA5E240E9E2792BFE48C3688964DBD9D9B7B45" name="9h_tradeway_farms.trx" dlsize="3698958" size="17648661" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -530,7 +530,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="198607007CF967D0C5B4EF69D11AA292934434C6" downloadHash="7AE98F90039C67E216AC24EEAA99C3FBAE81D530" name="9i_soubar_ext.trx" dlsize="3716578" size="20081333" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BCF8201E1F781BE579135E8E9D73129BF72FC957" downloadHash="A9DF7AE752929F7086E85A6DB205B049F054AD22" name="9i_soubar_ext.trx" dlsize="3771783" size="20076316" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1680,7 +1680,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D506BC338C7BC21210AE7CC35CF57CCD3178E0ED" downloadHash="010060FFC5BEB8F09377D5FA8E0E9146DF7F4DE2" name="newt tunnels.trx" dlsize="637792" size="647160" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8D7A4E5F61BDF27C5B682C408C55182D07EDE3AC" downloadHash="B966AE558E7C0A5EA9710525063A489480E524DA" name="newt tunnels.trx" dlsize="641620" size="652331" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

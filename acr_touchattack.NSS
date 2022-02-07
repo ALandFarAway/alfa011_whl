@@ -49,7 +49,6 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "WRAITH")
 			}
 		}
 	}
- 
 	else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "GHOST")
 	{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
@@ -114,7 +113,6 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 		{
 			int nTouch = TouchAttackMelee(oTarget);
         	int nDamage = d4();
-			SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
 			if(nTouch == 2) nDamage += d4();
 			if(nTouch)
 			{
@@ -200,7 +198,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 			}
 		}
 	 }
-	 }
+   }
   else
 	{
     	if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "GREATER SHADOW")
@@ -213,13 +211,13 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 			{
         nDamage = d8();
         if(nTouch == 2) nDamage += d8();
-		SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
 		if(nTouch)
 			{
 				if(nDamage >  GetAbilityScore(oTarget, ABILITY_STRENGTH) &&
 				   !GetIsImmune(oTarget, IMMUNITY_TYPE_ABILITY_DECREASE))
 				{
 					ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectDeath(), oTarget);
+					SendMessageToPC(oTarget, "Creature touches you! Suddenly everything is weighing you down alot more");
 				}
 				else
 				{
@@ -236,7 +234,6 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 					}
 				}
 				ApplyEffectToObject(DURATION_TYPE_PERMANENT, ExtraordinaryEffect(EffectAbilityDecrease(ABILITY_STRENGTH, nDamage)), oTarget);
-				SendMessageToPC(oTarget, "Creature touches you! Suddenly everything is weighing you down alot more");
 				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
 			}
 		}
