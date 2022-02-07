@@ -199,6 +199,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 		}
 	 }
    }
+ 
   else
 	{
     	if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "GREATER SHADOW")
@@ -241,5 +242,4 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 }
 }
 }
-
 
