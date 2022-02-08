@@ -166,7 +166,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 			int nTouch = TouchAttackMelee(oTarget);
 			int nDamage = 0;
 			
-			{
+			//{
         nDamage = d6();
         if(nTouch == 2) nDamage += d6();
 		SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
@@ -195,7 +195,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 				SendMessageToPC(oTarget, "Creature touches you! Suddenly everything is weighing you down ");
 				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
 			}
-		}
+	//	}
 	 }
    }
  
