@@ -18,7 +18,6 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "WRAITH")
 			int nTouch = TouchAttackMelee(oTarget);
 			int nDamage = d4();
 			if(nTouch == 2) nDamage += d4();
-			SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
 			int nDrain = d6();
 			if(nTouch && !FortitudeSave(oTarget, SaveDC, SAVING_THROW_TYPE_NEGATIVE, OBJECT_SELF))
 			{
