@@ -18,7 +18,7 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "WRAITH")
 			int nTouch = TouchAttackMelee(oTarget);
 			//int nDamage = d4();
 			//if(nTouch == 2) nDamage += d4();
-			int nDrain = d6();
+			int nDrain = d6(1);
 			if(nTouch && !FortitudeSave(oTarget, 14, SAVING_THROW_TYPE_NEGATIVE, OBJECT_SELF))
 			{
 				if(nDrain >  GetAbilityScore(oTarget, ABILITY_CONSTITUTION) &&
@@ -53,10 +53,10 @@ if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "WRAITH")
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 	{
 			int nTouch = TouchAttackMelee(oTarget);
-			int nDamage = d6();
+			int nDamage = d6(1);
 			SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
 			//if(nTouch == 2) nDamage += d6();
-			int nDrain = d4();
+			int nDrain = d4(1);
 			if(nTouch)
 			{
 				/*effect eEffect = GetFirstEffect(oTarget);
@@ -138,7 +138,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
 			int nTouch = TouchAttackMelee(oTarget);
-        	int nDrain = d4();
+        	int nDrain = d4(1);
 			//if(nTouch == 2) nDamage += d4();
 			if(nTouch)
 			{
@@ -190,7 +190,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
 			int nTouch = TouchAttackMelee(oTarget);
-			int nDrain = d6();
+			int nDrain = d6(1);
 			
 		//	{
         
@@ -232,7 +232,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
 			int nTouch = TouchAttackMelee(oTarget);
-			int nDrain =  d8();
+			int nDrain =  d8(1);
 			
 		//	{
         
@@ -264,6 +264,6 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 			}
 	//	}
 	 }
-}
+  }
 }
 }
