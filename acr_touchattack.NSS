@@ -192,7 +192,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 			int nTouch = TouchAttackMelee(oTarget);
 			int nDrain = d6();
 			
-			//{
+		//	{
         
         //if(nTouch == 2) nDamage += d6();
 		SendMessageToPC(oTarget, "nDrain = " + IntToString(nDrain));
@@ -221,7 +221,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 				SendMessageToPC(oTarget, GetName(OBJECT_SELF) + " touches you! Strength goes out of your limbs.");
 				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
 			}
-	//	}
+		//}
 	 }
    }
  
@@ -234,7 +234,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 			int nTouch = TouchAttackMelee(oTarget);
 			int nDrain =  d8();
 			
-			//{
+		//	{
         
 		//if(nTouch == 2) nDamage += d8();
 		if(nTouch)
@@ -262,7 +262,7 @@ else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "ALLIP")
 				SendMessageToPC(oTarget, GetName(OBJECT_SELF) + " touches you! Your muscles go slack, your strength failing.");
 				ApplyEffectToObject( DURATION_TYPE_INSTANT, EffectVisualEffect( VFX_IMP_PULSE_NEGATIVE ), oTarget );
 			}
-		//}
+	//	}
 	 }
 }
 }
