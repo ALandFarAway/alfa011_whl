@@ -31,9 +31,9 @@ void main()
 		}
 	}
 	else if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "GHOST")
-	{
+	//{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
-	{
+	//{
 			int nTouch = TouchAttackMelee(oTarget);
 			int nDamage = d6();
 			SendMessageToPC(oTarget, "nDamage = " + IntToString(nDamage));
