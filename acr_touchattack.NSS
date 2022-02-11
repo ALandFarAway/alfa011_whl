@@ -2,16 +2,24 @@
 
 
 #include "x2_inc_spellhook"
-//#include "x2_inc_switches"
+#include "x2_inc_switches"
 #include "acr_creature_i"
 #include "NW_I0_SPELLS"
+#include "acr_zspawn_i"
 
 
 
 void main()
 {
+    ACR_CreatureOnSpawnIn();
+
+    // Custom code goes here.
+	IncorporealEffects(OBJECT_SELF);
+
+   
+//{
 	object oTarget = GetSpellTargetObject();
-	if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "LESSER SHADOW")
+	if(GetLocalString(OBJECT_SELF, "ACR_TOUCH_ATTACK") == "LESSER_SHADOW")
 	{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
@@ -31,11 +39,10 @@ void main()
 			}
 	      }
 		}  
-   }
+   //}
+}     
 
 
-     
-   
    
    
    
