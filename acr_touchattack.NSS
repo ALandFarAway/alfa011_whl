@@ -23,7 +23,7 @@ void main()
 	{
 		if(GetObjectType(oTarget) == OBJECT_TYPE_CREATURE)
 		{
-			int nTouch = TouchAttackMelee(oTarget);
+			int nTouch = TouchAttackMelee(oTarget,TRUE, 0);
 	    	int nDrain = d6(1);
 			SendMessageToPC(oTarget, "nDrain = " + IntToString(nDrain));
 			if(nTouch)
