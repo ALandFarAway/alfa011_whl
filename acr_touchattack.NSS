@@ -2,9 +2,9 @@
 #include "x2_inc_spellhook"
 #include "x2_inc_switches"
 #include "acr_creature_i"
-#include "NW_I0_SPELLS"
-#include "acr_zspawn_i"
-#include "x0_i0_spells"
+//#include "NW_I0_SPELLS"
+//#include "acr_zspawn_i"
+//#include "x0_i0_spells"
 
 
 void main()
