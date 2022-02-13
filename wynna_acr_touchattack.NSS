@@ -4,6 +4,7 @@
 #include "x2_inc_switches"
 #include "acr_creature_i"
 #include "NW_I0_SPELLS"
+#include "nw_i0_generic"
 
 
 void main()
