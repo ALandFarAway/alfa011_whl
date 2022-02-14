@@ -1,9 +1,10 @@
-// ACR_TOUCH_ATTACK strings need to be put on the Creature and the creature should have the Touch Attack Feat[2179].  On hit Cast Spell Touch attack, 
+// ACR_TOUCH_ATTACK variable needs to be put on the Creature and the creature should have the Touch Attack Feat[2179].  On hit Cast Spell Touch attack, 
 //no combat damage and the creatures +for melee attacks should be on the creature touch item.
+
 #include "x2_inc_spellhook"
 #include "x2_inc_switches"
 #include "acr_creature_i"
-#include "NW_I0_SPELLS"
+#include "NW_I0_SPELLS"   
 
 
 void main()

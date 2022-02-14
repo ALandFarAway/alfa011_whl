@@ -260,7 +260,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="70102ED2958B4A47C7F8C756A11DCCB6A84B871A" downloadHash="055D02D1D63ADF3666441E1DB666C28D345DE874" name="9h_tradeway_farms.trx" dlsize="3732835" size="17706291" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5C6EC4CB4D8766353D8B475EA7F7CC9F36ED29BE" downloadHash="DD4F9D3A45A702145669B6669EE0598FA6311769" name="9h_tradeway_farms.trx" dlsize="3736775" size="17709171" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
