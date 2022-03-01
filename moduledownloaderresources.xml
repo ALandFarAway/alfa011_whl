@@ -1690,4 +1690,9 @@
       <string>3</string>
     </server-ref>
   </resource>
+  <resource type="Hak" hash="F32A3AFA7AD8754BEE533FEBDE14CF24B6FF5C0E" downloadHash="E1A4687F7F3D8B76242EFB810D33DB7085F4CC8C" name="alfa_dev_placeables.hak" dlsize="473855786" size="1572901342" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>3</string>
+    </server-ref>
+  </resource>
 </content>
