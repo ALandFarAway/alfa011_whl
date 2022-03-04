@@ -125,7 +125,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="63EE64D4FE1B526AFFA290D0536A4D60857DF0CA" downloadHash="52891A2098C1F7527043CD69931DB1BAB07E3F42" name="2o_halfway_inn_int.trx" dlsize="223510" size="225512" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7BA00B24A34ECDCD3C06C9B09DE1C807497D4AE1" downloadHash="C5BF91E30FA402D9FAE73196FC23C7ED258CBF11" name="2o_halfway_inn_int.trx" dlsize="226828" size="228878" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -485,7 +485,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="75D3B1B9C840088453B4E2924CB280E0393117C4" downloadHash="8D4FFBA20B49D752AADB8D1FB2471857778EB384" name="2o_halfway_inn.trx" dlsize="3858431" size="19475813" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="31659CBB18F51B6F8AF000BA0EF22D1ECB0C19D5" downloadHash="D38C6D2BE66A9F37B80C0846B891EBAF7076FEC0" name="2o_halfway_inn.trx" dlsize="3865074" size="19475112" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -540,7 +540,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CB79D73E2A218BF15D3986C9A76A8DDEEC6E9CC3" downloadHash="9BBBDCE954C1E992E8C1C155614D0FE09021DC5D" name="4a_tradeway_wayinn.trx" dlsize="3015233" size="16211861" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9722BAFDC031D908147471AD0E4ACDD70A53AD96" downloadHash="9C088836935F67DD88A30FBC9397F946D24A8D22" name="4a_tradeway_wayinn.trx" dlsize="3165350" size="16278318" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1688,6 +1688,11 @@
   <resource type="Hak" hash="D0C0C8B5EE4B4AD6FDF4301C09FF95FA4950F09C" downloadHash="E667C826FBAEE8CE8FC0BE92AFC75DDBCCA09719" name="alfa2_dev2_2da.hak" dlsize="540181" size="35264410" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5E6E1C3969B4A8D9883DA299D328643143D010AE" downloadHash="639ABDD85539D890A17B232514D81B3A3F682E24" name="4a-1_Brightoaks.trx" dlsize="572996" size="6445799" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
