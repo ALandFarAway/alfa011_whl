@@ -540,7 +540,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="718E7F82B7814F9E80874E4CE90A57904C0A11BB" downloadHash="7B41F7E3C30E182D78EB1E7B3D33404AB865E019" name="4a_tradeway_wayinn.trx" dlsize="2550054" size="15438874" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CB79D73E2A218BF15D3986C9A76A8DDEEC6E9CC3" downloadHash="9BBBDCE954C1E992E8C1C155614D0FE09021DC5D" name="4a_tradeway_wayinn.trx" dlsize="3015233" size="16211861" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1686,11 +1686,6 @@
     </server-ref>
   </resource>
   <resource type="Hak" hash="D0C0C8B5EE4B4AD6FDF4301C09FF95FA4950F09C" downloadHash="E667C826FBAEE8CE8FC0BE92AFC75DDBCCA09719" name="alfa2_dev2_2da.hak" dlsize="540181" size="35264410" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>3</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="F32A3AFA7AD8754BEE533FEBDE14CF24B6FF5C0E" downloadHash="E1A4687F7F3D8B76242EFB810D33DB7085F4CC8C" name="alfa_dev_placeables.hak" dlsize="473855786" size="1572901342" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>3</string>
     </server-ref>
