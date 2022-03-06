@@ -220,7 +220,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BB69E9D54959706CABB4C66DE3C6AB7381B6B891" downloadHash="27971BFA63C2629F165E570794A8D3DED788B059" name="8m_treilta_trail.trx" dlsize="856395" size="14407681" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E394A6B89EFADC0814F3D1C2A05462089BB3AC99" downloadHash="40845DB179716AED16A7929BE18B81D3E54339BB" name="8m_treilta_trail.trx" dlsize="865782" size="14419128" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -430,7 +430,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E08C315B33AEA8D469A6D3B4E70FD2C56CA02655" downloadHash="1024B4859A828A4A8EB5591DF72867EF275D38A7" name="8l_trielta_trail.trx" dlsize="887514" size="14431494" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C7761990DBA36C90B02F7A33FAB8EDB539331CA2" downloadHash="082B7B217D28535E4163C990463003203511EFBB" name="8l_trielta_trail.trx" dlsize="866353" size="14417141" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1589,11 +1589,11 @@
     <server-ref>
       <string>0</string>
     </server-ref>
-    </resource>
+  </resource>
   <resource type="Hak" hash="84F8CA85252B7A2744387C22CDF8696885D91AA4" downloadHash="774B40812CD03708B8DFD6088005431586CCEA29" name="alfa2_2da.hak" dlsize="536410" size="35261346" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
-       <string>3</string>
+      <string>3</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="44D2175F947B716BDF8250645FD753653C82B93D" downloadHash="BD4FA815A7DF96FF1E87151D9EEED9F586671389" name="alfa2_acr.hak" dlsize="4199112" size="144850759" critical="false" exclude="false" urlOverride="">
