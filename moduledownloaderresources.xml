@@ -385,7 +385,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4475D8B6EB4A5455C5D118FAEB3E7CE5D137DDD1" downloadHash="356FA5D771555056B666515781D002438774F46D" name="4a-1_Brightoaks_int.trx" dlsize="387460" size="399558" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C58C7A51079E3F83B19F550FFB7C12C22F6833F7" downloadHash="E41E04B11803CFE73399067073F11404013EA2EF" name="4a-1_Brightoaks_int.trx" dlsize="439364" size="448301" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -550,7 +550,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9722BAFDC031D908147471AD0E4ACDD70A53AD96" downloadHash="9C088836935F67DD88A30FBC9397F946D24A8D22" name="4a_tradeway_wayinn.trx" dlsize="3165350" size="16278318" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="97415670C1317F06E47884C6AFB3D10F43446932" downloadHash="ED7B644D3B14792B8F00D1016BA4BB530F819FCB" name="4a_tradeway_wayinn.trx" dlsize="3148276" size="16274226" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -720,7 +720,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AE9669454539463BBCDD83AC605E14AEE1C8331A" downloadHash="E5A0007EECEBF1A0D53D1058BA794A7BE7C6BB6C" name="1g_carterhaugh_barrow.trx" dlsize="46497" size="46466" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5DEB58639D35F06029FC54A5C9BEFE8790A5172A" downloadHash="FAAB7A790EBF06899D90F52C910952C3D262F53A" name="1g_carterhaugh_barrow.trx" dlsize="44956" size="44974" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
