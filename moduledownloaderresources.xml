@@ -385,7 +385,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C58C7A51079E3F83B19F550FFB7C12C22F6833F7" downloadHash="E41E04B11803CFE73399067073F11404013EA2EF" name="4a-1_Brightoaks_int.trx" dlsize="439364" size="448301" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="540D92D7CA9CA9DDE6B2C5AFE42700EAB69A6C77" downloadHash="DB251AA9BAF4D32684BB56C4DEC6CF1A122BB2C9" name="4a-1_Brightoaks_int.trx" dlsize="439592" size="448531" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -510,7 +510,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="63911FE11FE821EA0AF9185BF4073504D9239213" downloadHash="382E3BB0EF7DFB9AAC81DB6F42CC6DF6DC8D2CAD" name="8o_hillsedge_area_reaching.trx" dlsize="1800836" size="18661696" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="08D9B2EB1927DC6423108941245FC57FB1CAC7DF" downloadHash="A54CACAA6A5F7F9028C1C8415711D0A008632942" name="8o_hillsedge_area_reaching.trx" dlsize="1900115" size="18775871" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -665,7 +665,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="20DD572D5FA088CAC0BF20C1961AFD9A45933A0F" downloadHash="1F6105B677B74224D22FA5A6461B5A8A3B1120EE" name="9o_hillsedge_area_vale.trx" dlsize="2831380" size="18989498" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E914CF4B82CB224050B094B11C8F68D756279B0B" downloadHash="9954C03736C66E6C3AFA447608E5184A2AB09402" name="9o_hillsedge_area_vale.trx" dlsize="2813126" size="19011920" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1590,10 +1590,11 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="84F8CA85252B7A2744387C22CDF8696885D91AA4" downloadHash="774B40812CD03708B8DFD6088005431586CCEA29" name="alfa2_2da.hak" dlsize="536410" size="35261346" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="D0C0C8B5EE4B4AD6FDF4301C09FF95FA4950F09C" downloadHash="E667C826FBAEE8CE8FC0BE92AFC75DDBCCA09719" name="alfa2_dev2_2da.hak" dlsize="540181" size="35264410" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>1</string>
-      <string>3</string>
+     <string>1</string>
+     <string>3</string>
+    </server-ref>
     </server-ref>
   </resource>
   <resource type="Hak" hash="44D2175F947B716BDF8250645FD753653C82B93D" downloadHash="BD4FA815A7DF96FF1E87151D9EEED9F586671389" name="alfa2_acr.hak" dlsize="4199112" size="144850759" critical="false" exclude="false" urlOverride="">
@@ -1720,6 +1721,26 @@
     <server-ref>
       <string>1</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1A403023EC90202888E2C7D49D6E72E0AFB893E5" downloadHash="EC1F7501FE61B7BC9285814D76C131A8FB43720B" name="8o-1_hillsedge_cemetary.trx" dlsize="548586" size="6346971" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="8o-1_hillsedge_cemetary.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="8o_hillsedge_area_reaching.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="9o_hillsedge_area_vale.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
