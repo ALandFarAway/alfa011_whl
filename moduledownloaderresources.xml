@@ -1580,7 +1580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="7573E2CF32CEE02C5E146A2D491EE12029CE3D13" downloadHash="B875A2A797EEF1EE1BC21B1B033617A1AE811EB4" name="alfa2_dev2_acr.hak" dlsize="4198626" size="145145457" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="973826E06B669CD5742229D6D7AF97AE8E7B6254" downloadHash="D4CADDDB81D163DDFDF7C2F7955A598F0BFC412A" name="alfa2_dev3_acr.hak" dlsize="4200743" size="144844681" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1711,14 +1711,10 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="973826E06B669CD5742229D6D7AF97AE8E7B6254" downloadHash="D4CADDDB81D163DDFDF7C2F7955A598F0BFC412A" name="alfa2_dev3_acr.hak" dlsize="4200743" size="144844681" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="Hak" hash="1CF30A56B878637F86D3C6347CE8E8A13FDEA234" downloadHash="D6C39F8A952155EDC958D5BC95F1350C1419A420" name="alfa_music.hak" dlsize="199473008" size="217541842" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>0</string>
+      <string>1</string>
+      <string>3</string>
     </server-ref>
   </resource>
   <resource type="Music" hash="E1C0E6D709ADDA96A45DBCB92544BA107ECD4914" downloadHash="C7BACA05C232DD4ABB26BD835499EB20CAAE3D26" name="mus_ruralday1.bmu" dlsize="1553431" size="1608213" critical="false" exclude="false" urlOverride="">
