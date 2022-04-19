@@ -1684,13 +1684,13 @@
   <resource type="Hak" hash="6D9D3F0A7B2365D26B6BE582D4169B8B3B4770D5" downloadHash="54BDD7FB67C89645480BB19A707B2EBF7E5B1221" name="n-alfa_placeables4.hak" dlsize="394382363" size="1394827663" critical="false" exclude="false" urlOverride="">
     <server-ref>
      <string>1</string>
-      <string>3</string>
+     <string>3</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="C806E9CEA9590CE8ABDA92A4ED2A079B2CD915AA" downloadHash="9BC59D51E228D221ADEE9ED189007D3F97ABE987" name="n-alfa_placeables5.hak" dlsize="476717112" size="1529130363" critical="false" exclude="false" urlOverride="">
     <server-ref>
    <string>1</string>
-      <string>3</string>
+    <string>3</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="0A4FF59E20FAEEE5FAFBD33371D62AEAAE0F354C" downloadHash="D8B339BDF603E1786F5C23A7EAEE61400952EFE1" name="alfa2_pr.hak" dlsize="19614673" size="306758259" critical="false" exclude="false" urlOverride="">
