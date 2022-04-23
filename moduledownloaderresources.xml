@@ -380,7 +380,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A351278BE90B434B3A27C58A6E4692D913EECC0A" downloadHash="17F906ECE5F22226243EACA1B53D2968F3667679" name="8f_tradeway.trx" dlsize="2672601" size="14893881" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A79C20EA29AB76F68C7CD174280665A0D09F07D9" downloadHash="891E1A61DD9952972D67E899B4E5479AD7FAF66D" name="8f_tradeway.trx" dlsize="2671839" size="14898756" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -480,7 +480,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="32FD086AD8D0C12EF1E3B655112E9CE6D4CC8D51" downloadHash="1818839F27B332FAE6624279B4D6669438D010AF" name="9f_coastway.trx" dlsize="1436086" size="14731964" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AE500C4F6421752BE563AC594BB9CA1E98D8FE37" downloadHash="A59506303030CD68F79F28CEDFEA1F620394ED23" name="9f_coastway.trx" dlsize="1647146" size="14750044" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
