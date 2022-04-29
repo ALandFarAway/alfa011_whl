@@ -1713,8 +1713,8 @@
   </resource>
   <resource type="Hak" hash="2CFBC8D6D3EA7EA8E0AF0E7EF945465867FDADCB" downloadHash="D927DCE56BBC6BC388A29A729B40A7E9475CB09A" name="alfa_tiles.hak" dlsize="313021437" size="1667727528" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>1</string>
-      <string>3</string>
+     <string>1</string>
+     <string>3</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="92F00EBB3EC1C0844B0A0F516150B292FE287FD4" downloadHash="F2821578AAEB6A2C623E204AD2C3CB97E1F45D98" name="alfa_tiles2.hak" dlsize="179414842" size="1135449616" critical="false" exclude="false" urlOverride="">
