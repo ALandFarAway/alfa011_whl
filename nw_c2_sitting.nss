@@ -25,6 +25,8 @@ void main()
         object oChair = GetNearestObjectByTag("NW_CHAIR", OBJECT_SELF,i);
         int bFoundChair = FALSE;
         while (bFoundChair == FALSE && GetIsObjectValid(oChair) == TRUE)
+		SetOrientOnDialog(oTarget,FALSE);
+		SetBumpState(oTarget,BUMPSTATE_UNBUMPABLE); 
         {
           // * This chair is free
           if (GetIsObjectValid(GetSittingCreature(oChair)) == FALSE)

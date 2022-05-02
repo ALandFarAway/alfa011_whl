@@ -15,6 +15,8 @@ void main()
 	if (nRandom==0)
 
 	PlayCustomAnimation(OBJECT_SELF,"sitgroundidle", 1);
+		SetOrientOnDialog(OBJECT_SELF,FALSE);
+		SetBumpState(OBJECT_SELF,BUMPSTATE_UNBUMPABLE); 
 	//	AssignCommand(oNPC, ActionPlayAnimation(sitgroundidle));
 	
 }
