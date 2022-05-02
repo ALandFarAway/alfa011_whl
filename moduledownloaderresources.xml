@@ -120,7 +120,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D74035FD3E1545D24BD8BAA4BF6C1004553A3C0F" downloadHash="123C61FEC5CB81C4B947F7DB914A5BBEC9108F49" name="2o_halfway_inn_int.trx" dlsize="317423" size="320221" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E1444FD44B91A7D31E835A7A491009B82DFCBDD4" downloadHash="EFE186021994727401CFCC4EDC9CEED339DE4C7F" name="2o_halfway_inn_int.trx" dlsize="346748" size="349681" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1713,8 +1713,8 @@
   </resource>
   <resource type="Hak" hash="2CFBC8D6D3EA7EA8E0AF0E7EF945465867FDADCB" downloadHash="D927DCE56BBC6BC388A29A729B40A7E9475CB09A" name="alfa_tiles.hak" dlsize="313021437" size="1667727528" critical="false" exclude="false" urlOverride="">
     <server-ref>
-     <string>1</string>
-     <string>3</string>
+      <string>1</string>
+      <string>3</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="92F00EBB3EC1C0844B0A0F516150B292FE287FD4" downloadHash="F2821578AAEB6A2C623E204AD2C3CB97E1F45D98" name="alfa_tiles2.hak" dlsize="179414842" size="1135449616" critical="false" exclude="false" urlOverride="">
