@@ -15,8 +15,8 @@ void main()
 	if (nRandom==0)
 
 	PlayCustomAnimation(OBJECT_SELF,"sitgroundidle", 1);
-		SetOrientOnDialog(OBJECT_SELF,FALSE);
-		SetBumpState(OBJECT_SELF,BUMPSTATE_UNBUMPABLE); 
+		SetOrientOnDialog(OBJECT_SELF,FALSE);//keeps NPC from turning when talked too
+		SetBumpState(OBJECT_SELF,BUMPSTATE_UNBUMPABLE); //keeps NPC from being bumped and standing
 	//	AssignCommand(oNPC, ActionPlayAnimation(sitgroundidle));
 	
 }

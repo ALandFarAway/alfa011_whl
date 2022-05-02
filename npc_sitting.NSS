@@ -1,13 +1,15 @@
 //::///////////////////////////////////////////////
-//:: NW_C2_SITTING.nss
-//:: Copyright (c) 2001 Bioware Corp.
+//:: NPC_SITTING.nss
+//:: Altered from the nw_c2_sitting
 //:://////////////////////////////////////////////
 /*
   Will make the NPC sit down
+  Place this in the onspawn of the NPC 
+  Chair needs to have the tag NPC_CHAIR on it and set to walkable/useable
 */
 //:://////////////////////////////////////////////
-//:: Created By:
-//:: Created On:
+//:: Created By:Arri
+//:: Created On:5/2022
 //:://////////////////////////////////////////////
 
 void main()
@@ -15,18 +17,16 @@ void main()
     ActionPlayAnimation(ANIMATION_LOOPING_SIT_CHAIR,1.0,5000.0);
    // * do not do this if already sitting
    
-   // * May 2002 (Brent): Don't do this if I am in combat or conversation
-   if (!GetIsInCombat() && !IsInConversation(OBJECT_SELF))
    if (GetCurrentAction() != ACTION_SIT)
    {
         ClearAllActions();
         int i = 1;
         // * find first free chair
-        object oChair = GetNearestObjectByTag("NW_CHAIR", OBJECT_SELF,i);
+        object oChair = GetNearestObjectByTag("NPC_CHAIR", OBJECT_SELF,i);
         int bFoundChair = FALSE;
         while (bFoundChair == FALSE && GetIsObjectValid(oChair) == TRUE)
-		SetOrientOnDialog(oTarget,FALSE);
-		SetBumpState(oTarget,BUMPSTATE_UNBUMPABLE); 
+		SetOrientOnDialog(OBJECT_SELF,FALSE);//keeps NPCs from turning to face PC
+		SetBumpState(OBJECT_SELF,BUMPSTATE_UNBUMPABLE); //Keeps NPCs from being bumped to a standing postition
         {
           // * This chair is free
           if (GetIsObjectValid(GetSittingCreature(oChair)) == FALSE)
@@ -37,7 +37,7 @@ void main()
           else
           {
               i++;
-              oChair = GetNearestObjectByTag("NW_CHAIR", OBJECT_SELF,i);
+              oChair = GetNearestObjectByTag("NPC_CHAIR", OBJECT_SELF,i);
           }
         }
         if (bFoundChair == FALSE)
