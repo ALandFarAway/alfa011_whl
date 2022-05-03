@@ -3,7 +3,7 @@
 //:: Altered from the nw_c2_sitting
 //:://////////////////////////////////////////////
 /*
-  Will make the NPC sit down
+  Will make the NPC sit down on a chair
   Place this in the onspawn of the NPC 
   Chair needs to have the tag NPC_CHAIR on it and set to walkable/useable
 */
@@ -11,6 +11,8 @@
 //:: Created By:Arri
 //:: Created On:5/2022
 //:://////////////////////////////////////////////
+
+#include "acr_spawn_i"
 
 void main()
 {

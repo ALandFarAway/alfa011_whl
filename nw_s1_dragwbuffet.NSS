@@ -12,6 +12,7 @@
 //:://////////////////////////////////////////////
 #include "NW_I0_SPELLS"
 #include "x0_i0_spells"
+#include "acr_spells_i"
 #include "ginc_math"
 
 void main()
