@@ -16,7 +16,7 @@
 
 void main()
 {
-    ActionPlayAnimation(ANIMATION_LOOPING_SIT_CHAIR,1.0,5000.0);
+   // ActionPlayAnimation(ANIMATION_LOOPING_SIT_CHAIR,1.0,5000.0);
    // * do not do this if already sitting
    
    if (GetCurrentAction() != ACTION_SIT)
