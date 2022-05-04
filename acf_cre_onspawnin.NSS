@@ -69,13 +69,9 @@ void main()
 	}
 		
 	//animation code
-	if (GetLocalInt(OBJECT_SELF,"USE_IMMOBILE_AMBIENT_ANIM"))
-	{
-		float fRand=IntToFloat(d6(3));
-		DelayCommand(fRand,ExecuteScript("dpss_ambient_anim",OBJECT_SELF));
-	}
 
 
     // Custom code goes here.
 	
+
 }
