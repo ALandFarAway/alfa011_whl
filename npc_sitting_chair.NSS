@@ -35,10 +35,11 @@ if (GetCurrentAction() != ACTION_SIT)
         object oChair = GetNearestObjectByTag("NPC_CHAIR", OBJECT_SELF,i);
         int bFoundChair = FALSE;
         while (bFoundChair == FALSE && GetIsObjectValid(oChair) == TRUE)
-			PlayCustomAnimation(OBJECT_SELF,"sitidle", 1);
-		SetOrientOnDialog(OBJECT_SELF,FALSE);//keeps NPCs from turning to face PC
-		SetBumpState(OBJECT_SELF,BUMPSTATE_UNBUMPABLE); //Keeps NPCs from being bumped to a standing postition	
-	
+    	ActionSit(oChair);
+	    PlayCustomAnimation(OBJECT_SELF,"sitidle", 1);
+		//SetOrientOnDialog(OBJECT_SELF,FALSE);//keeps NPCs from turning to face PC
+		//SetBumpState(OBJECT_SELF,BUMPSTATE_UNBUMPABLE); //Keeps NPCs from being bumped to a standing postition	
+	  
 }	
 }	
 	

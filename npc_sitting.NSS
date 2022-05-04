@@ -21,7 +21,7 @@ void main()
    
    if (GetCurrentAction() != ACTION_SIT)
    {
-       // ClearAllActions();
+        ClearAllActions();
         int i = 1;
         // * find first free chair
         object oChair = GetNearestObjectByTag("NPC_CHAIR", OBJECT_SELF,i);
@@ -35,6 +35,7 @@ void main()
           {
               bFoundChair = TRUE;
               ActionSit(oChair);
+			  ClearAllActions();
           }
           else
           {
