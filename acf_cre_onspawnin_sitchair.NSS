@@ -75,7 +75,7 @@ void main()
 	
 	//SetOrientOnDialog(OBJECT_SELF,FALSE);//keeps NPCs from turning to face PC
 	//SetBumpState(OBJECT_SELF,BUMPSTATE_UNBUMPABLE); //Keeps NPCs from being bumped to a standing postition
-	ActionSit (GetNearestObjectByTag ("NPC_CHAIR", OBJECT_SELF));
+	ActionSit (GetNearestObjectByTag ("NPC_CHAIR", OBJECT_SELF,10));
 }
 
 
