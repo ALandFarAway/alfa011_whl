@@ -13,10 +13,11 @@ ActionSit(oChair);
 }*/
 
 // Put this OnPerception.
-//  Will make NPC sit ona chair they spawn over
+//  Will make NPC sit on a chair they spawn over
 // Will abort (do nothing) if fighting or talking or if no PCs are in the area.
 
 
+#include "acr_spawn_i"
 void main()
 {
 	if (GetLocalInt(GetModule(),"Stop Ambient Life"))

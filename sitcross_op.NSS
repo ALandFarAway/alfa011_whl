@@ -3,6 +3,7 @@
 //  Will make NPC sit on the ground crosslegged  sitgrounddown sitgroundidle	
 // Will abort (do nothing) if fighting or talking or if no PCs are in the area.
 
+#include "acr_spawn_i"
 
 void main()
 {
