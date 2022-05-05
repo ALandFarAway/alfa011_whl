@@ -73,7 +73,7 @@ void main()
 
     // Custom code goes here.
 	
-ActionSit (GetNearestObjectByTag ("CHAIRNPC", OBJECT_SELF));
+ActionSit (GetNearestObjectByTag ("NPC_CHAIR", OBJECT_SELF));
 }
 
 
