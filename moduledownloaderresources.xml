@@ -120,7 +120,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E1444FD44B91A7D31E835A7A491009B82DFCBDD4" downloadHash="EFE186021994727401CFCC4EDC9CEED339DE4C7F" name="2o_halfway_inn_int.trx" dlsize="346748" size="349681" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FE8CF957F05049394DBAE94FA9FA301CBA5181A5" downloadHash="29FB2BAEB380A2B40E5BA1D9DCAE80F4E6F6FCB4" name="2o_halfway_inn_int.trx" dlsize="345484" size="348230" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
