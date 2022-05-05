@@ -6,7 +6,6 @@ float RandDelay()
 }
 void DelayableAnimation(object oTarget, string sAnim, int nLooping)
 {
-ActionSit (GetNearestObjectByTag ("NPC_CHAIR", OBJECT_SELF));
 	PlayCustomAnimation(oTarget, sAnim, nLooping);
 }
 
