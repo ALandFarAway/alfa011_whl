@@ -11,7 +11,8 @@ void main()
 	{
 		return;
 	}
-
+    ActionSit (GetNearestObjectByTag ("NPC_CHAIR", OBJECT_SELF));//trying
+	ActionPlayAnimation(ANIMATION_LOOPING_SIT_CHAIR, 1.0, 1800.0);//trying
 	PlayCustomAnimation(OBJECT_SELF,"sitfidget", 1);
 
 		SetOrientOnDialog(OBJECT_SELF,FALSE);//keeps NPC from turning when talked too

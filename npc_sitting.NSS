@@ -27,15 +27,16 @@ void main()
         object oChair = GetNearestObjectByTag("NPC_CHAIR", OBJECT_SELF,i);
         int bFoundChair = FALSE;
         while (bFoundChair == FALSE && GetIsObjectValid(oChair) == TRUE)
-	//	SetOrientOnDialog(OBJECT_SELF,FALSE);//keeps NPCs from turning to face PC
-	//	SetBumpState(OBJECT_SELF,BUMPSTATE_UNBUMPABLE); //Keeps NPCs from being bumped to a standing postition
+		SetOrientOnDialog(OBJECT_SELF,FALSE);//keeps NPCs from turning to face PC
+		SetBumpState(OBJECT_SELF,BUMPSTATE_UNBUMPABLE); //Keeps NPCs from being bumped to a standing postition
         {
           // * This chair is free
           if (GetIsObjectValid(GetSittingCreature(oChair)) == FALSE)
           {
               bFoundChair = TRUE;
-              ActionSit(oChair);
-			  ClearAllActions();
+			  ActionSit (GetNearestObjectByTag ("NPC_CHAIR", OBJECT_SELF));
+             // ActionSit(oChair);
+			 // ClearAllActions();
           }
           else
           {

@@ -132,26 +132,26 @@ void RandomizeNPCClothing(object oNPC = OBJECT_SELF)
 	//create clothing
 	switch (rCloth)
 		{
-		case 1:sArmType="010_it_clothcom";break;
-		case 2:sArmType="010_it_clothcom0";break;
-		case 3:sArmType="010_it_clothcom1";break;
-		case 4:sArmType="010_it_clothcom2";break;
-		case 5:sArmType="010_it_clothcom3";break;
-		case 6:sArmType="010_it_clothcomb";break;
+		case 1:sArmType="010_it_clothcomb";break;
+		case 2:sArmType="010_it_clothmida2";break;
+		case 3:sArmType="010_sand_it_trapdress";break;
+		case 4:sArmType="010_it_cloth_u_galictunic1";break;
+		case 5:sArmType="010_it_cloth_u_noble_garb";break;
+		case 6:sArmType="010_it_cloth_u_travellers1";break;
 		case 7:sArmType="010_it_clothcomb0";break;
 		case 8:sArmType="010_it_clothcomb1";break;
 		case 9:sArmType="010_it_clothcomb2";break;
 		case 10:sArmType="010_it_clothcomb3";break;
 		case 11:sArmType="010_it_clothcomb4";break;
 		case 12:sArmType="010_it_clothcomb5";break;
-		case 13:sArmType="010_it_clothcomc";break;
-		case 14:sArmType="010_it_clothcomc0";break;
-		case 15:sArmType="010_it_clothcomc1";break;
-		case 16:sArmType="010_it_clothcomc2";break;
-		case 17:sArmType="010_it_clothcomc3";break;
-		case 18:sArmType="010_it_clothcomd";break;
-		case 19:sArmType="010_it_clothcomd0";break;
-		case 20:sArmType="010_it_clothcomd1";break;
+		case 13:sArmType="010_it_cloth_u_travellers10";break;
+		case 14:sArmType="010_it_arm_l_gr_140";break;
+		case 15:sArmType="010_it_arm_l_gr_170";break;
+		case 16:sArmType="010_it_clx_clothlegs";break;
+		case 17:sArmType="010_it_clx_thayrobe";break;
+		case 18:sArmType="aca_it_ar_cloth05";break;
+		case 19:sArmType="nw_cloth0120";break;
+		case 20:sArmType="010_it_clothcomc0";break;
 		}
 	object oArmour=CreateItemOnObject(sArmType);
 	//create boots

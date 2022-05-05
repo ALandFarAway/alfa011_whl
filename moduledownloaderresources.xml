@@ -120,7 +120,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FE8CF957F05049394DBAE94FA9FA301CBA5181A5" downloadHash="29FB2BAEB380A2B40E5BA1D9DCAE80F4E6F6FCB4" name="2o_halfway_inn_int.trx" dlsize="345484" size="348230" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F681E9EC8DD2461A779FF89CCEF9D13BF19C27FD" downloadHash="42BEDF4298B2611B764236CA7ED2FEE38FB6CE77" name="2o_halfway_inn_int.trx" dlsize="345848" size="348565" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1721,6 +1721,11 @@
     <server-ref>
       <string>1</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="13D4FE22E7A198CC1ED39BFE421262A258A3444B" downloadHash="48FF77D2A3351E136A373743818F5858B056E20B" name="_testing grounds.trx" dlsize="329982" size="8517893" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
