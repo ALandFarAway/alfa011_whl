@@ -34,9 +34,10 @@ void main()
           if (GetIsObjectValid(GetSittingCreature(oChair)) == FALSE)
           {
               bFoundChair = TRUE;
-			  ActionSit (GetNearestObjectByTag ("NPC_CHAIR", OBJECT_SELF));
-             // ActionSit(oChair);
-			 // ClearAllActions();
+			  ActionInteractObject (GetNearestObjectByTag ("NPC_CHAIR", OBJECT_SELF));
+			  
+              ActionSit(oChair);
+			  ClearAllActions();
           }
           else
           {
