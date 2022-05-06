@@ -1,6 +1,6 @@
 #include "acr_tools_i"
 #include "acr_zspawn_i"
-#include "010_namegen_i"
+#include "00_namegen_i"
 
 const float _SIZE_STD_X = 0.04f;
 const float _SIZE_STD_Y = 0.04f;
