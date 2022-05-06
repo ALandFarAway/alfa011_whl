@@ -33,7 +33,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 #include "acr_creature_i"
 #include "acr_spawn_i"
-#include "010_randomnpc_i"  
+#include "00_randomnpc_i"  
 #include "010_spawn_ex"
 
 
