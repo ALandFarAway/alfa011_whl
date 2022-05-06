@@ -201,16 +201,16 @@ string RandomNPCResref(int race=RACIAL_TYPE_HUMAN, float prob = 0.2)
 		case RACIAL_TYPE_DWARF:
 			switch (Random(4)) {
 				case 0:
-					sResRef="03_tsm_commoner_sdw_f";
+					sResRef="11_whl_commoner_sdw_f";
 					break;
 				case 1:
-					sResRef="03_tsm_commoner_gdw_f";
+					sResRef="11_whl_commoner_gdw_f";
 					break;
 				case 2:
-					sResRef="03_tsm_commoner_sdw_m";
+					sResRef="11_whl_commoner_sdw_m";
 					break;
 				case 3:
-					sResRef="03_tsm_commoner_gdw_m";
+					sResRef="11_whl_commoner_gdw_m";
 					break;
 			}
 			break;
@@ -218,16 +218,16 @@ string RandomNPCResref(int race=RACIAL_TYPE_HUMAN, float prob = 0.2)
 		case RACIAL_TYPE_ELF:  
 			switch (Random(4)) {
 				case 0:
-					sResRef="03_tsm_commoner_melf_f";
+					sResRef="11_whl_commoner_melf_f";
 					break;
 				case 1:
-					sResRef="03_tsm_commoner_self_f";
+					sResRef="11_wlh_commoner_self_f";
 					break;
 				case 2:
-					sResRef="03_tsm_commoner_melf_m";
+					sResRef="11_whl_commoner_melf_m";
 					break;
 				case 3:
-					sResRef="03_tsm_commoner_self_m";
+					sResRef="11_whl_commoner_self_m";
 					break;
 			}
 			break;
@@ -235,10 +235,10 @@ string RandomNPCResref(int race=RACIAL_TYPE_HUMAN, float prob = 0.2)
 		case RACIAL_TYPE_GNOME:
 			switch (Random(2)) {
 				case 0:
-					sResRef="03_tsm_commoner_gn_m";
+					sResRef="11_whl_commoner_gn_m";
 					break;
 				case 1:
-					sResRef="03_tsm_commoner_gn_f";
+					sResRef="11_whl_commoner_gn_f";
 					break;
 				}
 			break;
@@ -246,16 +246,16 @@ string RandomNPCResref(int race=RACIAL_TYPE_HUMAN, float prob = 0.2)
 		case RACIAL_TYPE_HALFLING:  
 			switch (Random(4)) {
 				case 0:
-					sResRef="03_tsm_commoner_shalf_f";
+					sResRef="11_whl_commoner_shalf_f";
 					break;
 				case 1:
-					sResRef="03_tsm_commoner_lhalf_f";
+					sResRef="11_whl_commoner_lhalf_f";
 					break;
 				case 2:
-					sResRef="03_tsm_commoner_shalf_m";
+					sResRef="11_whl_commoner_shalf_m";
 					break;
 				case 3:
-					sResRef="03_tsm_commoner_lhalf_m";
+					sResRef="11_whl_commoner_lhalf_m";
 					break;
 			}
 			break;
@@ -263,10 +263,10 @@ string RandomNPCResref(int race=RACIAL_TYPE_HUMAN, float prob = 0.2)
 		case RACIAL_TYPE_HALFORC:
 			switch(Random(4)) {
 				case 0:
-					sResRef = "03_tsm_commoner_horc_m";
+					sResRef = "11_whl_commoner_horc_m";
 					break;
 				case 1:
-					sResRef = "03_tsm_commoner_horc_f";
+					sResRef = "11_whl_commoner_horc_f";
 					break;
 			}
 			break;
@@ -275,10 +275,10 @@ string RandomNPCResref(int race=RACIAL_TYPE_HUMAN, float prob = 0.2)
 		default:
 			switch (Random(2)) {
 				case 0:
-					sResRef="03_tsm_commoner_hum_m";
+					sResRef="11_whl_commoner_hum_m";
 					break;
 				case 1:
-					sResRef="03_tsm_commoner_hum_f";
+					sResRef="11_whl_commoner_hum_f";
 					break;
 				
 		}
