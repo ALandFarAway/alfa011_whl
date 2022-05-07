@@ -130,43 +130,43 @@ void RandomizeNPCClothing(object oNPC = OBJECT_SELF)
 	rBoots=Random(10)+1;
 	
 	//create clothing
-	switch (rCloth)//updated to tsm BPs
+	switch (rCloth)//updated to WHL BPs
 		{
-		case 1:sArmType="03_it_arm_l_bl_012";break;
-		case 2:sArmType="03_it_arm_l_bl_033";break;
-		case 3:sArmType="03_it_arm_l_bl_223";break;
-		case 4:sArmType="03_it_arm_l_ye_171";break;
-		case 5:sArmType="03_it_arm_l_re_201";break;
-		case 6:sArmType="03_it_arm_l_gr_091";break;
+		case 1:sArmType="010_it_clothcomb5";break;
+		case 2:sArmType="010_it_clothcomb0";break;
+		case 3:sArmType="010_it_clothcomb1";break;
+		case 4:sArmType="010_it_clothcomb2";break;
+		case 5:sArmType="010_it_clothcomb3";break;
+		case 6:sArmType="010_it_clothcomb4";break;
 		case 7:sArmType="010_it_clothcomb";break;
 		case 8:sArmType="010_it_clothcom0";break;
-		case 9:sArmType="010_it_clothcomc2";break;
-		case 10:sArmType="003_it_arm_tunic_peasant";break;
-		case 11:sArmType="03_it_arm_l_gr_141";break;
-		case 12:sArmType="03_it_arm_l_wh_131";break;
-		case 13:sArmType="010_it_t_cloth03";break;
-		case 14:sArmType="010_it_t_cloth02";break;
-		case 15:sArmType="03_it_arm_l_bl_052";break;
-		case 16:sArmType="03_it_arm_l_gr_121";break;
-		case 17:sArmType="aca_it_ar_cloth02";break;
-		case 18:sArmType="aca_it_ar_cloth05";break;
-		case 19:sArmType="03_it_arm_l_re_52";break;
-		case 20:sArmType="09_it_cloth_f_dress_layered";break;
+		case 9:sArmType="nw_cloth0120";break;
+		case 10:sArmType="abr_it_clx_thayrobe";break;
+		case 11:sArmType="10_it_arm_l_gr_140";break;
+		case 12:sArmType="10_it_arm_l_gr_170";break;
+		case 13:sArmType="abr_it_clx_clothlegs";break;
+		case 14:sArmType="aca_it_ar_cloth05";break;
+		case 15:sArmType="010_sand_it_trapdress";break;
+		case 16:sArmType="010_it_clothmida2";break;
+		case 17:sArmType="09_it_cloth_u_noble_garb";break;
+		case 18:sArmType="09_it_cloth_u_travellers10";break;
+		case 19:sArmType="09_it_cloth_u_travellers1";break;
+		case 20:sArmType="09_it_cloth_u_galictunic";break;
 		}
 	object oArmour=CreateItemOnObject(sArmType);
 	//create boots
-	switch (rBoots)//updated to TSM BPs
+	switch (rBoots)//updated to WHL BPs
 		{
-		case 1:sBootType="10_it_boo_bl_l_130";break;
-		case 2:sBootType="aca_it_bts_plain01";break;
-		case 3:sBootType="03_it_boo_br_l_12000";break;
-		case 4:sBootType="03_it_boo_br_l_03000";break;
-		case 5:sBootType="03_it_boo_ye_l_050000";break;
-		case 6:sBootType="03_it_boo_wh_l_110000";break;
-		case 7:sBootType="03_it_boo_wh_l_020000";break;
-		case 8:sBootType="010_it_bootscloth3";break;
-		case 9:sBootType="03_it_boo_bl_l_04000";break;
-		case 10:sBootType="03_it_boo_bl_l_02000";break;
+		case 1:sBootType="00_it_bt_cloth1";break;
+		case 2:sBootType="00_it_bt_cloth2";break;
+		case 3:sBootType="00_it_bt_leather1";break;
+		case 4:sBootType="00_it_bt_leather2";break;
+		case 5:sBootType="00_it_bt_leather3";break;
+		case 6:sBootType="00_it_bt_leather4";break;
+		case 7:sBootType="00_it_bt_sleather1";break;
+		case 8:sBootType="00_it_bt_chain1";break;
+		case 9:sBootType="00_it_bt_cloth3";break;
+		case 10:sBootType="00_it_bt_cloth4";break;
 		}
 	object oBoots=CreateItemOnObject(sBootType);
 
