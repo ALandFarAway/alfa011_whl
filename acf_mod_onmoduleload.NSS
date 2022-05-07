@@ -98,7 +98,8 @@ void main() {
 	//=========== Define spawn tables for random dungeons ============
 	//================================================================
 	
-	// Monsters for a rat-themed dungeon
+	//used in conjunction with random dungeon builds
+/*	// Monsters for a rat-themed dungeon
 	AddSpawnToDungeonTable("rats", 0, "010_cr_ratdire");
 	AddSpawnToDungeonTable("rats", 0, "010_cr_ratdire2");
 	AddSpawnToDungeonTable("rats", 1, "010_cr_ratdire3");
@@ -145,7 +146,7 @@ void main() {
 	AddSpawnToDungeonTable("undead", 4, "abr_cr_un_vampirespawn");
 	AddSpawnToDungeonTable("undead", 5, "010_cr_undead_mummy");
 	AddSpawnToDungeonTable("undead", 5, "abr_cr_un_skeleton_giant");
-	
+*/	
 	// Traps that operate by hitting or shooting the target with physical things
 	AddTrapToDungeonTable("physical", 0, "shooting_spikes_1");
 	AddTrapToDungeonTable("physical", 1, "shooting_spikes_1");
