@@ -1,7 +1,8 @@
 //::////////////////////////////////////////////////////////////////////
 //:: Placeable OnUse Script
 //::////////////////////////////////////////////////////////////////////
-/*
+/*  Works for ALFA scripts 5/2022 \Arri
+    
 	rewrite of patcha's On Sit script
 	witch aint updated since 15-6-2007
 	Uses SetScale instead of blunt force destroy 
