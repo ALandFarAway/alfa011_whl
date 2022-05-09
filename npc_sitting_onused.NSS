@@ -1,6 +1,6 @@
 /*This works in conjunction with the acf_area_onenter_sit which must be on the area 
 that you want NPCs sitting in.  All NPCs that need to sit should have the Variable 'TRYSIT =1" 
-placed on them.
+placed on them. The Chairs for them need to be tagged with 'pat_mid_' to start with 
 
 This script needs to be put in the OnUsed portion of your sit object
 */
@@ -74,6 +74,5 @@ return fNewDir;
         	AssignCommand(oSitter, ActionMoveToLocation(lChair));
         	DelayCommand(2.0, SitDown(oSitter, oChair));
         }
-
 
 

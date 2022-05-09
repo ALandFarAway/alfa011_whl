@@ -7,6 +7,13 @@
 
 void main()
 {
+object oPC = GetLastPerceived();
+
+if (!GetIsPC(oPC)) return;
+
+if (!GetLastPerceptionSeen()) return;
+object oTarget;
+oTarget = OBJECT_SELF;
 	if (GetLocalInt(GetModule(),"Stop Ambient Life"))
 	{
 		return;

@@ -1,12 +1,19 @@
 
-// Put this OnPerception.  Even DMs need to be visible to function. 
-// Will make NPC sit on a chair they spawn over.  Set WP so the upright is the middle of their body 
+// Put this OnPerception or on the ACR_SPAWN_IN_SCRIPT_1 section of the ACR spawnWPs  Even DMs need to be visible to function. 
+// Will make NPC sit on a chair they spawn over. Use a Random NPC that normally stands. Set WP so the upright is the middle of their body 
 // Will abort (do nothing) if fighting or talking or if no PCs are in the area.
 
 
 //#include "acr_spawn_i"
 void main()
 {
+object oPC = GetLastPerceived();
+
+if (!GetIsPC(oPC)) return;
+
+if (!GetLastPerceptionSeen()) return;
+object oTarget;
+oTarget = OBJECT_SELF;
 	if (GetLocalInt(GetModule(),"Stop Ambient Life"))
 	{
 		return;
