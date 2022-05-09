@@ -5,8 +5,6 @@
 //:: Created On:
 //:://////////////////////////////////////////////
 
-#include "acr_creature_i"
-#include "acr_spawn_i"
 
 void ActionPlayCustomAnimation(object oObject, string sAnimationName, int nLooping, float fSpeed = 1.0f)
 {
