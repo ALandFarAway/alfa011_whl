@@ -4,7 +4,7 @@
 // Will abort (do nothing) if fighting or talking or if no PCs are in the area.
 
 
-//#include "acr_spawn_i"
+#include "acr_spawn_i"
 void main()
 {
 object oPC = GetLastPerceived();
