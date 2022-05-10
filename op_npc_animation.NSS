@@ -1,5 +1,5 @@
 // Put this OnPerception.
-// place sAnimation = "animation name from 2da"
+// place sAnimation = "animation namefrom 2da"
 // Will abort (do nothing) if fighting or talking or if no PCs are in the area.
 
 #include "acr_spawn_i"
