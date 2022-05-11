@@ -1,10 +1,11 @@
 // Put this OnPerception.
 // place      sAnimation = "animation namefrom 2da"
+// WP needs to be positioned exactly at area where NPC is to be 
 // sitgroundidle = sits cross legged on the ground
 // proneB = laying down
 // sitfidget = sit on chair moving a little
 // kneelidle = down on one knee
-// shoveling/raking = use with the fx for proper posture
+// shoveling/raking = use with the fx for proper postured tool
 // Will abort (do nothing) if fighting or talking or if no PCs are in the area.
 
 #include "acr_spawn_i"

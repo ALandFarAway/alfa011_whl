@@ -1,7 +1,8 @@
 ////////////////////////////////////////////////////////////////////////////////
 //
 //  System Name : ACR Configuration File
-//     Filename : acf_cre_onspawnin
+//     Filename : acf_cre_os_commoner
+//     random commoner script
 //    $Revision:: 280        $ current version of the file
 //        $Date:: 2007-03-20#$ date the file was created or modified
 //       Author : Cipher
