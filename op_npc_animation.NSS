@@ -1,5 +1,8 @@
 // Put this OnPerception.
-// place sAnimation = "animation namefrom 2da"
+// place      sAnimation = "animation namefrom 2da"
+// sitgroundidle = sits cross legged on the ground
+// proneB = laying down
+// sitfidget = sit on chair moving a little
 // Will abort (do nothing) if fighting or talking or if no PCs are in the area.
 
 #include "acr_spawn_i"
@@ -27,4 +30,3 @@ if (sAnimation == "") sAnimation = ANIMATION_DEFAULT;
         SetOrientOnDialog(OBJECT_SELF,FALSE);//keeps NPC from turning when talked too
         SetBumpState(OBJECT_SELF,BUMPSTATE_UNBUMPABLE); //keeps NPC from being bumped and standing    
 } 
-
