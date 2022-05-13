@@ -120,7 +120,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C78EAE1AF38B9480CCFD7A7F57EA91036C8030B0" downloadHash="C6D0C1DB79DF93809487CA589F68E3DFCDE10636" name="2o_halfway_inn_int.trx" dlsize="344793" size="347453" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5BD0940C152DDB074D48CF9CCAB7DB2B3BBB4FA8" downloadHash="1C3C5C8070D1BB251FF0CC37800FC48C17ADA597" name="2o_halfway_inn_int.trx" dlsize="344830" size="347608" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -470,7 +470,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2C5502698ED9CE38B71BB2DBE7834012242B6008" downloadHash="3D0FE285F88CF3C8D6F298D7337CE09A7E0DF64F" name="2o_halfway_inn.trx" dlsize="3987888" size="19583441" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="63D5D7EB39391236F827192D573F215EF0AC9E00" downloadHash="1AE843A80D5B7B5AFB2AE2FFDE428222BE2FDDF6" name="2o_halfway_inn.trx" dlsize="3991438" size="19586816" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1723,7 +1723,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="20DF23F3338D5E6556591C6CA2FBA4E52FED053F" downloadHash="A1C4C5455CF9FDC95D566A737DF63C3439F1C620" name="_testing grounds.trx" dlsize="328811" size="8514872" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D9D1608E759A75A8EE2422B82E3C68C1D5F7811A" downloadHash="39382B0EF03853C0BDEDBC16716D56C1A61DA337" name="_testing grounds.trx" dlsize="323340" size="8508646" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

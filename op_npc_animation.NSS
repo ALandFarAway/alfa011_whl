@@ -1,11 +1,20 @@
-// Put this OnPerception.
-// place      sAnimation = "animation namefrom 2da"
+// Created by Saaz for ALFA 
+// MAY 2022
+// Put this OnPerception of NPC.
+// place      sAnimation = "animation namefrom 2da" in the variables
 // WP needs to be positioned exactly at area where NPC is to be 
 // sitgroundidle = sits cross legged on the ground
-// proneB = laying down
+// proneB = laying down(sleep)
 // sitfidget = sit on chair moving a little
+// sitidle = sit on chair no movement
 // kneelidle = down on one knee
 // shoveling/raking = use with the fx for proper postured tool
+// forge01 = hammering at an anvil 
+// kemo_kneel_1i = kneeling on both knees, hands on knees
+// kemo_sit_5i = sitting ground knees up hands around them -M
+// kemo_sit_8i = sitting ground knees up hands around them -F
+// kemo_stand_5i = for tied spread eagle upright 
+// kemo_sit_7i - on ground side leg out - F
 // Will abort (do nothing) if fighting or talking or if no PCs are in the area.
 
 #include "acr_spawn_i"
