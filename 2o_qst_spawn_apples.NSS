@@ -15,8 +15,13 @@ if (!GetIsPC(oPC)) return;
 
 object oTarget;
 object oSpawn;
+
 location lTarget;
-oTarget = GetWaypointByTag("wp_qst_green_apple");
+oTarget = GetNearestObjectByTag("wp_qst_green_apple1");
+oTarget = GetNearestObjectByTag("wp_qst_green_apple2");
+oTarget = GetNearestObjectByTag("wp_qst_green_apple3");
+oTarget = GetNearestObjectByTag("wp_qst_green_apple4");
+oTarget = GetNearestObjectByTag("wp_qst_green_apple5");
 
 lTarget = GetLocation(oTarget);
 
