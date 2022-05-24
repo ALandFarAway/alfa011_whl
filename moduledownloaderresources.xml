@@ -45,7 +45,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2292723EA58C9101FDDB3AB5B686A3CEC500043F" downloadHash="81B8163E2880CA30A4C9825E231665CE592A0498" name="9q_hluthvar_town_ext.trx" dlsize="2755989" size="9638794" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D55117EC9A79232B4C619027575A5AF548F35636" downloadHash="07CB52E0F7FD7D132ABB40E09D0AFAC25638F9FA" name="9q_hluthvar_town_ext.trx" dlsize="2720377" size="9602167" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -470,7 +470,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="63D5D7EB39391236F827192D573F215EF0AC9E00" downloadHash="1AE843A80D5B7B5AFB2AE2FFDE428222BE2FDDF6" name="2o_halfway_inn.trx" dlsize="3991438" size="19586816" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7E9ACA74AE7B5BBBFDAA874BACDBA75FF5822AE8" downloadHash="D2134861ADB48E84F22A9B3C3DF2C9AC69CC8961" name="2o_halfway_inn.trx" dlsize="3992746" size="19589328" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -650,7 +650,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C53000B1E4250F69AE7F07E3F41404832F8E4FDB" downloadHash="61AC06644A5C5D722B962A1D8BA41DDB09528F45" name="9q_hulthvar_town_int.trx" dlsize="114945" size="115597" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="44ABA9055B97823550A538D1A4B39ADF99BD749F" downloadHash="8BEE0C5E44EE75484723E53559119CA8028EFC24" name="9q_hulthvar_town_int.trx" dlsize="131233" size="132095" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
