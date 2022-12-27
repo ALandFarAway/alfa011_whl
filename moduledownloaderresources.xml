@@ -125,7 +125,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6D7221B6DA7B38BB08B4530FF36E87EA79EC3AB8" downloadHash="B7AA32A222368EEC4DFEA26FD4793697CFD5A3F9" name="6n_drawn_swords.trx" dlsize="2756307" size="18828923" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="31BCF1AFFAB96F9E95AF06B1491A14B2F8AD9B91" downloadHash="3146B654618C7FAC09AF3FF60159CAEE4CFEED83" name="6n_drawn_swords.trx" dlsize="2922946" size="18852434" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -250,7 +250,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AB744066D49C51640B2AB242927D4F3634155A11" downloadHash="DBE4911E5B8228B42C311D8194C3A94195B68BD3" name="3o_pelleor_prairie.trx" dlsize="4070901" size="21389289" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1C240A96A4624D8A406763CE2DAFA44DEFC4F10B" downloadHash="15752BF34A98F7752A0F63736467B3B48DA2DF7A" name="3o_pelleor_prairie.trx" dlsize="4066667" size="21375864" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -690,7 +690,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2904F7756A589B0FFADDE9292FB51AAB15D0EC02" downloadHash="3AF5812FECAB5F6685428713107543AA12C4E2B8" name="5o_hill_lost_souls_ext.trx" dlsize="4655800" size="21939594" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="016F4C8EE09A390C359457BD7BC9D226801F8536" downloadHash="A7CE799D851277BBC689ABE4FE5C20E1423E3E9E" name="5o_hill_lost_souls_ext.trx" dlsize="4659381" size="21939596" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -705,7 +705,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7261C3EA25629BFD4D50B9AFEB9A68C0759AB559" downloadHash="091176C9E77B5FD9DF8FBDD443A25EE0D01C1CB4" name="6o_mouth_skullgorge.trx" dlsize="2938571" size="19274606" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6F6D57347D94C294B39658C99B36FA6C796FDD05" downloadHash="9671081B42BA8C924099DDB1D72BA4673F97A616" name="6o_mouth_skullgorge.trx" dlsize="3444331" size="19519238" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1737,6 +1737,16 @@
     <server-ref>
       <string>1</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="13D0C1548B4AEEF6EFE7E40DE20C1F0F9EBAB265" downloadHash="A7E0295BCE55E786929600FA0AAE1186759A925A" name="6p_skullgorge1_int_caves.trx" dlsize="972786" size="1120244" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="36E4E3204135E01283734F91436AA2287D312F68" downloadHash="740FF5CBEDB9B86AEFBABD3B224CD1AFE8C010B8" name="6p_skullgorge1.trx" dlsize="5035711" size="20718953" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
