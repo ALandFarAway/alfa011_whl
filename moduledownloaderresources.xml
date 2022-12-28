@@ -90,7 +90,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="555383BC3EFD353BD159F1A41B1F50506190C99D" downloadHash="148FDF3930E7F315B004B7649C5AE8DBECAF1418" name="5n_hill_lost_souls.trx" dlsize="3878980" size="22194426" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1981FE552ECD3A85E70E8CBEF9B78C823A454B6C" downloadHash="3406D9563F67D7EA2D736134EE512DDB869AB89E" name="5n_hill_lost_souls.trx" dlsize="3869102" size="22179585" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -630,7 +630,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A0ABC00C6AAC8BE955EB683102124B2A6150BFB2" downloadHash="82631B23986A1357723E741675F3FD135F71A46C" name="unlinked_generic_sewer.trx" dlsize="832994" size="8512809" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F34EF7E023549B0854199E5379D0B49BDCF89D3D" downloadHash="939D9B34D17D30BBF92FDD241F8F595157A2BA81" name="unlinked_generic_sewer.trx" dlsize="805861" size="6119885" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1745,6 +1745,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="36E4E3204135E01283734F91436AA2287D312F68" downloadHash="740FF5CBEDB9B86AEFBABD3B224CD1AFE8C010B8" name="6p_skullgorge1.trx" dlsize="5035711" size="20718953" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E0DE5A89E2346C8EEF01057F1A2F02250EBC4671" downloadHash="E81BAFC33E42617F9C069C2DB3967638ADF35323" name="5n_newt tunnels.trx" dlsize="624957" size="634807" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
