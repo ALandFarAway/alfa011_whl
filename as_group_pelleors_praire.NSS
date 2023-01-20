@@ -50,8 +50,7 @@ void main();
 ////////////////////////////////////////////////////////////////////////////////
 
 
-// ALFA 011 Serpent Hills daytime spawns. Teric neDhalir 13/06/09
-
+// ALFA 011 Pelleors Prairie daytime spawns. Arri 12/2022
 
 
 
@@ -92,13 +91,13 @@ int i = 1;
         switch (d4(1))
             {
 			case 1:
-            ACR_SpawnObject("sjc_enc_ogre", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_gt_ogre", OBJECT_TYPE_CREATURE);
             break;
 			
 			case 2:
 			do
 			{string sIncrement = IntToString(i);
-			ACR_SpawnObject("sjc_enc_bugbear" + sIncrement, OBJECT_TYPE_CREATURE);
+			ACR_SpawnObject("abr_cr_hu_bugbear04" + sIncrement, OBJECT_TYPE_CREATURE);
 				 i++;}
 			while (i <= (roll3 + 1));
 			break;
@@ -106,7 +105,7 @@ int i = 1;
 			case 3:
 			do
 			{string sIncrement = IntToString(i);
-			ACR_SpawnObject("sjc_enc_hobgoblin" + sIncrement, OBJECT_TYPE_CREATURE);
+			ACR_SpawnObject("abr_cr_hu_hobgoblin_ftr2" + sIncrement, OBJECT_TYPE_CREATURE);
 				 i++;}
 			while (i <= (roll6 + 3));
 			break;

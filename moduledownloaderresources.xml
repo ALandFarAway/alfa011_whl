@@ -100,7 +100,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2B53EBAEC5A659B9E2BBBDC1D4055C22A7B9E0B4" downloadHash="26CAFA04C2E26D2775972D15DCC1D0419CFC60CE" name="7o_north.trx" dlsize="2133126" size="19074023" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E31D0D0C4959E8D1569B7A0051888B0AD9E6EB85" downloadHash="BD268D1E35F352F108F23D3AFF699DA9577A35A7" name="7o_north.trx" dlsize="4547265" size="20403612" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -195,7 +195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8721C201D38E4D0E5FCEED14BE930B4145275D49" downloadHash="C2A2EEDB1E5E7DF14B656E3523F3E22658B8A1F0" name="8p_road_corm_orp.trx" dlsize="1971232" size="18618436" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ABF8E1882DE36B4E1714CA7BB7A4200A0F6BDB6B" downloadHash="C6AADB3590C6E958D562D27AE6D32A6D801FB40D" name="8p_road_corm_orp.trx" dlsize="3239453" size="19205155" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -450,7 +450,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F9A28F8D9C13F3A694AE469C5B7F579B3E1B6E59" downloadHash="0F50E23AF50CB950C8F3E2842652CCA7F74C9371" name="9n_hillsedge_area_hands.trx" dlsize="2628168" size="19336904" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="015E4D70C16C7E3484CF1A311DA5F89C48C32D41" downloadHash="1EC0FF1D7A34EE1E85B08D09EC7CB407C746E0EA" name="9n_hillsedge_area_hands.trx" dlsize="2904068" size="20174684" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -485,7 +485,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="08D9B2EB1927DC6423108941245FC57FB1CAC7DF" downloadHash="A54CACAA6A5F7F9028C1C8415711D0A008632942" name="8o_hillsedge_area_reaching.trx" dlsize="1900115" size="18775871" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A79A5C153BB2B2D11A2A56A440BF4965D3C5E122" downloadHash="4B2EE1E6D3E27AF681B35631BEB43308925575DE" name="8o_hillsedge_area_reaching.trx" dlsize="4411178" size="21184185" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -595,7 +595,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1A403023EC90202888E2C7D49D6E72E0AFB893E5" downloadHash="EC1F7501FE61B7BC9285814D76C131A8FB43720B" name="8o-1_hillsedge_cemetary.trx" dlsize="548586" size="6346971" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8311934AEBEF492C584CC5043D667B0201B75244" downloadHash="867EEF4A97A4406FA68DC822C5C4D3B2EB894BD4" name="8o-1_hillsedge_cemetary.trx" dlsize="577580" size="6371246" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -645,7 +645,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E914CF4B82CB224050B094B11C8F68D756279B0B" downloadHash="9954C03736C66E6C3AFA447608E5184A2AB09402" name="9o_hillsedge_area_vale.trx" dlsize="2813126" size="19011920" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D9293C2A3F16E106213D67E71FD16043BECCB53A" downloadHash="A76A1CE33A3B545850814ACE717E08BC2D308BF4" name="9o_hillsedge_area_vale.trx" dlsize="2897335" size="19184435" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -655,7 +655,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C6B9BACE008B11580BCCD3CB2AC77569695D48B4" downloadHash="C5E6C51E652DA0B27578C7587A9903E4A152A3C4" name="8n_hillsedge_area_rivergate.trx" dlsize="3524434" size="21066533" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DE25B84B9F0FE41884EAB7F604A52AFB743E4AEF" downloadHash="A5B236D6B5A70DD1FEABBEE2E7A295A16D32FAF6" name="8n_hillsedge_area_rivergate.trx" dlsize="3541944" size="21076914" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -670,7 +670,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DF40BFF80B90D75E3AD2292478FBE17FEF618478" downloadHash="88BB7CC3E1F638C49141D4F62388261E207FC845" name="7p_trail_north.trx" dlsize="1547892" size="18066851" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DAAA36E5C766A7A3BD14D650905EB57B87CF5403" downloadHash="41D4BB6A09933601763985CF5DA35CF924C2A172" name="7p_trail_north.trx" dlsize="3401482" size="18863956" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1750,6 +1750,31 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="E0DE5A89E2346C8EEF01057F1A2F02250EBC4671" downloadHash="E81BAFC33E42617F9C069C2DB3967638ADF35323" name="5n_newt tunnels.trx" dlsize="624957" size="634807" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="44684EAE43914055266AD4E573D0BC31BFEDFB68" downloadHash="FED8464C2A2A16C6273A9BABF7FF3DF6A8A729B6" name="8q_far_hills.trx" dlsize="3105623" size="18714943" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="7p_trail_north.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="8p_road_corm_orp.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="8q_far_hills.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="9n_hillsedge_area_hands.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
