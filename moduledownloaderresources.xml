@@ -135,7 +135,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BA49FE5B4E95801C261E4D396B619DBA9BE22A35" downloadHash="54A0A5E13F8DB7EFD89B5BCD15324D4FC5BF928B" name="7d_tradway_trollbark.trx" dlsize="1213993" size="14453594" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9481469F38F1326C11176D5EBADC4C0AE807DDDF" downloadHash="1BDDEF67FE94EAC0E9C56B3A66EB8A2A23E6B679" name="7d_tradway_trollbark.trx" dlsize="2946977" size="15627218" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -625,7 +625,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="42FB0DF89ED94FE1D602A4533E90FB99D9F83BD6" downloadHash="0D99DE82AEB80052811A32CB7667FCC4C9413BD1" name="6d_tradeway.trx" dlsize="1063346" size="14479152" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="59652C273AAA83511FD79683782163E0CF17E1F1" downloadHash="43D647A7BB8067686A277E6FF0D106210ED6240D" name="6d_tradeway.trx" dlsize="3250354" size="16572476" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1580,7 +1580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="Tlk" hash="365EC05E4DD03AE38351D31962897EEAA17874AF" downloadHash="8390DB3754682450BC68AB8C41CF5428DB7F4759" name="alfa_acr02.tlk" dlsize="165764" size="1273873" critical="false" exclude="false" urlOverride="">
+  <resource type="Tlk" hash="24D12D7919E76853A876EC22510578ACB10C3899" downloadHash="D25A002DE2213ECEA99F649C95ED2B236DE54374" name="alfa_acr02.tlk" dlsize="165705" size="1273006" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1626,6 +1626,11 @@
     </server-ref>
   </resource>
   <resource type="Hak" hash="070DAE5EBEB797A84C5055E1C738E61813CAD39C" downloadHash="96909D4284AA96877EC6F51BB3A4B224F2FC0465" name="alfa_creatures4.hak" dlsize="422053253" size="1548562764" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>1</string>
+      <string>3</string>
+      </resource>
+  <resource type="Hak" hash="30445F571C17810605C3E921B01FA1657F436EDF" downloadHash="C6F6D8A24AA76A1A5FA5F44DFA36D323FD4B19B7" name="alfa_creatures5.hak" dlsize="18683082" size="70489016" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1775,6 +1780,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="9n_hillsedge_area_hands.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DC7C8280DF9EB217F1A6C21EC58BA80B88B32662" downloadHash="064736406A52733C94861077EC657469A5CED782" name="7e_tradeway_crossroad.trx" dlsize="2892581" size="14982284" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
