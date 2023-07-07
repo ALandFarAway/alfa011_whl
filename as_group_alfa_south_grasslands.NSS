@@ -77,7 +77,7 @@ void main() {
 		else if (nRoll <= 7) ACR_SpawnGroup("alfa_barghest_pack");
 		else if (nRoll <= 10) ACR_SpawnGroup("alfa_cheetah_family");
 		else if (nRoll <= 14) ACR_SpawnGroup("alfa_dire_rat_pack");
-		else if (nRoll <= 22) ACR_SpawnObject("", OBJECT_TYPE_CREATURE); // NEED TO CREATE
+		else if (nRoll <= 22) ACR_SpawnObject("abr_cr_gt_ogre_warr", OBJECT_TYPE_CREATURE); // NEED TO CREATE
 		else if (nRoll <= 25) ACR_SpawnGroup("alfa_gargoyles");
 		else if (nRoll <= 29) ACR_SpawnGroup("alfa_gnoll_hunters");
 		else if (nRoll <= 33) ACR_SpawnGroup("alfa_goblin_patrol");
@@ -91,7 +91,7 @@ void main() {
 		else if (nRoll <= 81) ACR_SpawnGroup("alfa_nomads"); // NEED TO CREATE nomads
 		else if (nRoll <= 85) ACR_SpawnGroup("alfa_ogre_gang");
 		else if (nRoll <= 89) ACR_SpawnGroup("alfa_orc_patrol");
-		else if (nRoll <= 92) ACR_SpawnGroup("alfa_"); //NEED TO CREATE trolls
+		else if (nRoll <= 92) ACR_SpawnObject("abr_cr_gt_ogre_warr", OBJECT_TYPE_CREATURE);
 		else ACR_SpawnGroup("alfa_wolf_pack");
 	}
 	else	// Is night
