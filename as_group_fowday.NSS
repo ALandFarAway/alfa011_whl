@@ -50,7 +50,7 @@ void main();
 ////////////////////////////////////////////////////////////////////////////////
 
 
-// ALFA 011 Serpent Hills daytime spawns. Teric neDhalir 13/06/09
+// ALFA 011 Forest of Wyrms daytime spawns. arianna0 2/2024
 
 
 
@@ -59,7 +59,7 @@ void main()
 
 {
 
-int ifreq = d20(1) ;
+int ifreq = d20(1);
 int roll6 = d6(1);
 int roll2 = d2(1);
 int roll4 = d4(1);
@@ -73,14 +73,14 @@ int i = 1;
             {
             case 1:
 			do
-            {ACR_SpawnObject("sjc_enc_deer", OBJECT_TYPE_CREATURE);
+            {ACR_SpawnObject("abr_cr_a_m_deerred", OBJECT_TYPE_CREATURE);
 				 i++;
 			} while (i <= roll6);
             break;
 			
 			case 2:
 			do
-            {ACR_SpawnObject("sjc_enc_gamebird", OBJECT_TYPE_CREATURE);
+            {ACR_SpawnObject("abr_cr_an_w_gamebi", OBJECT_TYPE_CREATURE);
 				 i++;
 			} while (i <= roll4);
             break;
@@ -92,15 +92,15 @@ int i = 1;
         switch (d3(1))
             {
 			case 1:
-            ACR_SpawnObject("sjc_enc_wyvern", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_dr_wyvern", OBJECT_TYPE_CREATURE);
             break;
 			
 			case 2:
-            ACR_SpawnObject("sjc_enc_giantsnake", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_w_snake_lv", OBJECT_TYPE_CREATURE);
             break;
 			
 			case 3:
-            ACR_SpawnObject("sjc_enc_boar", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_boar", OBJECT_TYPE_CREATURE);
             break;
 			
 	        }
@@ -113,7 +113,7 @@ int i = 1;
 			case 1:
 			do
 			{string sIncrement = IntToString(i);
-			ACR_SpawnObject("sjc_enc_lizardman_" + sIncrement, OBJECT_TYPE_CREATURE);
+			ACR_SpawnObject("abr_cr_hu_lizman_" + sIncrement, OBJECT_TYPE_CREATURE);
 				 i++;}
 			while (i <= roll3);
 			break;
@@ -121,7 +121,7 @@ int i = 1;
 			case 2:
 			do
 			{string sIncrement = IntToString(i);
-			ACR_SpawnObject("sjc_enc_skeleton" + sIncrement, OBJECT_TYPE_CREATURE);
+			ACR_SpawnObject("abr_cr_un_skeleton" + sIncrement, OBJECT_TYPE_CREATURE);
 				 i++;}
 			while (i <= roll4);
 			break;
@@ -137,7 +137,7 @@ int i = 1;
 		break;
 		
 		case 2:
-		ACR_SpawnObject("sjc_enc_greendragonjuve", OBJECT_TYPE_CREATURE);
+		ACR_SpawnObject("abr_cr_dragon_grn_juv", OBJECT_TYPE_CREATURE);
 		break;
         }
         }

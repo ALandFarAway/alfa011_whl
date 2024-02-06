@@ -73,8 +73,8 @@ void main() {
 		if (nRoll <= 10) {	//10% Animals
 			int nType = d100();
 			if (nType <= 25) {
-				int nHorses = d3() + 1;
-				for (i = 0; i < nHorses; i++) ACR_SpawnObject("abr_cr_an_horse", OBJECT_TYPE_CREATURE);
+				int nDeer = d3() + 1;
+				for (i = 0; i < nDeer; i++) ACR_SpawnObject("abr_cr_a_m_deerred", OBJECT_TYPE_CREATURE);
 			}
 			else if (nType <= 50) {
 				int nBadgers = d3() + 2;

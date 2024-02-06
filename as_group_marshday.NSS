@@ -72,7 +72,7 @@ int i = 1;
         {
 
             do 
-			{ACR_SpawnObject("sjc_enc_rat", OBJECT_TYPE_CREATURE);
+			{ACR_SpawnObject("abr_cr_an_direrat", OBJECT_TYPE_CREATURE);
     			 i++;
 			} while (i <= roll10);
 
@@ -83,12 +83,12 @@ int i = 1;
         switch (d2(1))
             {
 			case 1:
-            ACR_SpawnObject("sjc_enc_giantsnake", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_w_snake_hv", OBJECT_TYPE_CREATURE);
             break;
 			
 			case 2:
             do 
-			{ACR_SpawnObject("sjc_enc_siv", OBJECT_TYPE_CREATURE);
+			{ACR_SpawnObject("abr_c_an_wolverinedire", OBJECT_TYPE_CREATURE);
     			 i++;
 			} while (i <= roll4);
 			break;
@@ -100,25 +100,25 @@ int i = 1;
         	switch (d3(1))
 			{
 			case 1:
-			ACR_SpawnObject("sjc_enc_mound", OBJECT_TYPE_CREATURE);
+			ACR_SpawnObject("abr_cr_pl_shambmnd", OBJECT_TYPE_CREATURE);
 			break;
 			
 			case 2:
 			do
 			{string sIncrement = IntToString(i);
-			ACR_SpawnObject("sjc_enc_lizardman_" + sIncrement, OBJECT_TYPE_CREATURE);
+			ACR_SpawnObject("abr_cr_hu_lizman_stone" + sIncrement, OBJECT_TYPE_CREATURE);
 				 i++;}
 			while (i <= roll3);
 			break;
 			
 			case 3:
-            ACR_SpawnObject("sjc_enc_direrat", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_ratdire_adv", OBJECT_TYPE_CREATURE);
             break;
 			}            
 
         }
         else
         {
-        ACR_SpawnObject("sjc_plc_spawnplaceholder", OBJECT_TYPE_PLACEABLE);
+        ACR_SpawnObject("abr_pl_co_corpse_", OBJECT_TYPE_PLACEABLE);
         }
         }

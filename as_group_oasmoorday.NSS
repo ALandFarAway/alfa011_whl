@@ -72,14 +72,14 @@ int i = 1;
             {
             case 1:
             do 
-			{ACR_SpawnObject("sjc_enc_deer", OBJECT_TYPE_CREATURE);
+			{ACR_SpawnObject("abr_cr_a_f_deerred", OBJECT_TYPE_CREATURE);
     			 i++;
 			} while (i <= roll6);
             break;
 
             case 2:
 			do
-            {ACR_SpawnObject("sjc_enc_pony", OBJECT_TYPE_CREATURE);
+            {ACR_SpawnObject("abr_cr_an_wpony", OBJECT_TYPE_CREATURE);
 				 i++;
 			} while (i <= roll6);
             break;
@@ -91,13 +91,13 @@ int i = 1;
         switch (d2(1))
             {
             case 1:
-            ACR_SpawnObject("sjc_enc_wolf", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_w_wolf", OBJECT_TYPE_CREATURE);
             break;
 
             case 2:
             do
 			{string sIncrement = IntToString(i);
-			ACR_SpawnObject("sjc_enc_hobgoblin" + sIncrement, OBJECT_TYPE_CREATURE);
+			ACR_SpawnObject("abr_cr_hu_hobgoblin_ftr2" + sIncrement, OBJECT_TYPE_CREATURE);
 				 i++;}
 			while (i <= roll2);
             break;
@@ -107,7 +107,7 @@ int i = 1;
         {
         do
 			{string sIncrement = IntToString(i);
-			ACR_SpawnObject("sjc_enc_skeleton" + sIncrement, OBJECT_TYPE_CREATURE);
+			ACR_SpawnObject("abr_cr_un_skeleton_raider" + sIncrement, OBJECT_TYPE_CREATURE);
 				 i++;}
 			while (i <= roll4);
             
@@ -115,6 +115,6 @@ int i = 1;
         }
         else
         {
-        ACR_SpawnObject("sjc_plc_spawnplaceholder", OBJECT_TYPE_PLACEABLE);
+        ACR_SpawnObject("abr_pl_co_corpse_", OBJECT_TYPE_PLACEABLE);
         }
         }

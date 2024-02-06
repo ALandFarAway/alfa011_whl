@@ -295,7 +295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9F143F2763645DF6B81AC4AADC6E32E1A3E9AF87" downloadHash="B3A939031C4160AC73BFFB026796D9C1F54970EB" name="9m_duskroad_hardbuckler.trx" dlsize="2668039" size="19303587" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D697F15D62F3FE1237E5889C831F80E916D4E22B" downloadHash="81D28A8B44912BE1021CF62EA43B370ECAADE664" name="9m_duskroad_hardbuckler.trx" dlsize="2688188" size="19324807" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -360,7 +360,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C7761990DBA36C90B02F7A33FAB8EDB539331CA2" downloadHash="082B7B217D28535E4163C990463003203511EFBB" name="8l_trielta_trail.trx" dlsize="866353" size="14417141" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DCD9DAC089C4BC04EB0141F26F1944112790EC20" downloadHash="D05CF4CB3F8925CAC2A5E1216F232BD2AE14AA4B" name="8l_trielta_trail.trx" dlsize="1225366" size="18008027" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -520,7 +520,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="894AA6C5CD9D6E0A040BC5109F3AA1C99F480F6F" downloadHash="57DB5C3E395D6E228C9F57714CEE4C6DBCDB958B" name="8n_hillsedge_area_rivergate.trx" dlsize="3536124" size="21048674" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="59A1410C0B4CAC2BE6186EBB0D12A4159AD8BB67" downloadHash="3FC5B92C200A341E830D32AF62410CA2EEB2328C" name="8n_hillsedge_area_rivergate.trx" dlsize="3546286" size="21062063" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1561,6 +1561,16 @@
     </server-ref>
   </resource>
   <resource type="Tlk" hash="24D12D7919E76853A876EC22510578ACB10C3899" downloadHash="D25A002DE2213ECEA99F649C95ED2B236DE54374" name="alfa_acr02.tlk" dlsize="165705" size="1273006" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1B6E67A208A3AD95DD48EB920CF46EB87D25CE01" downloadHash="C26F99CCEE4A4F83112EEFDC90C299E0C4456E5B" name="8m_treilta_trail_orc.trx" dlsize="3975429" size="19253193" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9F799EED3089D3057A41233ED2D84CEFC186FC64" downloadHash="63CD47E063E49E8BB255BA6A52DB5785D72A86C0" name="8m_treilta_trail_int.trx" dlsize="226639" size="228052" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

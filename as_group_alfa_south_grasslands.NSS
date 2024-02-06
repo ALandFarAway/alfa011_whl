@@ -158,7 +158,7 @@ zombie 2
 		else if (nRoll <= 6) ACR_SpawnGroup("alfa_orc_patrol");
 		else if (nRoll <= 6) ACR_SpawnGroup("alfa_shadow_gang");
 		else if (nRoll <= 6) ACR_SpawnObject("abr_cr_ou_shadowmastiff", OBJECT_TYPE_CREATURE);
-		else if (nRoll <= 6) ACR_SpawnObject("", OBJECT_TYPE_CREATURE); // NEED TO CREATE
+		else if (nRoll <= 6) ACR_SpawnObject("abr_cr_dragon_grn_juv", OBJECT_TYPE_CREATURE); // NEED TO CREATE
 		else if (nRoll <= 6) ACR_SpawnObject("", OBJECT_TYPE_CREATURE); // NEED TO CREATE
 		else if (nRoll <= 6) ACR_SpawnObject("abr_cr_un_vampirespawn", OBJECT_TYPE_CREATURE);
 		else if (nRoll <= 6) ACR_SpawnGroup("alfa_wight_gang");
