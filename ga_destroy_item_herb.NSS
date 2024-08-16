@@ -47,6 +47,9 @@ void main( string sItemTag ) {
 
 	// Fire Fern Frond: 10gp, 5xp, CR 5
 	nGP += ConsumeReward( oPC, "firefernfrond", 10, 5.0f, 5.0f );
+	
+	// Rogue Morsel: 2gp, 1xp, CR 1
+	nGP += ConsumeReward( oPC, "it_rogue_morsel", 2, 1.0f, 1.0f );
 
 	// Seaweed: 10gp, 5xp, CR 5
 	nGP += ConsumeReward( oPC, "seaweed", 10, 5.0f, 5.0f );

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <resource type="DirectoryEntry" hash="B287D7A23522F1715E6300136691154063307742" downloadHash="751705A22D4B98D4ED7745BB07BDD314948B6F5D" name="9g_boareskyr bridge_ext.trx" dlsize="4737229" size="19445337" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="432B03EF06EF84514BDEBDC20E80E8DEE2C4A6A9" downloadHash="64F779ACC48BB4130B620D601353EA5BCFD48F8A" name="9g_boareskyr bridge_ext.trx" dlsize="4717756" size="19427114" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -10,7 +10,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A35CC1F3917AD2A4ED0C5EA1F8428F7739B5A585" downloadHash="2B467BC54DE600753D3CCB182987EE2889DF8ACD" name="9e_trollhills_kheldrivver_int.trx" dlsize="332319" size="335740" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="092E91DC626AD866CA6B2821AE91F28A50EE7F5B" downloadHash="29BF42021068D35F4063A43BA34D391DDFA6AD98" name="9e_trollhills_kheldrivver_int.trx" dlsize="340644" size="386996" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -30,7 +30,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7835A078278E6098FF2EB68230A0E21846F44F4C" downloadHash="37C98B5BA843B0DB4E967807DAAE38E31E93FF6D" name="9e_trollhills_kheldrivver.trx" dlsize="3157708" size="17302422" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DDA93C53BC4FAD48419AF312BD2CC4AF1EC07FF2" downloadHash="449FADDD086E824CE1C66311DC2478E650780BE3" name="9e_trollhills_kheldrivver.trx" dlsize="3420971" size="17187052" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -110,12 +110,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="639C17D2287A41BE7DDCE5054C1C1488BA40BDB8" downloadHash="2FE1311E27ACAE0C6B850236ABD4DFDF641C8D31" name="6n_drawn_swords.trx" dlsize="3290004" size="18989930" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="14E53A97D97640B8A8579BAE4508B7702C703A13" downloadHash="D0435F3E7408BA5E026C663C83266FECFFC5E9A0" name="6n_drawn_swords.trx" dlsize="5829987" size="25186475" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="625455C7211239B0CB13292AAED721E81E05BAE9" downloadHash="E322D98BB860DA2BC9E0F61AE242B3A23791924E" name="8i_serpentscowl_ext.trx" dlsize="6123891" size="22408665" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6E757309DC61B210386CF24E2F8E433B5C553CB5" downloadHash="4AFF65142702918BFA49B0A17A76641E2A91B9CB" name="8i_serpentscowl_ext.trx" dlsize="6124263" size="22408836" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -140,7 +140,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4FE6E0F7F1F19A2793C205235717A074557731A2" downloadHash="38A2ACFE16CCDC3C351FC92E7BFDA4EF92B21A4D" name="9l_trielta_trail_hills.trx" dlsize="846478" size="14406968" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5126AC53C7F81C1AFA74214C872006403F2F051C" downloadHash="3FDA07FDAA1A3236A54C8B0C835A754067BB77A7" name="9l_trielta_trail_hills.trx" dlsize="3171746" size="15943061" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -170,7 +170,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ABF8E1882DE36B4E1714CA7BB7A4200A0F6BDB6B" downloadHash="C6AADB3590C6E958D562D27AE6D32A6D801FB40D" name="8p_road_corm_orp.trx" dlsize="3239453" size="19205155" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8E1A1FA64691CF5074D07F20E2DB3FA9D5E732AD" downloadHash="A20FCC5218A984DE1DA341C85DE0CF6F30EED228" name="8p_road_corm_orp.trx" dlsize="3247980" size="19219086" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -235,7 +235,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C72796AF9D709B4F08B0A795FACFAAD8DB673CF9" downloadHash="E9C922FE6E52E4A70CC60BE78C6371237A013EB5" name="9q_hluthvar_town_ext.trx" dlsize="2671021" size="9555286" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="474026D0BE5546292B9FA59FD420A8773E523AD3" downloadHash="0DC71F7DA3DDF9DE46B7A815E5725AD2F5DAC133" name="9q_hluthvar_town_ext.trx" dlsize="2689250" size="9570636" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -245,7 +245,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1826CE9AB71D044F28753F3FDF8EBBCEF6EFC9F4" downloadHash="3FC84E272AB9F03C3A099C678326E863F09F0325" name="5b_tradeway.trx" dlsize="2780238" size="15896278" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FA9E0D7E6ECF4140FA8164EE832BF57010ACC727" downloadHash="19217ECF1D3625E5D5ABF5478155527A87226DAF" name="5b_tradeway.trx" dlsize="2770421" size="15877356" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -255,7 +255,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8C3C08F45130972FD5808B1D7DF33527CEB5D5A1" downloadHash="D6358CC40955585AB9B2BC3F7B4F06C22E6800D9" name="8e_tradeway_coastway.trx" dlsize="2873723" size="14910336" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8E2C46CB24E68DB81BA1E5FC825AE08DAA70ACC0" downloadHash="C267369D930D97E7576F2B8420741B57A67E17B4" name="8e_tradeway_coastway.trx" dlsize="2889349" size="14935590" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -295,7 +295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D697F15D62F3FE1237E5889C831F80E916D4E22B" downloadHash="81D28A8B44912BE1021CF62EA43B370ECAADE664" name="9m_duskroad_hardbuckler.trx" dlsize="2688188" size="19324807" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AC74E25C74D06EA16F3D2379BAACAB414D37D1AD" downloadHash="9FC002FCA60DDBAD189B28E3317AFD593B986A85" name="9m_duskroad_hardbuckler.trx" dlsize="2906476" size="19321015" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -435,7 +435,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D5953391F19D72B6593A84A1B5AAF6E2E5FE480F" downloadHash="83DC0E5ECF91C3383C70643F41C648154BE291FA" name="9q_road_hluthvar.trx" dlsize="2356756" size="18651542" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="76A5CFB83402BDB29FCAEB636C7115B5E9019D83" downloadHash="E7117406F9AC6B568C939BB5870A8504B03598F1" name="9q_road_hluthvar.trx" dlsize="3476234" size="19912260" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -445,7 +445,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A79A5C153BB2B2D11A2A56A440BF4965D3C5E122" downloadHash="4B2EE1E6D3E27AF681B35631BEB43308925575DE" name="8o_hillsedge_area_reaching.trx" dlsize="4411178" size="21184185" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3F3CE594CC66BF0CC95EE886B9E4A4D38A1CAD5E" downloadHash="40AD7227E770D85E3003B6C3E560A73779E930BE" name="8o_hillsedge_area_reaching.trx" dlsize="4405735" size="21183348" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -520,7 +520,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="59A1410C0B4CAC2BE6186EBB0D12A4159AD8BB67" downloadHash="3FC5B92C200A341E830D32AF62410CA2EEB2328C" name="8n_hillsedge_area_rivergate.trx" dlsize="3546286" size="21062063" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ACFA7383B2991F9D806352E75BAE8B117FE13563" downloadHash="ABBB182A66829CD9065C7DD80AFF1E60EB3F6234" name="8n_hillsedge_area_rivergate.trx" dlsize="3690758" size="21065336" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -535,7 +535,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C899F2F00F2D385CA7C42C8818C5BBBBA9FF12DF" downloadHash="A961D24140115E5E43EA4F3B7430447E1E26F42A" name="9m_hardbuckler_town.trx" dlsize="1995794" size="12894163" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AF0ED0EEBFE8999DD552DD6B39BF80F2F7D2B358" downloadHash="F555F1D8A55D8CDE3D0500F58B438A7F939BCBCD" name="9m_hardbuckler_town.trx" dlsize="1998360" size="12897497" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -555,7 +555,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="29D0EB7EEEBDED369D4320101EA15300BDA54960" downloadHash="D5F8537A73F927C186083DB57191653EE9A9B20A" name="7n_river_reaching.trx" dlsize="1373417" size="18628766" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AC84B2192BD3ED133F01081817724CEC1847A9F5" downloadHash="87D1C0C9087A256C5BE0B5874F63A6494379AEA5" name="7n_river_reaching.trx" dlsize="4383330" size="21077409" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -605,12 +605,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CEB89D98E0B2FF7695BA8385B1541691DB515DD2" downloadHash="CB3BDF63206C18C1046EB8F00A15EDBE1CEFAEC9" name="9q_hulthvar_town_int.trx" dlsize="213968" size="215347" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="53BE6F6F124A8991A33EB2D821FC2C8DB3AEF661" downloadHash="7E9423A2275C3CBE5A040FD1B16E11C171E128F3" name="9q_hulthvar_town_int.trx" dlsize="356983" size="359720" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="44684EAE43914055266AD4E573D0BC31BFEDFB68" downloadHash="FED8464C2A2A16C6273A9BABF7FF3DF6A8A729B6" name="8q_far_hills.trx" dlsize="3105623" size="18714943" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3B440A572A8127044E04A1AEA36DE93FD1F6440C" downloadHash="9726854FA3C47A4293828862DF71673B8341FFAE" name="8q_far_hills.trx" dlsize="3321428" size="19258976" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -620,7 +620,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DAAA36E5C766A7A3BD14D650905EB57B87CF5403" downloadHash="41D4BB6A09933601763985CF5DA35CF924C2A172" name="7p_trail_north.trx" dlsize="3401482" size="18863956" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F196E2458C210A545A3A3C84CD74EB8EF9A95D09" downloadHash="402A01B117A4A5D7613BAA98756DF97D65F6C6A5" name="7p_trail_north.trx" dlsize="3654027" size="19616829" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -635,7 +635,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="36E4E3204135E01283734F91436AA2287D312F68" downloadHash="740FF5CBEDB9B86AEFBABD3B224CD1AFE8C010B8" name="6p_skullgorge1.trx" dlsize="5035711" size="20718953" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C43D8E09314E7CD43512CFFA1DD6CF2FC3897602" downloadHash="FA0C04B5ED84A4C1F2AF19F3A8BA94C7B191CE63" name="6p_skullgorge1.trx" dlsize="5124879" size="20957849" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -655,7 +655,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6F6D57347D94C294B39658C99B36FA6C796FDD05" downloadHash="9671081B42BA8C924099DDB1D72BA4673F97A616" name="6o_mouth_skullgorge.trx" dlsize="3444331" size="19519238" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B0919F94A3555FA73D9049006EF84FE392BCC901" downloadHash="23BCC9431F3E977E0DFFBCDC0FA0B89559DDA4BB" name="6o_mouth_skullgorge.trx" dlsize="3485769" size="19535509" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1565,12 +1565,82 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1B6E67A208A3AD95DD48EB920CF46EB87D25CE01" downloadHash="C26F99CCEE4A4F83112EEFDC90C299E0C4456E5B" name="8m_treilta_trail_orc.trx" dlsize="3975429" size="19253193" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8F95365A9F6E54B3161411FC509954AABA02D061" downloadHash="95CA81D0E94FF470D95D361B7EED30384E0A8C5F" name="8m_treilta_trail_orc.trx" dlsize="4377070" size="20452988" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="9F799EED3089D3057A41233ED2D84CEFC186FC64" downloadHash="63CD47E063E49E8BB255BA6A52DB5785D72A86C0" name="8m_treilta_trail_int.trx" dlsize="226639" size="228052" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6990972248A0B76899D710E7FEEA2A8AB91ABBB6" downloadHash="CA6751B09E8DB40DA68B081E08DA178A0E3C9893" name="9p_reaching_wood.trx" dlsize="3372830" size="20112803" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="05FB9F0B0EB1594DA9A394B423E558ADFC4B066B" downloadHash="3F5ED7913A336C3F93954A7E7776609C22717DF4" name="8l_kelemvor_temple_int.trx" dlsize="50736" size="50975" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="262B2E26ED605E3FDD6A9261AF1CAAB5BF663867" downloadHash="A1411745CABF0CC405518DCAB1884186F9F04A1A" name="9f_coastway_town.trx" dlsize="3779972" size="18924561" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="03498522C8D653768C392E1E7EEC66EF74824358" downloadHash="3ACA5A254BB8F6F541237D4BAF51E0DA16494C5D" name="8l_trielta_trail_tmpl.trx" dlsize="4266688" size="20169889" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B7A5FE1D5104DC0490114A457C2A39C22ECDDDBC" downloadHash="167B83FBA16B13023D86BDC802E59F570AE8E510" name="9m_hardbuckler_town_int.trx" dlsize="139200" size="139987" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A9C3D09A55265EABAEFC69D8ADD3546B314F42B1" downloadHash="FF4403EE3BFF7C69C4C031454EB5808A9BD63731" name="9k_treilta_trail-forest_wyrms.trx" dlsize="3719807" size="16582456" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="EAAE9BF3CC5EC34B59CE5022B7B8978CFA99E996" downloadHash="906EC21050D3626A22049B1434A8B62F59B68613" name="8L_trielta_trail_int.trx" dlsize="77699" size="120358" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7F73B4246019409B6632D88338862E0EDF7F20AC" downloadHash="71A1BA03B9F23DB21E2970C6B834F91B25E374A3" name="7n_river_reaching_int.trx" dlsize="344599" size="614073" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="6n_drawn_swords.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="7n_river_reaching.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="8n_hillsedge_area_rivergate.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="9p_reaching_wood.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="9p_reaching_wood_plains.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="9q_road_hluthvar.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

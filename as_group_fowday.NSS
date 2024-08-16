@@ -80,7 +80,7 @@ int i = 1;
 			
 			case 2:
 			do
-            {ACR_SpawnObject("abr_cr_an_w_gamebi", OBJECT_TYPE_CREATURE);
+            {ACR_SpawnObject("abr_cr_an_w_gamebird", OBJECT_TYPE_CREATURE);
 				 i++;
 			} while (i <= roll4);
             break;
@@ -96,11 +96,11 @@ int i = 1;
             break;
 			
 			case 2:
-            ACR_SpawnObject("abr_cr_an_w_snake_lv", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_w_snake_sv", OBJECT_TYPE_CREATURE);
             break;
 			
 			case 3:
-            ACR_SpawnObject("abr_cr_an_boar", OBJECT_TYPE_CREATURE);
+            ACR_SpawnObject("abr_cr_an_boar0h", OBJECT_TYPE_CREATURE);
             break;
 			
 	        }
@@ -133,7 +133,7 @@ int i = 1;
 		switch (d2(1))
         {
 		case 1:
-		ACR_SpawnObject("sjc_enc_ytpureblood", OBJECT_TYPE_CREATURE);
+		ACR_SpawnObject("sjc_ytpureblood", OBJECT_TYPE_CREATURE);
 		break;
 		
 		case 2:

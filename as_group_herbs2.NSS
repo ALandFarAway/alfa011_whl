@@ -52,9 +52,8 @@ void main() {
 	int spawned = 1;
 
 	switch (Random(13)) {
-		// 7.7% - Skullcap
-		case 0:
-			ACR_SpawnObject("010_herb_herb5", OBJECT_TYPE_PLACEABLE);
+		// 7.7% - Rogue's Morsel
+			ACR_SpawnObject("010_herb_shroom3", OBJECT_TYPE_PLACEABLE);
 			break;
 		// 15.4% - Fire Fern
 		case 1:

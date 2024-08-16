@@ -21,6 +21,7 @@ int StartingConditional()
 	if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"it_elderberry"))) return TRUE;
 	if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"it_henbane"))) return TRUE;
 	if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"it_skullcap"))) return TRUE;
+		if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"it_rogue_morsel"))) return TRUE;
   
    // return GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),sItem));
     

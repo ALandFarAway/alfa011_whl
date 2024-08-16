@@ -71,7 +71,7 @@ int i = 1;
         if (ifreq <= 13)
         {
         do 
-		{ACR_SpawnObject("abr_cr_an_w_bat", OBJECT_TYPE_CREATURE);
+		{ACR_SpawnObject("abr_cr_an_w_bat_nighthunter1", OBJECT_TYPE_CREATURE);
     	i++;
 		} while (i <= roll10);
 		}
@@ -127,7 +127,7 @@ int i = 1;
 		switch (d2(1))
         {
 		case 1:
-		ACR_SpawnObject("sjc_enc_ytpureblood", OBJECT_TYPE_CREATURE);
+		ACR_SpawnObject("sjc_ytpureblood", OBJECT_TYPE_CREATURE);
 		break;
 		
 		case 2:

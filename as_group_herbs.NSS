@@ -56,6 +56,8 @@ void main() {
 		// 35.7% - Garnishcap
 		case 0:
 		case 1:
+		ACR_SpawnObject("010_herb_shroom3", OBJECT_TYPE_PLACEABLE);
+			break;
 		case 2:
 		case 3:
 		case 4:

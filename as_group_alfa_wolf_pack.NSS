@@ -7,5 +7,5 @@ void main() {
 	int nWolves = d10() + 6;
 	int i;
 	
-	for (i = 0; i < nWolves; i++) ACR_SpawnObject("abr_cr_an_wild_wolf", OBJECT_TYPE_CREATURE);
+	for (i = 0; i < nWolves; i++) ACR_SpawnObject("abr_cr_an_w_wolf", OBJECT_TYPE_CREATURE);
 }

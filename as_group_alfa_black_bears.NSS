@@ -57,5 +57,5 @@ void main() {
 	int nBears = d2();
 	int i;
 	
-	for (i = 0; i < nBears; i++) ACR_SpawnObject("abr_cr_an_wild_blackbear", OBJECT_TYPE_CREATURE);
+	for (i = 0; i < nBears; i++) ACR_SpawnObject("abr_cr_an_w_blackbear", OBJECT_TYPE_CREATURE);
 }

@@ -32,6 +32,12 @@ void main()
 		nSurv = 8;
 		sMsg = "This mushroom's cap gives off an odd glow, though it looks far too fragile to pick.";
 		sRef = "it_gloomshroom";
+			}
+	else if (sTag == "010_herb_shroom3") {
+		nHeal = (Random(2)*2)-1;
+		nSurv = (Random(2)*2)-1;
+		sMsg = "This mushroom looks tasty, but it seems to delicate to harvest.";
+		sRef = "it_rogue_morsel";
 	}
 	else if (sTag == "010_herb_spell0") {
 		nSpell = 3;
