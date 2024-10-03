@@ -76,7 +76,7 @@ void main() {
     SetGlobalInt(_ACR_SETTINGS_SERVER_ID, 11);
 	//SetGlobalInt(_ACR_SETTINGS_SERVER_REGION, 3559);
 	SetGlobalString(_ACR_SETTINGS_SERVER_NAME, "ALFA 011 Western Heartlands");
-	SetGlobalString(_ACR_SETTINGS_SERVER_IP, "whl.alandfaraway.info:5121");
+	SetGlobalString(_ACR_SETTINGS_SERVER_IP, "64.27.48.137:5121:");
 
     // Custom code goes below this line.
 
