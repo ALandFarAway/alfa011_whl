@@ -685,7 +685,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C43D8E09314E7CD43512CFFA1DD6CF2FC3897602" downloadHash="FA0C04B5ED84A4C1F2AF19F3A8BA94C7B191CE63" name="6p_skullgorge1.trx" dlsize="5124879" size="20957849" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A5C335E34AB93DC2F760C2C60D73069A717EEBA5" downloadHash="D4FE57EFE8090403ACAE3EF28871D4D296A52C50" name="6p_skullgorge1.trx" dlsize="5134374" size="20978074" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -695,7 +695,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8026E104935B9126443D43DDDAB30302B9D3D8C2" downloadHash="572E0646F8FFA7B8A8AAD6B21450846485D7966A" name="5c_kanaglym.trx" dlsize="1102370" size="3298794" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5C98D3D8752F7E7A8478E6E9086ACBA5D878B8F1" downloadHash="E4BEF3478CD44CBBC7380D202419EC3F04309547" name="5c_kanaglym.trx" dlsize="1093458" size="3292876" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -720,7 +720,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BD74404A5024197142F99AA8029A50030C2AFCC4" downloadHash="DFA1D9C3DACC567FD9BD930E0835B325F6DDDF8F" name="8n_hillsedge_thievesguild.trx" dlsize="76164" size="76820" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1CD187F400381C1AA9CDBEAC55EEF162792B17A5" downloadHash="4C55A5B245E10C7D86FCA402BBA5F5EA1228FC80" name="8n_hillsedge_thievesguild.trx" dlsize="74214" size="74897" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
