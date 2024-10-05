@@ -10,7 +10,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="432B03EF06EF84514BDEBDC20E80E8DEE2C4A6A9" downloadHash="64F779ACC48BB4130B620D601353EA5BCFD48F8A" name="9g_boareskyr bridge_ext.trx" dlsize="4717756" size="19427114" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B287D7A23522F1715E6300136691154063307742" downloadHash="751705A22D4B98D4ED7745BB07BDD314948B6F5D" name="9g_boareskyr bridge_ext.trx" dlsize="4737229" size="19445337" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -115,12 +115,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FA0EA15BD0969706B02A3D4B5CB78F3B25834681" downloadHash="E3FB4856C203AA00AA21DE871B91465ED52AEA50" name="unlinked_generic_mines.trx" dlsize="828654" size="3188532" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0FDC8272E4DC4C7FBDCF858C91F51177E2471C1E" downloadHash="2FF33BD37F77DE8B24CA9004D57B5D2FEF78230C" name="unlinked_generic_mines.trx" dlsize="827101" size="3189609" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9F799EED3089D3057A41233ED2D84CEFC186FC64" downloadHash="63CD47E063E49E8BB255BA6A52DB5785D72A86C0" name="8m_treilta_trail_int.trx" dlsize="226639" size="228052" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CA52662D1E1021F56749185631E550EB96E05623" downloadHash="3E22BEEDFF1ACE1DD6DD9F985A32FC60868BA5EC" name="8m_treilta_trail_int.trx" dlsize="226360" size="227710" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -270,7 +270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E49D0F8FE5A03F7EEFB63D53133EA2EE11F5C7E3" downloadHash="D9F02A1B63C0751216458B5148897B475228CC85" name="9q_hluthvar_town_ext.trx" dlsize="2691321" size="9571608" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BF061950B65569B6A0025A5424AFCA960B4A8513" downloadHash="71BF9C6F855D030D759DB685BB5EAF44B7FE99C1" name="9q_hluthvar_town_ext.trx" dlsize="2685623" size="9565230" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1805,6 +1805,11 @@
     <server-ref>
       <string>1</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="F517583AD7D82B72F66F301B1A697B08E14E9771" downloadHash="6E6C09C5981E5740703E78131B5940CE5CA3FDB2" name="9g_boareskyr bridge_ext1.trx" dlsize="4746060" size="19457154" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
