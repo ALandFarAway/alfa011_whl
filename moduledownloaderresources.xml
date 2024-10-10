@@ -10,7 +10,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B287D7A23522F1715E6300136691154063307742" downloadHash="751705A22D4B98D4ED7745BB07BDD314948B6F5D" name="9g_boareskyr bridge_ext.trx" dlsize="4737229" size="19445337" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DE02797C72F14A796D262A9028F8C82515015C72" downloadHash="C794FA7800EEFDB201B951F294DEFD7AA274227E" name="9g_boareskyr bridge_ext.trx" dlsize="4743488" size="19461561" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1807,7 +1807,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F517583AD7D82B72F66F301B1A697B08E14E9771" downloadHash="6E6C09C5981E5740703E78131B5940CE5CA3FDB2" name="9g_boareskyr bridge_ext1.trx" dlsize="4746060" size="19457154" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F44CC89C929FFB48DB37FEA2B8557E166D735336" downloadHash="58B1B6206EB1610F1E7B2EDE142E32A3991F996F" name="9g_boareskyr bridge_ext1.trx" dlsize="4743894" size="19455076" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

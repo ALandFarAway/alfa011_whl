@@ -34,7 +34,7 @@ const int ACR_SERVER_ID = 11;
 const string ACR_SERVER_NAME = "ALFA 011 Western Heartlands";
 
 // This is the ip address of the server.
-const string ACR_SERVER_IP = "64.38.164.81:5121";
+const string ACR_SERVER_IP = "64.27.48.137:5121";
 
 //AL made me do it - set server region for languages??
 const int ACR_SERVER_REGION = 3559;
