@@ -15,7 +15,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="092E91DC626AD866CA6B2821AE91F28A50EE7F5B" downloadHash="29BF42021068D35F4063A43BA34D391DDFA6AD98" name="9e_trollhills_kheldrivver_int.trx" dlsize="340644" size="386996" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8856D70A401BDB86BCB00734F6E50C94CFB75D64" downloadHash="EA297A5FA983B86F54EC4FFBFCF1AAE4F02DA02F" name="9e_trollhills_kheldrivver_int.trx" dlsize="340948" size="387185" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -35,7 +35,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DDA93C53BC4FAD48419AF312BD2CC4AF1EC07FF2" downloadHash="449FADDD086E824CE1C66311DC2478E650780BE3" name="9e_trollhills_kheldrivver.trx" dlsize="3420971" size="17187052" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2B1987C08D98AB40D45D672DD758FECAAE9A1847" downloadHash="0A27C12B4CD53B83B7C67CF7B4D196096F6E8F00" name="9e_trollhills_kheldrivver.trx" dlsize="3477364" size="17200271" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -535,7 +535,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8D991943AFA4CBBE7B78C3A8C42C12025B3C0FE2" downloadHash="BCDCDC057EDA1FFEE4F5ACCA4AF01714F6E769C1" name="8n_hillsedge_bentbows.trx" dlsize="6958" size="6947" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7268E2EE8EDF2D0B763F73649FE98B78DC30B8B7" downloadHash="3AE63464638C916FBC93F20AABA9C0AB6B1F1D3E" name="8n_hillsedge_bentbows.trx" dlsize="6953" size="6945" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -695,7 +695,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5C98D3D8752F7E7A8478E6E9086ACBA5D878B8F1" downloadHash="E4BEF3478CD44CBBC7380D202419EC3F04309547" name="5c_kanaglym.trx" dlsize="1093458" size="3292876" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5D2C2FBE23625901BEBC189B7504C7695D9C8D5F" downloadHash="5D37F76CA1FA8D9E780880F40014FB46F11F3930" name="5c_kanaglym.trx" dlsize="1093933" size="3292873" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1808,6 +1808,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="F44CC89C929FFB48DB37FEA2B8557E166D735336" downloadHash="58B1B6206EB1610F1E7B2EDE142E32A3991F996F" name="9g_boareskyr bridge_ext1.trx" dlsize="4743894" size="19455076" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="90B3B2E17485DB5D2EC575D0C511849D3639D53F" downloadHash="C0801453A495CC3BD90BEC52635002699AEC9A95" name="8n_hillsedge_int_merch.trx" dlsize="126343" size="126989" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

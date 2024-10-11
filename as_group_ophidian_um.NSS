@@ -66,7 +66,7 @@ if (iPercent <= 25)
 	{         
 
 			do 
-			{ACR_SpawnObject("sjc_enc_ophidian", OBJECT_TYPE_CREATURE);
+			{ACR_SpawnObject("abr_c_mh_ophidian3", OBJECT_TYPE_CREATURE);
     		i++;
 			} while (i <= iRoll);
     }       
