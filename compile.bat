@@ -1,4 +1,3 @@
 del *.ncs
 del *.ndb
-NWNScriptCompiler.exe -e -v1.70 -o -h "%userprofile%\Documents\Neverwinter Nights 2" -m alfa011_whl -n "C:\Program Files (x86)\GOG Galaxy\Games\NWN2 Complete" .\*.nss -y
-
+NWNScriptCompiler.exe -e -v1.70 -o -h "C:\NWN2user\modules" -m alfa011_whl -n "C:\NWN2user\modules" .\*.nss -y
