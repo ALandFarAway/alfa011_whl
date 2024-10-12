@@ -35,7 +35,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2B1987C08D98AB40D45D672DD758FECAAE9A1847" downloadHash="0A27C12B4CD53B83B7C67CF7B4D196096F6E8F00" name="9e_trollhills_kheldrivver.trx" dlsize="3477364" size="17200271" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8F80B125F34826018EF5B0DAE80BD74C19E0B635" downloadHash="9BDF3B9B4D7ECFE36EA933FBB314E89AB23596EC" name="9e_trollhills_kheldrivver.trx" dlsize="3474999" size="17195960" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -105,7 +105,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="05FB9F0B0EB1594DA9A394B423E558ADFC4B066B" downloadHash="3F5ED7913A336C3F93954A7E7776609C22717DF4" name="8l_kelemvor_temple_int.trx" dlsize="50736" size="50975" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AE23D13E432242BE6C856B5AE91B81E40A2BD0CF" downloadHash="8E5922C05726F16BC399EA3798CFB005133C0B3D" name="8l_kelemvor_temple_int.trx" dlsize="50764" size="50972" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -415,12 +415,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="03498522C8D653768C392E1E7EEC66EF74824358" downloadHash="3ACA5A254BB8F6F541237D4BAF51E0DA16494C5D" name="8l_trielta_trail_tmpl.trx" dlsize="4266688" size="20169889" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="35E81DB150B58F28642A32F46CD60541654E1321" downloadHash="58ED6E1E4D1F1B2CD1E6878CC6DCEFCBA60314D7" name="8l_trielta_trail_tmpl.trx" dlsize="4235775" size="20140610" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E9A2FB719937FD0BDE507BB9DCECE514ABCB4481" downloadHash="61D6D28A8D63E90DA2FB0D316A3531173E4D5430" name="4n_yarthrain_town_int.trx" dlsize="166379" size="168710" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8B4C81EC765A5811157DCDA89119B1BA09E93F79" downloadHash="692780FC41A2C8DA3DECF4117682A9FA354A9139" name="4n_yarthrain_town_int.trx" dlsize="168451" size="170610" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1812,7 +1812,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="90B3B2E17485DB5D2EC575D0C511849D3639D53F" downloadHash="C0801453A495CC3BD90BEC52635002699AEC9A95" name="8n_hillsedge_int_merch.trx" dlsize="126343" size="126989" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="08697DAA3EFD83CA389A047C73581476B54F31D2" downloadHash="502466C04D021B00B07D5D8C59CEB08259D75F26" name="8n_hillsedge_int_merch.trx" dlsize="145252" size="145951" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DD5C3E35E7E1E8B1DC342F222B64CB34A69C6838" downloadHash="EF9C8FD5FF3D9378A1BC3272CD89E9A9E503550F" name="8n_hillsedge_int_temples.trx" dlsize="247641" size="259002" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
