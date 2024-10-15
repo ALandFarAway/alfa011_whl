@@ -660,7 +660,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B1DA11C2294D3D323340E0C41366A9455C0A043C" downloadHash="B17DF2DFCBDCFA224CE1E6230682E77FB1CB60F6" name="encounter_forestofwyrms.trx" dlsize="2773844" size="10311787" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CB5DAF338A14D3DB2E46C2E9119384D3BB82790C" downloadHash="04ED32FF4F274DD1FA7FC8F1835A8D75C8ABF05E" name="encounter_forestofwyrms.trx" dlsize="2757072" size="10295989" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
