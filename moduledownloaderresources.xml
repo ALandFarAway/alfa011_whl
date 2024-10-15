@@ -650,11 +650,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B7F361237C40901E28598DCA545F4B7A9110A591" downloadHash="7E9423A2275C3CBE5A040FD1B16E11C171E128F3" name="9q_hulthvar_town_int.trx" dlsize="356983" size="345016" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="A7225A3B01620481A228076379E0F38F3D3B51AF" downloadHash="E2A9750A3FFC435DD15D86D635FF66EFD4A94FE9" name="015_excavatedportal.trx" dlsize="1980163" size="8702939" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
