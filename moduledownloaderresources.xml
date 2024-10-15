@@ -10,7 +10,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DE02797C72F14A796D262A9028F8C82515015C72" downloadHash="C794FA7800EEFDB201B951F294DEFD7AA274227E" name="9g_boareskyr bridge_ext.trx" dlsize="4743488" size="19461561" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4797BB816454B573D1ED7789CCCE8579C88F134C" downloadHash="F8C4370D5B3E972E1FE71CF85673948B3573A7F6" name="9g_boareskyr bridge_ext.trx" dlsize="4748784" size="19458022" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -200,7 +200,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8E1A1FA64691CF5074D07F20E2DB3FA9D5E732AD" downloadHash="A20FCC5218A984DE1DA341C85DE0CF6F30EED228" name="8p_road_corm_orp.trx" dlsize="3247980" size="19219086" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A3B8D07E9345BA47FFAF23EBAEE04C3E83271788" downloadHash="A20FCC5218A984DE1DA341C85DE0CF6F30EED228" name="8p_road_corm_orp.trx" dlsize="3247980" size="19220054" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -270,7 +270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BF061950B65569B6A0025A5424AFCA960B4A8513" downloadHash="71BF9C6F855D030D759DB685BB5EAF44B7FE99C1" name="9q_hluthvar_town_ext.trx" dlsize="2685623" size="9565230" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6C8FDDCC5A0B7F0BE9DD1480C2C3068C725F220A" downloadHash="AA71A3B6310F3BDA4AB490EE31A99169A023E27B" name="9q_hluthvar_town_ext.trx" dlsize="2701378" size="9584802" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -555,7 +555,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ACFA7383B2991F9D806352E75BAE8B117FE13563" downloadHash="ABBB182A66829CD9065C7DD80AFF1E60EB3F6234" name="8n_hillsedge_area_rivergate.trx" dlsize="3690758" size="21065336" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3D988AFAB93241DFC5DFAAE0471AF36C2C8E3E20" downloadHash="ABBB182A66829CD9065C7DD80AFF1E60EB3F6234" name="8n_hillsedge_area_rivergate.trx" dlsize="3690758" size="21075519" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -650,7 +650,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="53BE6F6F124A8991A33EB2D821FC2C8DB3AEF661" downloadHash="7E9423A2275C3CBE5A040FD1B16E11C171E128F3" name="9q_hulthvar_town_int.trx" dlsize="356983" size="359720" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B7F361237C40901E28598DCA545F4B7A9110A591" downloadHash="7E9423A2275C3CBE5A040FD1B16E11C171E128F3" name="9q_hulthvar_town_int.trx" dlsize="356983" size="345016" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
