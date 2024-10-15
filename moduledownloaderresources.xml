@@ -270,7 +270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4970D5F4C33B3E1BC0DB6CB9668D326745B5ACE1" downloadHash="D6372A134CC7E2FEBDAE962D5E9B9681059956D2" name="9q_hluthvar_town_ext.trx" dlsize="2664211" size="9547056" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="82813AF5DB4B9B8B879A67C2C2753A718E371A3D" downloadHash="2BE9B59F4841D3FF6AB05B7E833162C32B9AA1BD" name="9q_hluthvar_town_ext.trx" dlsize="2691807" size="9579293" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1817,7 +1817,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F0423B491FD27E404048DA5F5686858171294401" downloadHash="232EB58ED5361E63C40ED5E0A5EE2FD77945C692" name="9q_hlulthvar_town_int.trx" dlsize="382647" size="387071" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="08B0F5213A2868D42C44313CEFFC384AD22C3B82" downloadHash="9BF38F737F6C08C3CAF67DB12DBE0F26843D0234" name="9q_hlulthvar_town_int.trx" dlsize="383367" size="387773" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
