@@ -1822,4 +1822,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="322C10B6D0888B96DF5EB8E27801A4348FA4FC77" downloadHash="F98A28FFB72472A05122557B8F26B4E4CD96ECEF" name="9q_hlulthvar_town_int.trx" dlsize="341989" size="344672" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
