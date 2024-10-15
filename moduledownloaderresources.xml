@@ -130,7 +130,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5BD0940C152DDB074D48CF9CCAB7DB2B3BBB4FA8" downloadHash="1C3C5C8070D1BB251FF0CC37800FC48C17ADA597" name="2o_halfway_inn_int.trx" dlsize="344830" size="347608" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8FE09CA79C6C62DA58D99E88D74127A8229A9EC3" downloadHash="A62D747D2451BB9D876B33AE835E40A0834AB1D6" name="2o_halfway_inn_int.trx" dlsize="349646" size="352449" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -375,7 +375,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E31D0D0C4959E8D1569B7A0051888B0AD9E6EB85" downloadHash="BD268D1E35F352F108F23D3AFF699DA9577A35A7" name="7o_north_river.trx" dlsize="4547265" size="20403612" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4FA5F25EFE21A39D4C2FC3C155769D7BC6ABC568" downloadHash="6C087080B54A6558735E5B0332E1C361B145E0DC" name="7o_north_river.trx" dlsize="4567303" size="20410442" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -475,7 +475,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0B997B286953EBE3F160BA0475BECAA739916898" downloadHash="B5D62EE3B414DA3A9CBD1B683D3B928294CEE277" name="2o_halfway_inn.trx" dlsize="3993366" size="19592140" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="02DE4221A447AD55CD109FECEA3B4D00EDC6C5D1" downloadHash="2090842B3B537E81031C9A9892F05658F7FFADE0" name="2o_halfway_inn.trx" dlsize="3993848" size="19596572" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
