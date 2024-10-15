@@ -555,7 +555,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3D988AFAB93241DFC5DFAAE0471AF36C2C8E3E20" downloadHash="ABBB182A66829CD9065C7DD80AFF1E60EB3F6234" name="8n_hillsedge_area_rivergate.trx" dlsize="3690758" size="21075519" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="216EA82415071F08C41CAB6AE6684A10C7628FFC" downloadHash="2A0D398FF6143262C0782256B06FD28D6AE01649" name="8n_hillsedge_area_rivergate.trx" dlsize="3707772" size="21075966" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
