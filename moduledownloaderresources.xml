@@ -35,7 +35,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8F80B125F34826018EF5B0DAE80BD74C19E0B635" downloadHash="9BDF3B9B4D7ECFE36EA933FBB314E89AB23596EC" name="9e_trollhills_kheldrivver.trx" dlsize="3474999" size="17195960" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="95B2E626C364A90518F320F4D28C932FBC35402E" downloadHash="78F5A744E7305E6123DCE2176645814B11A1F0BD" name="9e_trollhills_kheldrivver.trx" dlsize="3478090" size="17196101" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
