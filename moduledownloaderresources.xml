@@ -75,7 +75,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1E5860356B18BA44C7CC9FD1558DF650827428DE" downloadHash="F48B6A4C8BD83CFD0AB3E6008BA0C7B408BE187F" name="9o_hillsedge_area_vale.trx" dlsize="2900929" size="19184450" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A7FF209244D1CD9837C307ACDCCCEE88AF03AFAA" downloadHash="751697820B7D34737B57B31D068751326DC0239D" name="9o_hillsedge_area_vale.trx" dlsize="2939395" size="19351098" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -200,7 +200,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E12C343BB1DC0F7049FB076CD1EFEDBBA95E211F" downloadHash="245FF2E90C0C671CB66BA7AD4ACF56B7B2142447" name="8p_road_corm_orp.trx" dlsize="3272015" size="19227537" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B5D2133FD3D18FBE68A6006EEC978A31488D60F3" downloadHash="0271F86C9CA2D1290E2C9B9537DC472696F2ADE3" name="8p_road_corm_orp.trx" dlsize="3280400" size="19236180" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -270,7 +270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="82813AF5DB4B9B8B879A67C2C2753A718E371A3D" downloadHash="2BE9B59F4841D3FF6AB05B7E833162C32B9AA1BD" name="9q_hluthvar_town_ext.trx" dlsize="2691807" size="9579293" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EC7081EFDC466302A0D054E52474B8C4C8630D81" downloadHash="287E0A6A4A93E6E3DE71C63494D44DA1B7BCC9B1" name="9q_hluthvar_town_ext.trx" dlsize="2698567" size="9579205" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -515,7 +515,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B7A5FE1D5104DC0490114A457C2A39C22ECDDDBC" downloadHash="167B83FBA16B13023D86BDC802E59F570AE8E510" name="9m_hardbuckler_town_int.trx" dlsize="139200" size="139987" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="18070285F8F5567CB1591386B2CC852A0ADAF5B1" downloadHash="2366DC5DA0B70592E59C4756BCF4D44EEC8AE03D" name="9m_hardbuckler_town_int.trx" dlsize="152677" size="153574" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
