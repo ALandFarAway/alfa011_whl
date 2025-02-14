@@ -75,4 +75,3 @@ return fNewDir;
         	DelayCommand(2.0, SitDown(oSitter, oChair));
         }
 
-

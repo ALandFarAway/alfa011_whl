@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <resource type="DirectoryEntry" hash="8B00B042C05D54D96C55231F1C79EEE15F9DA596" downloadHash="0D92CB52FC84A945AC10004D31A5CEC614888C8F" name="1n_forgotten_forest.trx" dlsize="1055854" size="17945232" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="805ABEE53E4A6841984E48B146AA46012F395452" downloadHash="2F005925976D6A549869176975729128F5D0CAC6" name="1n_forgotten_forest.trx" dlsize="4294342" size="20704018" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -55,7 +55,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="80E967C92CD597FDEEB26B0B7E2160A7D0ED8767" downloadHash="F3223354A1AC6D48BF2E6E31B60BFF964622FF66" name="1o_graycloak_hills.trx" dlsize="4056088" size="19546199" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6CE695B02E8F2D9C48B4ABA94B2851E5F5FC6456" downloadHash="00DB7AD3D4EEFE123AD55471A6309FBFCA74A4FC" name="1o_graycloak_hills.trx" dlsize="4040616" size="19524486" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1818,6 +1818,26 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="08B0F5213A2868D42C44313CEFFC384AD22C3B82" downloadHash="9BF38F737F6C08C3CAF67DB12DBE0F26843D0234" name="9q_hlulthvar_town_int.trx" dlsize="383367" size="387773" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4D06EAEE1886A0B317025692216D087013D59BD4" downloadHash="D883751CEDD258AF5E675D3E1BC15C8874D30B28" name="2m_marsh_chelimber.trx" dlsize="2596054" size="23001180" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="554C31D94DE62F0DE955F5ABFE6F576D567AF1E9" downloadHash="FC39593A3BD6E09E31CA8E66972AD8AF003AA851" name="1n_forgotten_forest_caves.trx" dlsize="330212" size="644631" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3D392C47C0A360810F7B30251EC00725D5CCB19D" downloadHash="B41D119010DD3F60301451EEEF713657ADD5CED4" name="1m_forgotten_forest_marsh.trx" dlsize="4137769" size="22886343" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="150BAF511B44160E486EC8626177ED9F35AEED76" downloadHash="D06EFFAC35B1A83D280F1E2DEBECDD4997A4B37E" name="1m_forgotten_forest_ruin_cstl.trx" dlsize="482691" size="4885990" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
