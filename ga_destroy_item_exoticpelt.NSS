@@ -72,8 +72,8 @@ void main(string sItemTag)
 	nTotalItem = GetNumStackedItems(GetItemPossessedBy( oPC,"it_plot_skin_rzboar" ));
     DestroyItems( oPC,"it_plot_skin_rzboar",nTotalItem,30,25 );
 	
-//	nTotalItem = GetNumStackedItems(GetItemPossessedBy( oPC,"it_plot_hide_wolf" ));
-  //  DestroyItems( oPC,"it_plot_hide_wolf",nTotalItem,5,3 );	
+	nTotalItem = GetNumStackedItems(GetItemPossessedBy( oPC,"abr_it_hrvst_gatorskin" ));
+    DestroyItems( oPC,"it_plot_hide_wolf",nTotalItem,5,3 );	
 	
 //	nTotalItem = GetNumStackedItems(GetItemPossessedBy( oPC,"it_plot_hide_wolverine" ));
    // DestroyItems( oPC,"it_plot_hide_wolverine",nTotalItem,3,2 );	

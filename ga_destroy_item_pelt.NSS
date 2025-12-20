@@ -76,7 +76,10 @@ void main(string sItemTag)
     DestroyItems( oPC,"it_plot_hide_wolf",nTotalItem,5,3 );	
 	
 	nTotalItem = GetNumStackedItems(GetItemPossessedBy( oPC,"it_plot_hide_wolverine" ));
-    DestroyItems( oPC,"it_plot_hide_wolverine",nTotalItem,3,2 );	
+    DestroyItems( oPC,"it_plot_hide_wolverine",nTotalItem,3,2 );
+	
+	nTotalItem = GetNumStackedItems(GetItemPossessedBy( oPC,"abr_it_hrvst_snakeskin1" ));
+    DestroyItems( oPC,"abr_it_hrvst_snakeskin1",nTotalItem,1,1 );	
 	
 	GiveGoldToCreature(oPC,Ggold);
 }

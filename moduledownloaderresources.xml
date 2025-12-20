@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <resource type="DirectoryEntry" hash="805ABEE53E4A6841984E48B146AA46012F395452" downloadHash="2F005925976D6A549869176975729128F5D0CAC6" name="1n_forgotten_forest.trx" dlsize="4294342" size="20704018" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8AE964B0F8B4D8F2E1FA133CC0B9E79CC078D11A" downloadHash="5939C7E55144865F4149D738D4479F874CB6BC17" name="1n_forgotten_forest.trx" dlsize="4298912" size="20708324" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -255,7 +255,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1C240A96A4624D8A406763CE2DAFA44DEFC4F10B" downloadHash="15752BF34A98F7752A0F63736467B3B48DA2DF7A" name="3o_pelleor_prairie.trx" dlsize="4066667" size="21375864" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1727FF7BFF2C1DFDE7D38FD697CDD15B92BAC884" downloadHash="0A28F15C4FE393A6CB2D24016082A46DDBC4003F" name="3o_pelleor_prairie.trx" dlsize="4099906" size="21406345" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -445,7 +445,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="26BBAFF4FF2BA96084DAA05541B8BC07C45EA0D5" downloadHash="FFE05CD9091FFAE495453AD182B60A1AD44E1B13" name="unlinked forestofwyrms.trx" dlsize="2771473" size="10308002" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A7B1119C1EF9FAA14D61FA48E5BE40FDFB60D6BA" downloadHash="A0C7C291F05ABF9D25C44FA6BD982729AFEDDFF0" name="unlinked forestofwyrms.trx" dlsize="2770224" size="10306775" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -475,7 +475,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="02DE4221A447AD55CD109FECEA3B4D00EDC6C5D1" downloadHash="2090842B3B537E81031C9A9892F05658F7FFADE0" name="2o_halfway_inn.trx" dlsize="3993848" size="19596572" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DE937B5C0C343C669166A595DE4B58CDBEEC8FCF" downloadHash="0EBBBD9235C3D4417AC02D75EC5D54B596B4BB1F" name="2o_halfway_inn.trx" dlsize="3991859" size="19590872" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -655,7 +655,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CB5DAF338A14D3DB2E46C2E9119384D3BB82790C" downloadHash="04ED32FF4F274DD1FA7FC8F1835A8D75C8ABF05E" name="encounter_forestofwyrms.trx" dlsize="2757072" size="10295989" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FE7F58A27D506C567DCFC35256F30374EC795559" downloadHash="414C7B3A26ACF147EB2EE9DA1A7BCD14A264CC2B" name="encounter_forestofwyrms.trx" dlsize="2760788" size="10301359" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1822,7 +1822,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4D06EAEE1886A0B317025692216D087013D59BD4" downloadHash="D883751CEDD258AF5E675D3E1BC15C8874D30B28" name="2m_marsh_chelimber.trx" dlsize="2596054" size="23001180" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3B3B9D39C1EDAF359AD2B5B3133BE37367AA147E" downloadHash="AC00CBB6973B59C77CC4E49FF13925653A615AC1" name="2m_marsh_chelimber.trx" dlsize="3459874" size="24984181" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1832,12 +1832,47 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3D392C47C0A360810F7B30251EC00725D5CCB19D" downloadHash="B41D119010DD3F60301451EEEF713657ADD5CED4" name="1m_forgotten_forest_marsh.trx" dlsize="4137769" size="22886343" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="44490E25FBCC86975778E5A73E65686011319CB8" downloadHash="99E73D49910B763E6AABA714428AC9E5C26A8EC6" name="1m_forgotten_forest_marsh.trx" dlsize="4137370" size="22885753" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="150BAF511B44160E486EC8626177ED9F35AEED76" downloadHash="D06EFFAC35B1A83D280F1E2DEBECDD4997A4B37E" name="1m_forgotten_forest_ruin_cstl.trx" dlsize="482691" size="4885990" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="50C0DE6F12F556D33C7B70F611B284292D62238E" downloadHash="ED1CD5E76A381EA4DB82C9075539268DDB9343B4" name="3n_marsh_chem_swordgrot.trx" dlsize="3636263" size="22924321" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="84880AB781BD72D3AD0758CA9BAE04EABE1A59E7" downloadHash="5B9559F095E3242E56857772C11270FF6C654F78" name="2m_marsh_chelimber_int.trx" dlsize="326253" size="1001814" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2C6E745C5E3FFC2C43089E902A134346E8B26953" downloadHash="6FC874136974A025B8B5B485D4908BFB5C9302C7" name="4n_backlands_yarthrain1.trx" dlsize="4725445" size="24307026" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7644A4A2AE47A4312DFDE55C74D20D0DDA584872" downloadHash="BFE817FEFFFCD44F9BB493A372934CA2EB3A005E" name="2n_marsh_forest.trx" dlsize="4263755" size="23993710" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1B3ACF1D9E5507D6B3818F9C1E2B7E6FDB933789" downloadHash="6E3C1B44B9133A8DBB4651D654CEFED1A700F493" name="2n_marsh_forest_int.trx" dlsize="581125" size="856830" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E2E894B83D6771CAC13BD8EDF7EBDC944CFF5825" downloadHash="3948B193E14B57EFDF052BCD325FF002A7855F5C" name="3n_swordgrotto_int.trx" dlsize="79045" size="79418" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="3n_marsh_chem_swordgrot.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

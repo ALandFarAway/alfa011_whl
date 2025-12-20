@@ -122,7 +122,7 @@ int i = 1;
 			case 2:
 			do
 			{string sIncrement = IntToString(i);
-			ACR_SpawnObject("abr_cr_hu_lizman_wood" + sIncrement, OBJECT_TYPE_CREATURE);
+			ACR_SpawnObject("abr_cr_hu_lizman_06" + sIncrement, OBJECT_TYPE_CREATURE);
 				 i++;}
 			while (i <= roll3);
 			break;
@@ -139,6 +139,6 @@ int i = 1;
         }
         else
         {
-        ACR_SpawnObject("abr_cr_mh_greenhag", OBJECT_TYPE_CREATURE);
+        ACR_SpawnObject("abr_cr_mhg_minotaur6", OBJECT_TYPE_CREATURE);
 		}
 }
