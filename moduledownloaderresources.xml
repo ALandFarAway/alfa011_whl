@@ -255,7 +255,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1727FF7BFF2C1DFDE7D38FD697CDD15B92BAC884" downloadHash="0A28F15C4FE393A6CB2D24016082A46DDBC4003F" name="3o_pelleor_prairie.trx" dlsize="4099906" size="21406345" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B715B3A4057CD4AADBE7A5376719EB4B7F30DA14" downloadHash="B90DACFBEF2CC77271DA223B41C33ED4C851E057" name="3o_pelleor_prairie.trx" dlsize="4081687" size="21390193" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1842,7 +1842,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="50C0DE6F12F556D33C7B70F611B284292D62238E" downloadHash="ED1CD5E76A381EA4DB82C9075539268DDB9343B4" name="3n_marsh_chem_swordgrot.trx" dlsize="3636263" size="22924321" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="13CA04A309FCF899F4AFBB0660813E494CD0F70C" downloadHash="AFD41700D6358E79E946D0689643018E27E1E821" name="3n_marsh_chem_swordgrot.trx" dlsize="4826128" size="25338593" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1852,7 +1852,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2C6E745C5E3FFC2C43089E902A134346E8B26953" downloadHash="6FC874136974A025B8B5B485D4908BFB5C9302C7" name="4n_backlands_yarthrain1.trx" dlsize="4725445" size="24307026" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0FAB888B7D64BF8082AD20932E49810ADA4AA596" downloadHash="978BD3D8DA8FFAE20C8D5D12643016EC856AA37A" name="4n_backlands_yarthrain1.trx" dlsize="4719116" size="24318510" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
