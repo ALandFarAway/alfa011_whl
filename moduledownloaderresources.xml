@@ -340,7 +340,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="42A3C1D8B675465622C734E82FAEFA1D6C269373" downloadHash="8C98B6CB223A532073EACE9B0876F991167681F5" name="4n_yarthrain_town_ext.trx" dlsize="917004" size="7556176" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2F5067E45753069590B226CA7C07DE7720A3CBE9" downloadHash="E916B6D18CDB42B8E80AC2BCADD0A2A6D09EF6F2" name="4n_yarthrain_town_ext.trx" dlsize="999266" size="7569597" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -420,7 +420,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8B4C81EC765A5811157DCDA89119B1BA09E93F79" downloadHash="692780FC41A2C8DA3DECF4117682A9FA354A9139" name="4n_yarthrain_town_int.trx" dlsize="168451" size="170610" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9E5D30D81891E82F926B5557EF026D671924BCDD" downloadHash="7B95322BE52E5B6153696A67C522BF72C8ABC176" name="4n_yarthrain_town_int.trx" dlsize="230867" size="233392" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
