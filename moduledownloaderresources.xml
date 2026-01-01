@@ -200,7 +200,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B5D2133FD3D18FBE68A6006EEC978A31488D60F3" downloadHash="0271F86C9CA2D1290E2C9B9537DC472696F2ADE3" name="8p_road_corm_orp.trx" dlsize="3280400" size="19236180" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="25851745F0F99BBE63952BF1193C168F4BF6E3DF" downloadHash="5D1320227930ADD197D9B0A796F6688EDA2E0641" name="8p_road_corm_orp.trx" dlsize="3277873" size="19233037" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1873,6 +1873,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="3n_marsh_chem_swordgrot.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="89CC5A58B6BD34CE99B21C16F9486795FC9DDF8B" downloadHash="A034E706F9155F661D24FE5F8ACC338AA255108C" name="8p_corm_orp_int.trx" dlsize="259493" size="268047" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
