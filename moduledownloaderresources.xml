@@ -270,7 +270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EC7081EFDC466302A0D054E52474B8C4C8630D81" downloadHash="287E0A6A4A93E6E3DE71C63494D44DA1B7BCC9B1" name="9q_hluthvar_town_ext.trx" dlsize="2698567" size="9579205" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6934CBBAFA9622AC48B5224D2E01C072A2BE4C32" downloadHash="721BE79CCB393F6D132B4305E28729D6DEC6DA9F" name="9q_hluthvar_town_ext.trx" dlsize="2693764" size="9578209" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -420,7 +420,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9E5D30D81891E82F926B5557EF026D671924BCDD" downloadHash="7B95322BE52E5B6153696A67C522BF72C8ABC176" name="4n_yarthrain_town_int.trx" dlsize="230867" size="233392" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A32F4AD0397045F31FFDC65642B5B98C51B15916" downloadHash="0CA27853A8BD74E0C063F3AB6E0E6D5A45A07991" name="4n_yarthrain_town_int.trx" dlsize="239569" size="242017" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1817,7 +1817,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="08B0F5213A2868D42C44313CEFFC384AD22C3B82" downloadHash="9BF38F737F6C08C3CAF67DB12DBE0F26843D0234" name="9q_hlulthvar_town_int.trx" dlsize="383367" size="387773" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="48E21DBE4BC90A2D17B21A40E406EE111FAF7266" downloadHash="20CD6D611CBAED1B9A2FAF940EDCE3FBC6049AE4" name="9q_hlulthvar_town_int.trx" dlsize="383644" size="388172" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
