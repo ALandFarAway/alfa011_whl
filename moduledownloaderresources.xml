@@ -1852,7 +1852,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0FAB888B7D64BF8082AD20932E49810ADA4AA596" downloadHash="978BD3D8DA8FFAE20C8D5D12643016EC856AA37A" name="4n_backlands_yarthrain1.trx" dlsize="4719116" size="24318510" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FEBA2260AA3C9F0ACA846F978616D57C042C2E9E" downloadHash="BE585A659D72E0A9B84EAAABD7FBB287F2571F36" name="4n_backlands_yarthrain1.trx" dlsize="4747229" size="24344254" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
